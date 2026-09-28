@@ -1,0 +1,65 @@
+:root{
+  --bg:#ffffff; --panel:#f7f8fa; --line:#e3e8ee; --ink:#111827; --muted:#5f6b7a;
+  --accent:#4f46e5; --accent-soft:#eef0fe; --good:#0f9d76; --bad:#d64545;
+  --radius:14px; --shadow:0 1px 2px rgba(16,24,40,.06), 0 8px 24px rgba(16,24,40,.06);
+}
+[data-theme="dark"]{
+  --bg:#0b0e14; --panel:#131822; --line:#232b38; --ink:#e8edf5; --muted:#8b98a9;
+  --accent:#8b87ff; --accent-soft:#1b1f34; --good:#2ee6a8; --bad:#ff7b7b;
+  --shadow:0 8px 30px rgba(0,0,0,.4);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:16px/1.6 ui-sans-serif,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+
+.hero{border-bottom:1px solid var(--line);
+  background:linear-gradient(180deg,var(--accent-soft),transparent 70%);padding:0 20px 56px}
+.nav{max-width:920px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;
+  padding:20px 0;gap:12px}
+.brand{font-weight:800;font-size:1.15rem;letter-spacing:-.01em;color:var(--ink)}
+.brand span{color:var(--accent)}
+.nav-links{display:flex;align-items:center;gap:16px}
+.nav-links a{color:var(--muted);font-size:.9rem}
+.theme-toggle{background:transparent;border:1px solid var(--line);color:var(--ink);
+  border-radius:999px;padding:6px 12px;font-size:.82rem;cursor:pointer}
+.theme-toggle:hover{border-color:var(--accent)}
+
+.hero-inner{max-width:720px;margin:32px auto 0;text-align:center}
+.kicker{text-transform:uppercase;letter-spacing:.12em;font-size:.7rem;color:var(--muted);margin:0 0 18px}
+h1{font-size:clamp(1.9rem,5vw,3rem);line-height:1.08;letter-spacing:-.02em;margin:0 0 16px}
+.sub{color:var(--muted);font-size:1.05rem;margin:0 auto 30px;max-width:560px}
+.signup{display:flex;gap:8px;max-width:440px;margin:0 auto}
+.signup input{flex:1;padding:14px 16px;border-radius:12px;border:1px solid var(--line);
+  background:var(--bg);color:var(--ink);font-size:.95rem}
+.signup button{padding:14px 20px;border:none;border-radius:12px;background:var(--accent);
+  color:#fff;font-weight:700;cursor:pointer;white-space:nowrap}
+.signup button:hover{filter:brightness(1.08)}
+.fineprint{color:var(--muted);font-size:.78rem;margin-top:12px}
+
+main{max-width:920px;margin:0 auto;padding:48px 20px 80px}
+h2{font-size:1.2rem;letter-spacing:-.01em;margin:0 0 18px}
+.sample-head{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.badge{font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;background:var(--accent-soft);
+  color:var(--accent);padding:4px 10px;border-radius:999px}
+
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+  padding:18px;margin-bottom:12px;box-shadow:var(--shadow)}
+.card h3{margin:0 0 8px;font-size:1rem;line-height:1.35}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.82rem;color:var(--muted)}
+.chip{background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:3px 10px}
+.up{color:var(--good);font-weight:600}
+.down{color:var(--bad);font-weight:600}
+.insights{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--accent);
+  border-radius:0 var(--radius) var(--radius) 0;padding:18px;margin-bottom:22px}
+.insights li{margin-bottom:10px}
+.insights li:last-child{margin-bottom:0}
+.note{font-size:.78rem;color:var(--muted);font-style:italic;margin-top:14px}
+
+.how{margin-top:56px}
+.how ol{padding-left:20px}
+.how li{margin-bottom:10px;color:var(--ink)}
+.method{color:var(--muted);font-size:.86rem;margin-top:18px}
+footer{border-top:1px solid var(--line);padding:26px 20px;text-align:center;
+  color:var(--muted);font-size:.82rem}
