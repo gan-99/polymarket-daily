@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Odds Shift — what prediction markets moved overnight</title>
+<meta name="description" content="A 3-minute daily brief on the biggest moves in prediction markets — politics, crypto, tech and culture. Written for humans, not traders.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="hero">
+  <nav class="nav">
+    <a class="brand" href="/">Odds<span>Shift</span></a>
+    <div class="nav-links">
+      <a href="#latest">Latest issue</a>
+      <a href="#how">How it works</a>
+      <button id="themeToggle" class="theme-toggle" type="button">🌙 Dark</button>
+    </div>
+  </nav>
+  <div class="hero-inner">
+    <p class="kicker">Daily · 3-minute read · free</p>
+    <h1>What the crowd got wrong overnight.</h1>
+    <p class="sub">The biggest odds moves in prediction markets — politics, crypto, tech and culture —
+      explained in plain English. No hype, no tips, just what moved and why it matters.</p>
+    <form class="signup" id="signup">
+      <input type="email" placeholder="you@email.com" required>
+      <button type="submit">Get the daily brief</button>
+    </form>
+    <p class="fineprint">One email each weekday morning. Unsubscribe in a click.</p>
+  </div>
+</header>
+
+<main>
+  <section class="sample" id="latest">
+    <div class="sample-head">
+      <h2>Today's brief</h2>
+      <span class="badge">sample issue</span>
+    </div>
+    <pre class="issue" id="issue">Loading today's markets…</pre>
+  </section>
+
+  <section class="how" id="how">
+    <h2>How it works</h2>
+    <ol>
+      <li><b>Every night,</b> a script pulls every liquid prediction market and ranks what actually moved.</li>
+      <li><b>Near-resolved markets are dropped.</b> If a market is already at 97%, it isn't news.</li>
+      <li><b>One market per event.</b> You get signal, not eight variations of the same game.</li>
+      <li><b>A human writes the voice.</b> The data is machine-collected; the judgement and the jokes are not.</li>
+    </ol>
+    <p class="method">Odds are market prices, not probabilities. We don't give financial advice and we
+      don't tell you what to bet on. If that's what you're after, this isn't for you.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Odds Shift · built by one person and a script · not financial advice</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
