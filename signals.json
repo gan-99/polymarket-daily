@@ -1,0 +1,156 @@
+[
+  {
+    "q": "Will Elon Musk post 65-89 tweets from September 26 to September 28, 2026?",
+    "score": 2.4868349170082835,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.645,
+    "fair": 0.645,
+    "vol24": 104543.17324699998
+  },
+  {
+    "q": "Will CF Am\u00e9rica win on 2026-09-27?",
+    "score": 1.3512911901874363,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.795,
+    "fair": 0.795,
+    "vol24": 203536.2776510001
+  },
+  {
+    "q": "Asian Games Men: India vs Afghanistan",
+    "score": 1.3487422447639181,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 198896.922669
+  },
+  {
+    "q": "Will Club Necaxa win on 2026-09-27?",
+    "score": 0.9376657412280288,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.035,
+    "fair": 0.035,
+    "vol24": 81578.76577099999
+  },
+  {
+    "q": "LoL: KT Rolster Challengers vs Galions (BO5) - World Star Challengers Invitational Playoffs",
+    "score": 0.5195181661414663,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.535,
+    "fair": 0.535,
+    "vol24": 93175.02905199998
+  },
+  {
+    "q": "Will the price of Bitcoin be above $86,000 on September 28?",
+    "score": 0.4063194899033734,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0315,
+    "fair": 0.0315,
+    "vol24": 102820.68716000003
+  },
+  {
+    "q": "US x Iran ceasefire continues through September 30?",
+    "score": 0.40351404844661437,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.935,
+    "fair": 0.935,
+    "vol24": 353441.00821299996
+  },
+  {
+    "q": "Will Ethereum dip to $2,250 by December 31, 2026?",
+    "score": 0.2783921849644256,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.285,
+    "fair": 0.28500000000000003,
+    "vol24": 127014.500638
+  },
+  {
+    "q": "Will Bitcoin dip to $80,000 in September?",
+    "score": 0.2562491838419469,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.186,
+    "fair": 0.186,
+    "vol24": 79105.92215999999
+  },
+  {
+    "q": "Will Bitcoin reach $90,000 in September?",
+    "score": 0.1926001783378886,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0275,
+    "fair": 0.0275,
+    "vol24": 97240.30361200002
+  },
+  {
+    "q": "Spread: Eagles (-4.5)",
+    "score": 0.18712444105850207,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 139932.639297
+  },
+  {
+    "q": "Will the price of Bitcoin be above $82,000 on September 28?",
+    "score": 0.17175455465370962,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.9205,
+    "fair": 0.9205000000000001,
+    "vol24": 106702.04605
+  },
+  {
+    "q": "LoL: T1 Academy vs Cupid Esports (BO5) - World Star Challengers Invitational Playoffs",
+    "score": 0.1516896386278723,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.915,
+    "fair": 0.915,
+    "vol24": 58530.363686
+  },
+  {
+    "q": "Spread: Eagles (-3.5)",
+    "score": 0.10000134756079995,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.505,
+    "fair": 0.505,
+    "vol24": 316280.737432
+  },
+  {
+    "q": "Will China PR win on 2026-10-02?",
+    "score": 0.08662364711831302,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0245,
+    "fair": 0.024499999999999997,
+    "vol24": 54377.352103
+  }
+]

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Odds Shift — Signals Dashboard</title>
+<meta name="description" content="Ranked prediction-market signals and calibration data. Which odds should you distrust?">
+<link rel="stylesheet" href="styles.css">
+<style>
+  .toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:20px}
+  .toolbar select,.toolbar input{padding:10px 12px;border-radius:10px;border:1px solid var(--line);
+    background:var(--bg);color:var(--ink);font-size:.9rem}
+  .sig{border-left:3px solid var(--accent)}
+  .tag{display:inline-block;font-size:.68rem;text-transform:uppercase;letter-spacing:.05em;
+    padding:3px 9px;border-radius:999px;background:var(--accent-soft);color:var(--accent);margin:2px 4px 2px 0}
+  .tag.warn{background:rgba(214,69,69,.12);color:var(--bad)}
+  .tag.ok{background:rgba(15,157,118,.12);color:var(--good)}
+  .score{font-variant-numeric:tabular-nums;color:var(--muted);font-size:.82rem}
+  .grid{display:grid;gap:14px}
+  @media(min-width:760px){.grid{grid-template-columns:1fr 1fr}}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+    padding:18px;box-shadow:var(--shadow)}
+  .panel h3{margin:0 0 10px;font-size:.95rem}
+  .bar{height:8px;border-radius:999px;background:var(--line);overflow:hidden;margin-top:6px}
+  .bar span{display:block;height:100%;background:var(--accent)}
+  .note{color:var(--muted);font-size:.82rem}
+</style>
+</head>
+<body>
+<header class="hero">
+  <nav class="nav">
+    <a class="brand" href="index.html">Odds<span>Shift</span></a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="#" id="refresh">Refresh</a>
+      <button id="themeToggle" class="theme-toggle" type="button">🌙 Dark</button>
+    </div>
+  </nav>
+  <div class="hero-inner">
+    <p class="kicker">signals dashboard</p>
+    <h1>Which odds should you distrust?</h1>
+    <p class="sub">Ranked by signal strength: move size, liquidity and spread, with the reason
+      spelled out. Sports excluded. Analytics, not advice.</p>
+  </div>
+</header>
+
+<main style="max-width:1000px">
+  <div class="toolbar">
+    <label class="note">Filter by tag</label>
+    <select id="tagFilter"><option value="">All signals</option></select>
+    <label class="note">Min 24h volume</label>
+    <select id="volFilter">
+      <option value="0">Any</option><option value="50000">$50k+</option>
+      <option value="100000">$100k+</option><option value="250000">$250k+</option>
+    </select>
+    <span class="note" id="count"></span>
+  </div>
+
+  <div class="grid" id="signals"></div>
+
+  <section class="panel" style="margin-top:26px">
+    <h3>Calibration — how accurate is the crowd?</h3>
+    <p class="note" id="calib">Loading…</p>
+    <div id="calibBands" class="grid"></div>
+  </section>
+</main>
+
+<script src="dashboard.js"></script>
+</body>
+</html>
