@@ -1,0 +1,50 @@
+name: Odds Shift — daily engine run
+
+# Runs in GitHub's cloud on a schedule: no laptop, no server, no cost.
+# Every run regenerates the digest, the signals, and appends a calibration snapshot,
+# then commits the results — which republishes the website automatically.
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 21:00 UTC = 07:00 Sydney (AEST). Adjust for daylight saving if you like.
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate digest
+        run: |
+          python3 digest.py --top 5 --out issue-today.md --json latest.json
+
+      - name: Generate signals
+        run: |
+          python3 engine.py --top 10 --out signals.md --json signals.json --snapshot
+
+      - name: Extend calibration dataset
+        continue-on-error: true
+        run: |
+          python3 history.py --limit 60 --pages 12 --min-age-days 7 --min-volume 20000
+
+      - name: Publish to site folder
+        run: |
+          mkdir -p site
+          cp latest.json signals.json site/ 2>/dev/null || true
+          cp issue-today.md signals.md calibration.md site/ 2>/dev/null || true
+
+      - name: Commit results
+        run: |
+          git config user.name "odds-shift-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git diff --quiet && git diff --cached --quiet || git commit -m "Daily run: digest, signals, calibration snapshots"
+          git push
