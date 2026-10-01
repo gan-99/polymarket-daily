@@ -1,156 +1,164 @@
 [
   {
-    "q": "Will Elon Musk post 65-89 tweets from September 26 to September 28, 2026?",
-    "score": 2.4868349170082835,
+    "q": "Will Anthropic have the best AI model at the end of October 2026?",
+    "score": 2.691644031618584,
     "tags": [
       "information move"
     ],
-    "price": 0.645,
-    "fair": 0.645,
-    "vol24": 104543.17324699998
+    "price": 0.185,
+    "fair": 0.185,
+    "vol24": 117817.47386600001
   },
   {
-    "q": "Will CF Am\u00e9rica win on 2026-09-27?",
-    "score": 1.3512911901874363,
+    "q": "Will Google have the best AI model at the end of October 2026?",
+    "score": 2.6908121501123436,
     "tags": [
       "information move"
     ],
-    "price": 0.795,
-    "fair": 0.795,
-    "vol24": 203536.2776510001
+    "price": 0.754,
+    "fair": 0.754,
+    "vol24": 144696.709921
   },
   {
-    "q": "Asian Games Men: India vs Afghanistan",
-    "score": 1.3487422447639181,
+    "q": "Will Bitcoin dip to $82,500 in September?",
+    "score": 1.9694248326072632,
     "tags": [
       "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0565,
+    "fair": 0.056499999999999995,
+    "vol24": 265554.872366
+  },
+  {
+    "q": "Curitiba: Joao Lucas Da Silva vs Matheus Pucinelli de Almeida",
+    "score": 1.4950329050737066,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.065,
+    "fair": 0.065,
+    "vol24": 246558.62039100006
+  },
+  {
+    "q": "Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs",
+    "score": 0.6732417090218722,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.87,
+    "fair": 0.87,
+    "vol24": 163001.35399300003
+  },
+  {
+    "q": "Atlanta Dream vs. Washington Mystics",
+    "score": 0.5424993442235958,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.735,
+    "fair": 0.735,
+    "vol24": 266067.488366
+  },
+  {
+    "q": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+    "score": 0.5318171297911528,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.335,
+    "fair": 0.335,
+    "vol24": 707925.9205710005
+  },
+  {
+    "q": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+    "score": 0.5219221050828715,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.655,
+    "fair": 0.655,
+    "vol24": 550988.2883400003
+  },
+  {
+    "q": "UFC 332: Marcus McGhee vs. Bernardo Sopaj (Bantamweight, Prelims)",
+    "score": 0.36741360233927983,
+    "tags": [
       "genuine disagreement"
     ],
     "price": 0.495,
     "fair": 0.495,
-    "vol24": 198896.922669
+    "vol24": 56853.42420600001
   },
   {
-    "q": "Will Club Necaxa win on 2026-09-27?",
-    "score": 0.9376657412280288,
+    "q": "Will the price of Bitcoin be above $86,000 on October 1?",
+    "score": 0.32710170290226065,
     "tags": [
       "long-shot premium"
     ],
     "price": 0.035,
     "fair": 0.035,
-    "vol24": 81578.76577099999
+    "vol24": 58389.08391999999
   },
   {
-    "q": "LoL: KT Rolster Challengers vs Galions (BO5) - World Star Challengers Invitational Playoffs",
-    "score": 0.5195181661414663,
+    "q": "Iran charges Hormuz fees by September 30?",
+    "score": 0.30611658086919674,
     "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 93175.02905199998
-  },
-  {
-    "q": "Will the price of Bitcoin be above $86,000 on September 28?",
-    "score": 0.4063194899033734,
-    "tags": [
-      "information move",
       "long-shot premium"
     ],
-    "price": 0.0315,
-    "fair": 0.0315,
-    "vol24": 102820.68716000003
+    "price": 0.0295,
+    "fair": 0.0295,
+    "vol24": 80638.801903
   },
   {
-    "q": "US x Iran ceasefire continues through September 30?",
-    "score": 0.40351404844661437,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.935,
-    "fair": 0.935,
-    "vol24": 353441.00821299996
-  },
-  {
-    "q": "Will Ethereum dip to $2,250 by December 31, 2026?",
-    "score": 0.2783921849644256,
+    "q": "Another Fed rate hike in 2026?",
+    "score": 0.18210526928696386,
     "tags": [
       "information move"
     ],
-    "price": 0.285,
-    "fair": 0.28500000000000003,
-    "vol24": 127014.500638
+    "price": 0.815,
+    "fair": 0.815,
+    "vol24": 101833.49296800006
   },
   {
-    "q": "Will Bitcoin dip to $80,000 in September?",
-    "score": 0.2562491838419469,
+    "q": "Will Elon Musk post 160-179 tweets from September 25 to October 2, 2026?",
+    "score": 0.16717885494699233,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0235,
+    "fair": 0.0235,
+    "vol24": 130822.621296
+  },
+  {
+    "q": "US x Iran ceasefire continues through October 31?",
+    "score": 0.13487481029591558,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.555,
+    "fair": 0.555,
+    "vol24": 88187.04414999999
+  },
+  {
+    "q": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "score": 0.1304852915785819,
     "tags": [
       "trend divergence"
     ],
-    "price": 0.186,
-    "fair": 0.186,
-    "vol24": 79105.92215999999
+    "price": 0.245,
+    "fair": 0.245,
+    "vol24": 60877.044144
   },
   {
-    "q": "Will Bitcoin reach $90,000 in September?",
-    "score": 0.1926001783378886,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0275,
-    "fair": 0.0275,
-    "vol24": 97240.30361200002
-  },
-  {
-    "q": "Spread: Eagles (-4.5)",
-    "score": 0.18712444105850207,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 139932.639297
-  },
-  {
-    "q": "Will the price of Bitcoin be above $82,000 on September 28?",
-    "score": 0.17175455465370962,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.9205,
-    "fair": 0.9205000000000001,
-    "vol24": 106702.04605
-  },
-  {
-    "q": "LoL: T1 Academy vs Cupid Esports (BO5) - World Star Challengers Invitational Playoffs",
-    "score": 0.1516896386278723,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.915,
-    "fair": 0.915,
-    "vol24": 58530.363686
-  },
-  {
-    "q": "Spread: Eagles (-3.5)",
-    "score": 0.10000134756079995,
+    "q": "Will Portugal win on 2026-10-01?",
+    "score": 0.09148559057530924,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.505,
-    "fair": 0.505,
-    "vol24": 316280.737432
-  },
-  {
-    "q": "Will China PR win on 2026-10-02?",
-    "score": 0.08662364711831302,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0245,
-    "fair": 0.024499999999999997,
-    "vol24": 54377.352103
+    "price": 0.485,
+    "fair": 0.485,
+    "vol24": 107573.04063200002
   }
 ]
