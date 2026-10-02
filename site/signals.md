@@ -1,70 +1,69 @@
-# Odds Shift — Signals (Thu 01 Oct 2026 00:15)
+# Odds Shift — Signals (Fri 02 Oct 2026 00:20)
 
-_59 markets · 43 non-sports · 16 carrying a signal · analytics, not advice_
+_64 markets · 47 non-sports · 21 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
+### Anguilla vs. Antigua and Barbuda: O/U 1.5
+price **89.0%** · fair value est. **89.0%** · spread 2.0% · 24h 37.0% · $576k · score 1.78
+- **information move** — 37.0% move on $576k of volume — the market repriced on real money
+  https://polymarket.com/event/conl-aia-atg-2026-10-01-total-1pt5
+
+### Flyers vs. Devils
+price **61.0%** · fair value est. **61.0%** · spread 2.0% · 24h 21.5% · $133k · score 0.92
+- **information move** — 21.5% move on $133k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-phi-nj-2026-10-01
+
+### Israel accuses Iran/proxies of plane stabbing incident by Oct 31?
+price **18.5%** · fair value est. **18.5%** · spread 1.0% · 24h 19.0% · $140k · score 0.89
+- **information move** — 19.0% move on $140k of volume — the market repriced on real money
+  https://polymarket.com/event/israel-accuses-iranproxies-of-plane-stabbing-incident-by-oct-31
+
 ### Will Anthropic have the best AI model at the end of October 2026?
-price **18.5%** · fair value est. **18.5%** · spread 3.0% · 24h 69.0% · $118k · score 2.69
-- **information move** — 69.0% move on $118k of volume — the market repriced on real money
+price **36.5%** · fair value est. **36.5%** · spread 1.0% · 24h 15.5% · $91k · score 0.70
+- **trend divergence** — 24h moved up 15.5% against a down week — something changed
   https://polymarket.com/event/will-anthropic-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841118
 
-### Will Google have the best AI model at the end of October 2026?
-price **75.4%** · fair value est. **75.4%** · spread 2.6% · 24h 65.7% · $145k · score 2.69
-- **information move** — 65.7% move on $145k of volume — the market repriced on real money
-  https://polymarket.com/event/will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120
-
-### Will Bitcoin dip to $82,500 in September?
-price **5.7%** · fair value est. **5.6%** · spread 0.7% · 24h 38.9% · $266k · score 1.97
-- **information move** — 38.9% move on $266k of volume — the market repriced on real money
-- **long-shot premium** — priced 5.7% with $266k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-bitcoin-dip-to-82pt5k-in-september-2026
-
-### Curitiba: Joao Lucas Da Silva vs Matheus Pucinelli de Almeida
-price **6.5%** · fair value est. **6.5%** · spread 1.0% · 24h 30.5% · $247k · score 1.50
-- **information move** — 30.5% move on $247k of volume — the market repriced on real money
-- **long-shot premium** — priced 6.5% with $247k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/atp-silv-almeida-2026-09-30
-
-### Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs
-price **87.0%** · fair value est. **87.0%** · spread 2.0% · 24h 15.5% · $163k · score 0.67
-- **information move** — 15.5% move on $163k of volume — the market repriced on real money
-  https://polymarket.com/event/atp-lehecka-bergs-2026-09-29
-
-### Atlanta Dream vs. Washington Mystics
-price **73.5%** · fair value est. **73.5%** · spread 1.0% · 24h 11.0% · $266k · score 0.54
-- **information move** — 11.0% move on $266k of volume — the market repriced on real money
-  https://polymarket.com/event/wnba-atl-wsh-2026-09-30
-
-### Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
-price **33.5%** · fair value est. **33.5%** · spread 1.0% · 24h 10.0% · $708k · score 0.53
-- **information move** — 10.0% move on $708k of volume — the market repriced on real money
-  https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032
+### Will OpenAI announce another Millennium Prize solution by December 31, 2027?
+price **56.0%** · fair value est. **56.0%** · spread 2.0% · 24h 13.5% · $64k · score 0.54
+- **genuine disagreement** — 56.0% with $64k traded — two sides with conviction
+  https://polymarket.com/event/will-openai-announce-another-millennium-prize-solution-by-december-31-2027
 
 ### Will there be no change in Fed interest rates after the October 2026 meeting?
-price **65.5%** · fair value est. **65.5%** · spread 1.0% · 24h 10.0% · $551k · score 0.52
-- **information move** — 10.0% move on $551k of volume — the market repriced on real money
+price **74.5%** · fair value est. **74.5%** · spread 1.0% · 24h 9.0% · $815k · score 0.48
+- **information move** — 9.0% move on $815k of volume — the market repriced on real money
   https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031
 
-### UFC 332: Marcus McGhee vs. Bernardo Sopaj (Bantamweight, Prelims)
-price **49.5%** · fair value est. **49.5%** · spread 1.0% · 24h 8.5% · $57k · score 0.37
-- **genuine disagreement** — 49.5% with $57k traded — two sides with conviction
-  https://polymarket.com/event/ufc-mar42-ber1-2026-10-03
+### Will Google have the best AI model at the end of October 2026?
+price **63.5%** · fair value est. **63.5%** · spread 0.6% · 24h 10.2% · $86k · score 0.47
+- **trend divergence** — 24h moved down 10.2% against a up week — something changed
+  https://polymarket.com/event/will-google-have-the-best-ai-model-at-the-end-of-october-2026-20260811194841120
 
-### Will the price of Bitcoin be above $86,000 on October 1?
-price **3.5%** · fair value est. **3.5%** · spread 0.2% · 24h 7.0% · $58k · score 0.33
-- **long-shot premium** — priced 3.5% with $58k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/bitcoin-above-86k-on-october-1-2026
+### Will the Fed increase interest rates by 25 bps after the October 2026 meeting?
+price **25.5%** · fair value est. **25.5%** · spread 1.0% · 24h 8.0% · $558k · score 0.42
+- **information move** — 8.0% move on $558k of volume — the market repriced on real money
+  https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032
+
+### Will Lamine Yamal win the 2026 Ballon d'Or?
+price **53.8%** · fair value est. **53.8%** · spread 2.9% · 24h 10.0% · $206k · score 0.41
+- **information move** — 10.0% move on $206k of volume — the market repriced on real money
+- **genuine disagreement** — 53.8% with $206k traded — two sides with conviction
+  https://polymarket.com/event/will-lamine-yamal-win-the-2026-ballon-dor
+
+### Will the price of Bitcoin be above $86,000 on October 2?
+price **17.5%** · fair value est. **17.5%** · spread 1.0% · 24h 9.0% · $108k · score 0.41
+- **information move** — 9.0% move on $108k of volume — the market repriced on real money
+  https://polymarket.com/event/bitcoin-above-86k-on-october-2-2026
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 13 markets, $1.5M traded
-- **10–25%** band: 12 markets, $1.1M traded
-- **25–45%** band: 15 markets, $2.4M traded
-- **45–55%** band: 4 markets, $428k traded
-- **55–75%** band: 10 markets, $1.8M traded
-- **75–90%** band: 4 markets, $519k traded
-- **90–100%** band: 1 markets, $183k traded
+- **0–10%** band: 12 markets, $1.5M traded
+- **10–25%** band: 11 markets, $1.7M traded
+- **25–45%** band: 14 markets, $2.2M traded
+- **45–55%** band: 9 markets, $1.7M traded
+- **55–75%** band: 15 markets, $4.9M traded
+- **75–90%** band: 2 markets, $640k traded
+- **90–100%** band: 1 markets, $134k traded
 
 <!-- Gan: signals above, voice below. -->
 

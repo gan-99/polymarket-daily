@@ -1,164 +1,216 @@
 [
   {
-    "q": "Will Anthropic have the best AI model at the end of October 2026?",
-    "score": 2.691644031618584,
+    "q": "Anguilla vs. Antigua and Barbuda: O/U 1.5",
+    "score": 1.7760249991945458,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.89,
+    "fair": 0.89,
+    "vol24": 575546.37629
+  },
+  {
+    "q": "Flyers vs. Devils",
+    "score": 0.9180261457187593,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.61,
+    "fair": 0.61,
+    "vol24": 133003.660763
+  },
+  {
+    "q": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?",
+    "score": 0.8888137762196178,
     "tags": [
       "information move"
     ],
     "price": 0.185,
     "fair": 0.185,
-    "vol24": 117817.47386600001
+    "vol24": 139881.687492
   },
   {
-    "q": "Will Google have the best AI model at the end of October 2026?",
-    "score": 2.6908121501123436,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.754,
-    "fair": 0.754,
-    "vol24": 144696.709921
-  },
-  {
-    "q": "Will Bitcoin dip to $82,500 in September?",
-    "score": 1.9694248326072632,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.0565,
-    "fair": 0.056499999999999995,
-    "vol24": 265554.872366
-  },
-  {
-    "q": "Curitiba: Joao Lucas Da Silva vs Matheus Pucinelli de Almeida",
-    "score": 1.4950329050737066,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.065,
-    "fair": 0.065,
-    "vol24": 246558.62039100006
-  },
-  {
-    "q": "Japan Open Tennis Championships: Jiri Lehecka vs Zizou Bergs",
-    "score": 0.6732417090218722,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.87,
-    "fair": 0.87,
-    "vol24": 163001.35399300003
-  },
-  {
-    "q": "Atlanta Dream vs. Washington Mystics",
-    "score": 0.5424993442235958,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.735,
-    "fair": 0.735,
-    "vol24": 266067.488366
-  },
-  {
-    "q": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-    "score": 0.5318171297911528,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.335,
-    "fair": 0.335,
-    "vol24": 707925.9205710005
-  },
-  {
-    "q": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-    "score": 0.5219221050828715,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.655,
-    "fair": 0.655,
-    "vol24": 550988.2883400003
-  },
-  {
-    "q": "UFC 332: Marcus McGhee vs. Bernardo Sopaj (Bantamweight, Prelims)",
-    "score": 0.36741360233927983,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.495,
-    "fair": 0.495,
-    "vol24": 56853.42420600001
-  },
-  {
-    "q": "Will the price of Bitcoin be above $86,000 on October 1?",
-    "score": 0.32710170290226065,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.035,
-    "fair": 0.035,
-    "vol24": 58389.08391999999
-  },
-  {
-    "q": "Iran charges Hormuz fees by September 30?",
-    "score": 0.30611658086919674,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0295,
-    "fair": 0.0295,
-    "vol24": 80638.801903
-  },
-  {
-    "q": "Another Fed rate hike in 2026?",
-    "score": 0.18210526928696386,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.815,
-    "fair": 0.815,
-    "vol24": 101833.49296800006
-  },
-  {
-    "q": "Will Elon Musk post 160-179 tweets from September 25 to October 2, 2026?",
-    "score": 0.16717885494699233,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0235,
-    "fair": 0.0235,
-    "vol24": 130822.621296
-  },
-  {
-    "q": "US x Iran ceasefire continues through October 31?",
-    "score": 0.13487481029591558,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.555,
-    "fair": 0.555,
-    "vol24": 88187.04414999999
-  },
-  {
-    "q": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-    "score": 0.1304852915785819,
+    "q": "Will Anthropic have the best AI model at the end of October 2026?",
+    "score": 0.6988778104369416,
     "tags": [
       "trend divergence"
     ],
-    "price": 0.245,
-    "fair": 0.245,
-    "vol24": 60877.044144
+    "price": 0.365,
+    "fair": 0.365,
+    "vol24": 91153.47824099999
   },
   {
-    "q": "Will Portugal win on 2026-10-01?",
-    "score": 0.09148559057530924,
+    "q": "Will OpenAI announce another Millennium Prize solution by December 31, 2027?",
+    "score": 0.5409551597775302,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.56,
+    "fair": 0.56,
+    "vol24": 64340.37076700001
+  },
+  {
+    "q": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+    "score": 0.48364333589175446,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.745,
+    "fair": 0.745,
+    "vol24": 815071.6632530001
+  },
+  {
+    "q": "Will Google have the best AI model at the end of October 2026?",
+    "score": 0.47239270864423255,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.635,
+    "fair": 0.635,
+    "vol24": 85774.30627800002
+  },
+  {
+    "q": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+    "score": 0.4179389314266703,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.255,
+    "fair": 0.255,
+    "vol24": 558032.545906
+  },
+  {
+    "q": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+    "score": 0.41184827340999647,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.5385,
+    "fair": 0.5385,
+    "vol24": 205513.622188
+  },
+  {
+    "q": "Will the price of Bitcoin be above $86,000 on October 2?",
+    "score": 0.41178705317479,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.175,
+    "fair": 0.175,
+    "vol24": 107881.96456900002
+  },
+  {
+    "q": "North Texas vs. Tulsa",
+    "score": 0.2949058636217662,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.565,
+    "fair": 0.565,
+    "vol24": 255038.53020900002
+  },
+  {
+    "q": "Western Kentucky vs. New Mexico State",
+    "score": 0.26338273561650544,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.52,
+    "fair": 0.52,
+    "vol24": 72852.51390199999
+  },
+  {
+    "q": "Spread: Steelers (-3.5)",
+    "score": 0.2258118437881555,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 92865.81762700003
+  },
+  {
+    "q": "Will Anthropic have the highest IPO Market Cap 2026?",
+    "score": 0.2090937027173038,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.5025,
+    "fair": 0.5025,
+    "vol24": 198170.167893
+  },
+  {
+    "q": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "score": 0.2050419552445927,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.386,
+    "fair": 0.386,
+    "vol24": 107855.91456200002
+  },
+  {
+    "q": "US announces end of Iranian blockade by October 31, 2026?",
+    "score": 0.1948661376840454,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.245,
+    "fair": 0.245,
+    "vol24": 228463.53134999998
+  },
+  {
+    "q": "Steelers vs. Browns: O/U 38.5",
+    "score": 0.18894563345974744,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.465,
+    "fair": 0.46499999999999997,
+    "vol24": 157037.05951499997
+  },
+  {
+    "q": "Will Fl\u00e1vio Bolsonaro finish in second place in the first round of the 2026 Brazilian presidential election?",
+    "score": 0.17562665384324644,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.715,
+    "fair": 0.715,
+    "vol24": 67565.74238899999
+  },
+  {
+    "q": "Spread: Steelers (-2.5)",
+    "score": 0.1653922194657603,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.56,
+    "fair": 0.56,
+    "vol24": 468370.414717
+  },
+  {
+    "q": "Steelers vs. Browns: O/U 37.5",
+    "score": 0.13653210173315392,
+    "tags": [
+      "genuine disagreement",
+      "trend divergence"
+    ],
+    "price": 0.505,
+    "fair": 0.505,
+    "vol24": 101431.484563
+  },
+  {
+    "q": "Philadelphia Phillies vs. Atlanta Braves",
+    "score": 0.10642195264302363,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.485,
     "fair": 0.485,
-    "vol24": 107573.04063200002
+    "vol24": 713192.5311639998
   }
 ]
