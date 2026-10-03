@@ -1,69 +1,70 @@
-# Odds Shift — Signals (Sat 03 Oct 2026 00:03)
+# Odds Shift — Signals (Sat 03 Oct 2026 23:26)
 
-_67 markets · 51 non-sports · 27 carrying a signal · analytics, not advice_
+_77 markets · 41 non-sports · 40 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### São Paulo FC vs. Santos FC: O/U 2.5
-price **74.5%** · fair value est. **74.5%** · spread 1.0% · 24h 28.0% · $180k · score 1.34
-- **information move** — 28.0% move on $180k of volume — the market repriced on real money
-  https://polymarket.com/event/bra-sao-san-2026-10-02-total-2pt5
+### Will Vila Nova FC win on 2026-10-03?
+price **92.5%** · fair value est. **92.5%** · spread 1.0% · 24h 63.0% · $80k · score 2.81
+- **asymmetric favourite** — 92.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/bra2-bot-vln-2026-10-03-vln
 
-### Rangers vs. Red Wings
-price **66.5%** · fair value est. **66.5%** · spread 1.0% · 24h 21.0% · $533k · score 1.09
-- **information move** — 21.0% move on $533k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-nyr-det-2026-10-02
+### Will Indiana enact a data center moratorium by December 31, 2028?
+price **15.5%** · fair value est. **15.5%** · spread 1.0% · 24h 22.0% · $334k · score 1.10
+- **information move** — 22.0% move on $334k of volume — the market repriced on real money
+  https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2028
 
-### Liberty vs. Delaware
-price **89.5%** · fair value est. **89.5%** · spread 1.0% · 24h 19.0% · $238k · score 0.93
-- **information move** — 19.0% move on $238k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-librty-del-2026-10-02
+### Will Indiana enact a data center moratorium by December 31, 2027?
+price **9.5%** · fair value est. **9.5%** · spread 1.0% · 24h 18.0% · $2.0M · score 1.03
+- **information move** — 18.0% move on $2.0M of volume — the market repriced on real money
+- **long-shot premium** — priced 9.5% with $2.0M behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2027
 
-### Spread: Liberty (-7.5)
-price **67.5%** · fair value est. **67.5%** · spread 3.0% · 24h 23.0% · $80k · score 0.87
-- **trend divergence** — 24h moved up 23.0% against a down week — something changed
-  https://polymarket.com/event/cfb-librty-del-2026-10-02-spread-away-7pt5
+### Capitals vs. Lightning
+price **21.5%** · fair value est. **21.5%** · spread 1.0% · 24h 21.0% · $113k · score 0.96
+- **information move** — 21.0% move on $113k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-wsh-tb-2026-10-03
 
-### Will the price of Bitcoin be above $84,000 on October 3?
-price **85.5%** · fair value est. **85.5%** · spread 0.7% · 24h 17.1% · $116k · score 0.81
-- **information move** — 17.1% move on $116k of volume — the market repriced on real money
-  https://polymarket.com/event/bitcoin-above-84k-on-october-3-2026
+### Maryland vs. Nebraska
+price **2.6%** · fair value est. **2.6%** · spread 0.7% · 24h 11.8% · $211k · score 0.59
+- **information move** — 11.8% move on $211k of volume — the market repriced on real money
+- **long-shot premium** — priced 2.6% with $211k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/cfb-mary-nebr-2026-10-03
 
-### Spread: Virginia Tech (-2.5)
-price **67.0%** · fair value est. **67.0%** · spread 4.0% · 24h 16.5% · $544k · score 0.68
-- **information move** — 16.5% move on $544k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-pitt-vtech-2026-10-02-spread-home-2pt5
+### Kentucky vs. South Carolina
+price **33.0%** · fair value est. **33.0%** · spread 2.0% · 24h 11.5% · $772k · score 0.56
+- **information move** — 11.5% move on $772k of volume — the market repriced on real money
+  https://polymarket.com/event/cfb-uk-sc-2026-10-03
 
-### Pittsburgh vs. Virginia Tech
-price **32.0%** · fair value est. **32.0%** · spread 2.0% · 24h 11.5% · $179k · score 0.50
-- **information move** — 11.5% move on $179k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-pitt-vtech-2026-10-02
+### Spread: South Carolina (-2.5)
+price **61.5%** · fair value est. **61.5%** · spread 1.0% · 24h 12.0% · $143k · score 0.56
+- **information move** — 12.0% move on $143k of volume — the market repriced on real money
+  https://polymarket.com/event/cfb-uk-sc-2026-10-03-spread-home-2pt5
 
-### Will there be no change in Fed interest rates after the October 2026 meeting?
-price **82.5%** · fair value est. **82.5%** · spread 1.0% · 24h 8.0% · $977k · score 0.44
-- **information move** — 8.0% move on $977k of volume — the market repriced on real money
-  https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031
+### Will Lula win the most votes in the first round of the 2026 Brazil presidential election?
+price **63.5%** · fair value est. **63.5%** · spread 1.0% · 24h 12.0% · $101k · score 0.55
+- **information move** — 12.0% move on $101k of volume — the market repriced on real money
+  https://polymarket.com/event/will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election
 
-### Will Bitcoin reach $88,000 September 28-October 4?
-price **4.6%** · fair value est. **4.6%** · spread 0.8% · 24h 8.9% · $137k · score 0.42
-- **information move** — 8.9% move on $137k of volume — the market repriced on real money
-- **long-shot premium** — priced 4.6% with $137k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-bitcoin-reach-88k-september-28-october-4-2026
+### Will Texas enact a data center moratorium by December 31, 2027?
+price **16.5%** · fair value est. **16.5%** · spread 1.0% · 24h 11.0% · $183k · score 0.53
+- **information move** — 11.0% move on $183k of volume — the market repriced on real money
+  https://polymarket.com/event/will-texas-enact-a-data-center-moratorium-by-december-31-2027
 
-### Counter-Strike: Galorys vs Grêmio Esports (BO3) - CCT South America Series 6 Playoffs
-price **93.5%** · fair value est. **93.5%** · spread 1.0% · 24h 9.0% · $88k · score 0.40
-- **asymmetric favourite** — 93.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/cs2-gls1-grmioe-2026-10-02
+### Kraken vs. Oilers
+price **25.5%** · fair value est. **25.5%** · spread 1.0% · 24h 10.0% · $177k · score 0.48
+- **information move** — 10.0% move on $177k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-sea-edm-2026-10-03
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 16 markets, $2.0M traded
-- **10–25%** band: 11 markets, $1.9M traded
-- **25–45%** band: 15 markets, $2.5M traded
-- **45–55%** band: 7 markets, $676k traded
-- **55–75%** band: 11 markets, $3.0M traded
-- **75–90%** band: 6 markets, $1.8M traded
-- **90–100%** band: 1 markets, $88k traded
+- **0–10%** band: 12 markets, $4.9M traded
+- **10–25%** band: 12 markets, $2.0M traded
+- **25–45%** band: 14 markets, $4.1M traded
+- **45–55%** band: 18 markets, $3.5M traded
+- **55–75%** band: 17 markets, $4.0M traded
+- **75–90%** band: 1 markets, $91k traded
+- **90–100%** band: 3 markets, $380k traded
 
 <!-- Gan: signals above, voice below. -->
 
