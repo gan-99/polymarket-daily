@@ -1,87 +1,76 @@
-# Odds Shift — Sat 03 Oct 2026
+# Odds Shift — Sun 04 Oct 2026
 
-_55 markets screened · 28 non-sports · 23:26 local_
+_24 markets screened · 16 non-sports · 23:42 local_
 
 ## 🔍 Insights of the day
 
-- **Biggest non-sports swing:** Will Vila Nova FC win on 2026-10-03? moved ▲ 63.0% in 24h (now Yes 92.5%, $80k traded).
-- **Where the money is:** Will Indiana enact a data center moratorium by December 31, 2027? — $2.0M in a day (Other), priced 9.5%.
-- **Genuine coin flip:** Army vs. Louisiana Tech at 49.5% with $820k behind it — nobody knows.
-- **Long shot with believers:** Will Indiana enact a data center moratorium by December 31, 2027? priced 9.5% ($2.0M wagered).
-- **Busiest category:** Other (12 markets). Sports excluded from all of the above — 27 sports markets were screened and sit at the bottom.
+- **Biggest non-sports swing:** Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? moved ▼ 22.0% in 24h (now Yes 13.5%, $1.9M traded).
+- **Where the money is:** Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election? — $1.9M in a day (Politics & Elections), priced 13.5%.
+- **Long shot with believers:** 2026 Balance of Power: R Senate, R House priced 7.5% ($462k wagered).
+- **Busiest category:** Politics & Elections (5 markets). Sports excluded from all of the above — 8 sports markets were screened and sit at the bottom.
 
 <!-- Gan: facts above, humour here. The voice is yours. -->
 
 ## 💰 Where the money is (sports excluded)
 
-- **Will Indiana enact a data center moratorium by December 31, 2027?** — Yes 9.5% · $2.0M traded · resolves 2028-01-01
-  https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2027
-- **Will Anthropic announce bankruptcy by December 31, 2027?** — Yes 9.5% · $1.1M traded · resolves 2028-01-01
-  https://polymarket.com/event/will-anthropic-announce-bankruptcy-by-december-31-2027
-- **Army vs. Louisiana Tech** — Army 49.5% · $820k traded · resolves 2026-10-03
-  https://polymarket.com/event/cfb-army-loutch-2026-10-03
-- **Kentucky vs. South Carolina** — Kentucky 33.0% · $772k traded · resolves 2026-10-03
-  https://polymarket.com/event/cfb-uk-sc-2026-10-03
-- **2026 Balance of Power: D Senate, D House** — Yes 64.5% · $448k traded · resolves 2026-11-04
-  https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949
+- **Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?** — Yes 13.5% · $1.9M traded · resolves 2026-10-05
+  https://polymarket.com/event/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election
+- **2026 Balance of Power: R Senate, R House** — Yes 7.5% · $462k traded · resolves 2026-11-04
+  https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537
+- **Will David Lisnard win the 2027 French presidential election?** — Yes 10.5% · $376k traded · resolves 2027-04-19
+  https://polymarket.com/event/will-david-lisnard-win-the-2027-french-presidential-election
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 36.5% · $288k traded · resolves 2026-10-28
+  https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
+- **Will the U.S. invade Iran before 2027?** — Yes 15.5% · $238k traded · resolves 2027-01-01
+  https://polymarket.com/event/will-the-us-invade-iran-before-2027
 
 ## 📈 Geopolitics
 
-- **US x Iran ceasefire continues through October 7?** — Yes 94.5% (▲ 3.5% in 24h) · $82k traded · resolves 2026-10-08
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-7
-- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 35.5% (▲ 2.0% in 24h) · $96k traded · resolves 2026-10-28
+- **US x Iran ceasefire continues through October 31?** — Yes 72.0% (▲ 9.5% in 24h) · $74k traded · resolves 2026-10-31
+  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 36.5% (▲ 1.0% in 24h) · $288k traded · resolves 2026-10-28
   https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
-- **US announces end of Iranian blockade by October 15, 2026?** — Yes 9.5% (▲ 1.0% in 24h) · $152k traded · resolves 2026-10-16
-  https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-october-15-2026
+- **Will the U.S. invade Iran before 2027?** — Yes 15.5% (▼ 1.0% in 24h) · $238k traded · resolves 2027-01-01
+  https://polymarket.com/event/will-the-us-invade-iran-before-2027
+- **US announces end of Iranian blockade by October 31, 2026?** — Yes 22.5% (▲ 1.0% in 24h) · $198k traded · resolves 2026-11-01
+  https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696
 
 ## 📈 Politics & Elections
 
-- **Will Lula win the most votes in the first round of the 2026 Brazil presidential election?** — Yes 63.5% (▼ 12.0% in 24h) · $101k traded · resolves 2026-10-05
-  https://polymarket.com/event/will-lula-win-the-most-votes-in-the-first-round-of-the-2026-brazil-presidential-election
-- **Will Flávio Bolsonaro win the 2026 Brazilian presidential election?** — Yes 64.5% (▲ 8.0% in 24h) · $440k traded · resolves 2026-10-05
-  https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election
-- **Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?** — Yes 29.5% (▲ 4.2% in 24h) · $156k traded · resolves 2026-10-05
-  https://polymarket.com/event/will-luiz-incio-lula-da-silva-finish-in-second-place-in-the-first-round-of-the-2026-brazilian-presidential-election
-- **Will the Democrats win the Texas Senate race in 2026?** — Yes 64.5% (▲ 4.0% in 24h) · $152k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-democrats-win-the-texas-senate-race-in-2026
-- **Will David Lisnard win the 2027 French presidential election?** — Yes 9.2% (▲ 1.3% in 24h) · $234k traded · resolves 2027-04-19
+- **Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?** — Yes 13.5% (▼ 22.0% in 24h) · $1.9M traded · resolves 2026-10-05
+  https://polymarket.com/event/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election
+- **Will the Democratic Party control the Senate after the 2026 Midterm elections?** — Yes 67.5% (▲ 3.0% in 24h) · $111k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections
+- **Will David Lisnard win the 2027 French presidential election?** — Yes 10.5% (▲ 1.3% in 24h) · $376k traded · resolves 2027-04-19
   https://polymarket.com/event/will-david-lisnard-win-the-2027-french-presidential-election
+- **2026 Balance of Power: R Senate, R House** — Yes 7.5% (▲ 1.0% in 24h) · $462k traded · resolves 2026-11-04
+  https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537
+- **Will JD Vance win the 2028 US Presidential Election?** — Yes 20.2% (▼ 0.5% in 24h) · $87k traded · resolves 2028-11-08
+  https://polymarket.com/event/will-jd-vance-win-the-2028-us-presidential-election
 
 ## 📈 Crypto
 
-- **Will Ethereum dip to $2,100 in October?** — Yes 13.5% (▲ 4.0% in 24h) · $182k traded · resolves 2026-11-01
-  https://polymarket.com/event/will-ethereum-dip-to-2100-in-october-2026
-
-## 📈 Tech & AI
-
-- **Will Anthropic announce bankruptcy by December 31, 2027?** — Yes 9.5% (▲ 4.0% in 24h) · $1.1M traded · resolves 2028-01-01
-  https://polymarket.com/event/will-anthropic-announce-bankruptcy-by-december-31-2027
-- **Will OpenAI announce bankruptcy by December 31, 2027?** — Yes 10.5% (▲ 4.0% in 24h) · $92k traded · resolves 2028-01-01
-  https://polymarket.com/event/will-openai-announce-bankruptcy-by-december-31-2027
-
-## 📈 Legal & Courts
-
-- **Any of the Cornell 7 charged with a felony sex crime?** — Yes 32.5% (▼ 4.0% in 24h) · $186k traded · resolves 2027-02-01
-  https://polymarket.com/event/any-of-the-cornell-7-charged-with-a-felony-sex-crime
+- **Will Ethereum dip to $2,250 by December 31, 2026?** — Yes 26.5% (▼ 9.5% in 24h) · $88k traded · resolves 2027-01-01
+  https://polymarket.com/event/will-ethereum-dip-to-2250-by-december-31-2026
 
 ## 🎲 Other movers
 
-- **Will Vila Nova FC win on 2026-10-03?** — Yes 92.5% (▲ 63.0% in 24h) · $80k traded · resolves 2026-10-03
-  https://polymarket.com/event/bra2-bot-vln-2026-10-03-vln
-- **Will Indiana enact a data center moratorium by December 31, 2027?** — Yes 9.5% (▼ 18.0% in 24h) · $2.0M traded · resolves 2028-01-01
-  https://polymarket.com/event/will-indiana-enact-a-data-center-moratorium-by-december-31-2027
-- **Will Missouri enact a data center moratorium by December 31, 2028?** — Yes 24.5% (▼ 13.0% in 24h) · $76k traded · resolves 2029-01-01
-  https://polymarket.com/event/will-missouri-enact-a-data-center-moratorium-by-december-31-2028
+- **Will Haiti win on 2026-10-04?** — Yes 39.5% (▲ 9.5% in 24h) · $118k traded · resolves 2026-10-05
+  https://polymarket.com/event/conl-cri-hai-2026-10-04-hai
+- **Will Spain win on 2026-10-06?** — Yes 77.5% (▲ 6.0% in 24h) · $149k traded · resolves 2026-10-06
+  https://polymarket.com/event/unl-hrv-esp-2026-10-06-esp
+- **Will the Democratic Party control the House after the 2026 Midterm elections?** — Yes 92.5% (▼ 1.0% in 24h) · $233k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections
 
 ---
 
 ## 🏟️ Sports (deliberately last — saturated, low signal)
 
-- Oregon State vs. Colorado State: O/U 61.5 — Over 78.0% (▲ 26.5%) · $91k
-- Capitals vs. Lightning — Capitals 21.5% (▼ 21.0%) · $113k
-- Kraken vs. Oilers — Kraken 25.5% (▼ 10.0%) · $177k
+- Spread: Seahawks (-7.5) — Seahawks 6.0% (▼ 41.5%) · $691k
+- Chiefs vs. Raiders — Chiefs 88.4% (▲ 21.9%) · $4.6M
+- Atlanta Braves vs. Los Angeles Dodgers — Atlanta Braves 31.5% (▼ 10.0%) · $2.3M
 
-_27 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
+_8 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
 
 ---
 
