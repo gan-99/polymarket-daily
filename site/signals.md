@@ -1,73 +1,69 @@
-# Odds Shift — Signals (Sun 04 Oct 2026 23:42)
+# Odds Shift — Signals (Tue 06 Oct 2026 01:36)
 
-_47 markets · 25 non-sports · 17 carrying a signal · analytics, not advice_
+_68 markets · 46 non-sports · 23 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Spread: Chiefs (-4.5)
-price **5.0%** · fair value est. **5.0%** · spread 4.0% · 24h 45.5% · $1.2M · score 1.98
-- **information move** — 45.5% move on $1.2M of volume — the market repriced on real money
-- **long-shot premium** — priced 5.0% with $1.2M behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nfl-kc-lv-2026-10-04-spread-away-4pt5
+### Falcons vs. Saints: O/U 47.5
+price **90.5%** · fair value est. **90.5%** · spread 1.0% · 24h 40.0% · $708k · score 2.13
+- **information move** — 40.0% move on $708k of volume — the market repriced on real money
+- **asymmetric favourite** — 90.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nfl-atl-no-2026-10-06-total-47pt5
 
-### Spread: Seahawks (-7.5)
-price **6.0%** · fair value est. **6.0%** · spread 4.0% · 24h 41.5% · $691k · score 1.73
-- **information move** — 41.5% move on $691k of volume — the market repriced on real money
-- **long-shot premium** — priced 6.0% with $691k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nfl-lac-sea-2026-10-04-spread-home-7pt5
+### Falcons vs. Saints
+price **81.5%** · fair value est. **81.5%** · spread 1.0% · 24h 35.0% · $3.7M · score 2.09
+- **information move** — 35.0% move on $3.7M of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-atl-no-2026-10-06
 
-### Spread: Seahawks (-6.5)
-price **91.5%** · fair value est. **91.5%** · spread 3.0% · 24h 37.0% · $209k · score 1.51
-- **information move** — 37.0% move on $209k of volume — the market repriced on real money
-- **asymmetric favourite** — 91.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/nfl-lac-sea-2026-10-04-spread-home-6pt5
+### Falcons vs. Saints: O/U 48.5
+price **87.0%** · fair value est. **87.0%** · spread 2.0% · 24h 40.5% · $241k · score 1.82
+- **information move** — 40.5% move on $241k of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-atl-no-2026-10-06-total-48pt5
 
-### Spread: Chiefs (-5.5)
-price **5.0%** · fair value est. **5.0%** · spread 4.0% · 24h 42.5% · $72k · score 1.48
-- **long-shot premium** — priced 5.0% with $72k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nfl-kc-lv-2026-10-04-spread-away-5pt5
+### Falcons vs. Saints: O/U 54.5
+price **70.5%** · fair value est. **70.5%** · spread 1.0% · 24h 39.5% · $112k · score 1.81
+- **information move** — 39.5% move on $112k of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-atl-no-2026-10-06-total-54pt5
 
-### Chiefs vs. Raiders
-price **88.4%** · fair value est. **88.5%** · spread 0.9% · 24h 21.9% · $4.6M · score 1.34
-- **information move** — 21.9% move on $4.6M of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-kc-lv-2026-10-04
+### Spread: Falcons (-2.5)
+price **78.5%** · fair value est. **78.5%** · spread 1.0% · 24h 37.5% · $151k · score 1.77
+- **information move** — 37.5% move on $151k of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-away-2pt5
 
-### Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?
-price **13.5%** · fair value est. **13.5%** · spread 1.0% · 24h 22.0% · $1.9M · score 1.26
-- **information move** — 22.0% move on $1.9M of volume — the market repriced on real money
-  https://polymarket.com/event/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election
+### Spread: Saints (-2.5)
+price **14.5%** · fair value est. **14.5%** · spread 1.0% · 24h 33.0% · $450k · score 1.70
+- **information move** — 33.0% move on $450k of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-home-2pt5
 
-### Will Flávio Bolsonaro win the 2026 Brazilian presidential election?
-price **85.5%** · fair value est. **85.5%** · spread 0.7% · 24h 21.3% · $1.9M · score 1.25
-- **information move** — 21.3% move on $1.9M of volume — the market repriced on real money
-  https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election
+### Spread: Saints (-1.5)
+price **15.5%** · fair value est. **15.5%** · spread 3.0% · 24h 34.0% · $1.0M · score 1.57
+- **information move** — 34.0% move on $1.0M of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-home-1pt5
 
-### Chargers vs. Seahawks
-price **4.7%** · fair value est. **4.7%** · spread 0.6% · 24h 19.8% · $1.6M · score 1.16
-- **information move** — 19.8% move on $1.6M of volume — the market repriced on real money
-- **long-shot premium** — priced 4.7% with $1.6M behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nfl-lac-sea-2026-10-04
+### Falcons vs. Saints: O/U 58.5
+price **55.5%** · fair value est. **55.5%** · spread 1.0% · 24h 34.0% · $78k · score 1.51
+- **genuine disagreement** — 55.5% with $78k traded — two sides with conviction
+  https://polymarket.com/event/nfl-atl-no-2026-10-06-total-58pt5
 
-### Atlanta Braves vs. Los Angeles Dodgers
-price **31.5%** · fair value est. **31.5%** · spread 1.0% · 24h 10.0% · $2.3M · score 0.58
-- **information move** — 10.0% move on $2.3M of volume — the market repriced on real money
-  https://polymarket.com/event/mlb-atl-lad-2026-10-04
+### Spread: Falcons (-7.5)
+price **54.5%** · fair value est. **54.5%** · spread 1.0% · 24h 34.0% · $64k · score 1.49
+- **genuine disagreement** — 54.5% with $64k traded — two sides with conviction
+  https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-away-7pt5
 
-### Spread: Raiders (-3.5)
-price **5.5%** · fair value est. **5.5%** · spread 4.8% · 24h 16.0% · $152k · score 0.56
-- **information move** — 16.0% move on $152k of volume — the market repriced on real money
-- **long-shot premium** — priced 5.5% with $152k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nfl-kc-lv-2026-10-04-spread-home-3pt5
+### Will Elon Musk post 200-219 tweets from September 29 to October 6, 2026?
+price **29.9%** · fair value est. **29.9%** · spread 0.1% · 24h 24.5% · $101k · score 1.21
+- **information move** — 24.5% move on $101k of volume — the market repriced on real money
+  https://polymarket.com/event/elon-musk-of-tweets-september-29-october-6-2026-200-219
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 13 markets, $5.2M traded
-- **10–25%** band: 8 markets, $3.3M traded
-- **25–45%** band: 4 markets, $2.8M traded
-- **45–55%** band: 8 markets, $1.2M traded
-- **55–75%** band: 8 markets, $2.3M traded
-- **75–90%** band: 4 markets, $7.9M traded
-- **90–100%** band: 2 markets, $442k traded
+- **0–10%** band: 12 markets, $1.6M traded
+- **10–25%** band: 17 markets, $5.8M traded
+- **25–45%** band: 11 markets, $1.1M traded
+- **45–55%** band: 6 markets, $607k traded
+- **55–75%** band: 8 markets, $668k traded
+- **75–90%** band: 11 markets, $6.1M traded
+- **90–100%** band: 3 markets, $883k traded
 
 <!-- Gan: signals above, voice below. -->
 

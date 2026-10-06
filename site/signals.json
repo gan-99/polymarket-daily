@@ -1,180 +1,237 @@
 [
   {
-    "q": "Spread: Chiefs (-4.5)",
-    "score": 1.9768060592823957,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.05,
-    "fair": 0.05,
-    "vol24": 1209149.0061219996
-  },
-  {
-    "q": "Spread: Seahawks (-7.5)",
-    "score": 1.7309141041009894,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.06,
-    "fair": 0.06,
-    "vol24": 690601.749366
-  },
-  {
-    "q": "Spread: Seahawks (-6.5)",
-    "score": 1.5144743354575074,
+    "q": "Falcons vs. Saints: O/U 47.5",
+    "score": 2.127329896580389,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
-    "price": 0.915,
-    "fair": 0.915,
-    "vol24": 209471.03096899993
+    "price": 0.905,
+    "fair": 0.905,
+    "vol24": 708201.1087700002
   },
   {
-    "q": "Spread: Chiefs (-5.5)",
-    "score": 1.4752805032094591,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.05,
-    "fair": 0.05,
-    "vol24": 72400.49601
-  },
-  {
-    "q": "Chiefs vs. Raiders",
-    "score": 1.341899432286497,
+    "q": "Falcons vs. Saints",
+    "score": 2.0916134754992535,
     "tags": [
       "information move"
     ],
-    "price": 0.8845,
-    "fair": 0.8845000000000001,
-    "vol24": 4609420.079385005
+    "price": 0.815,
+    "fair": 0.815,
+    "vol24": 3746642.331134002
   },
   {
-    "q": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-    "score": 1.257220418049969,
+    "q": "Falcons vs. Saints: O/U 48.5",
+    "score": 1.8162528918647252,
     "tags": [
       "information move"
     ],
-    "price": 0.135,
-    "fair": 0.135,
-    "vol24": 1932421.5210660007
+    "price": 0.87,
+    "fair": 0.87,
+    "vol24": 240706.73703699993
   },
   {
-    "q": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-    "score": 1.2541170954816752,
+    "q": "Falcons vs. Saints: O/U 54.5",
+    "score": 1.8134034712123916,
     "tags": [
       "information move"
     ],
-    "price": 0.8555,
-    "fair": 0.8554999999999999,
-    "vol24": 1928725.6853210009
+    "price": 0.705,
+    "fair": 0.705,
+    "vol24": 112196.80231300001
   },
   {
-    "q": "Chargers vs. Seahawks",
-    "score": 1.1565289064266198,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.047,
-    "fair": 0.047,
-    "vol24": 1554240.095632001
-  },
-  {
-    "q": "Atlanta Braves vs. Los Angeles Dodgers",
-    "score": 0.5778408147513797,
+    "q": "Spread: Falcons (-2.5)",
+    "score": 1.7653636205957564,
     "tags": [
       "information move"
     ],
-    "price": 0.315,
-    "fair": 0.315,
-    "vol24": 2271165.4403829994
+    "price": 0.785,
+    "fair": 0.785,
+    "vol24": 150798.51812000002
   },
   {
-    "q": "Spread: Raiders (-3.5)",
-    "score": 0.5600697411011576,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.055,
-    "fair": 0.055,
-    "vol24": 151580.117744
-  },
-  {
-    "q": "Will Haiti win on 2026-10-04?",
-    "score": 0.437973925618172,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.395,
-    "fair": 0.395,
-    "vol24": 117834.73999400002
-  },
-  {
-    "q": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?",
-    "score": 0.31836796154509356,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.045,
-    "fair": 0.045,
-    "vol24": 100674.80479099997
-  },
-  {
-    "q": "Will Spain win on 2026-10-06?",
-    "score": 0.2821867155469259,
+    "q": "Spread: Saints (-2.5)",
+    "score": 1.6958502591697997,
     "tags": [
       "information move"
     ],
-    "price": 0.775,
-    "fair": 0.775,
-    "vol24": 149080.28186899994
+    "price": 0.145,
+    "fair": 0.14500000000000002,
+    "vol24": 449607.1729719996
   },
   {
-    "q": "Lions vs. Panthers: O/U 51.5",
-    "score": 0.19953522618574082,
+    "q": "Spread: Saints (-1.5)",
+    "score": 1.5721782973836163,
     "tags": [
-      "information move",
-      "genuine disagreement"
+      "information move"
     ],
-    "price": 0.515,
-    "fair": 0.515,
-    "vol24": 307055.800361
+    "price": 0.155,
+    "fair": 0.15500000000000003,
+    "vol24": 1026288.6770860007
   },
   {
-    "q": "Lions vs. Panthers: O/U 50.5",
-    "score": 0.17791918940482873,
+    "q": "Falcons vs. Saints: O/U 58.5",
+    "score": 1.5122387875655623,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.555,
     "fair": 0.555,
-    "vol24": 78121.783484
+    "vol24": 78078.541409
   },
   {
-    "q": "US announces end of Iranian blockade by October 15, 2026?",
-    "score": 0.14287414864144624,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.125,
-    "fair": 0.125,
-    "vol24": 173267.16799399996
-  },
-  {
-    "q": "Lions vs. Panthers: O/U 52.5",
-    "score": 0.13554364950943634,
+    "q": "Spread: Falcons (-7.5)",
+    "score": 1.4855514508586218,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 93310.20876
+    "price": 0.545,
+    "fair": 0.545,
+    "vol24": 64001.34262899999
+  },
+  {
+    "q": "Will Elon Musk post 200-219 tweets from September 29 to October 6, 2026?",
+    "score": 1.2139772489527603,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.2995,
+    "fair": 0.2995,
+    "vol24": 101054.34083799996
+  },
+  {
+    "q": "Jets vs. Penguins",
+    "score": 0.8383796646085508,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.215,
+    "fair": 0.215,
+    "vol24": 265954.878761
+  },
+  {
+    "q": "New York Yankees vs. Tampa Bay Rays: O/U 6.5",
+    "score": 0.8250802070929968,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.335,
+    "fair": 0.335,
+    "vol24": 110192.714058
+  },
+  {
+    "q": "Will Pedro S\u00e1nchez be the next Prime Minister of Spain?",
+    "score": 0.27646487517760604,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.176,
+    "fair": 0.176,
+    "vol24": 151565.44572
+  },
+  {
+    "q": "Will Ethereum dip to $2,250 by December 31, 2026?",
+    "score": 0.23917700679883458,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.235,
+    "fair": 0.235,
+    "vol24": 182764.470828
+  },
+  {
+    "q": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?",
+    "score": 0.23125780818862762,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.095,
+    "fair": 0.095,
+    "vol24": 122368.104015
+  },
+  {
+    "q": "Will Alberto N\u00fa\u00f1ez Feij\u00f3o be the next Prime Minister of Spain?",
+    "score": 0.2278267335761319,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.815,
+    "fair": 0.815,
+    "vol24": 102845.17367199998
+  },
+  {
+    "q": "Will Guatemala win on 2026-10-05?",
+    "score": 0.18417443177329731,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.455,
+    "fair": 0.455,
+    "vol24": 116089.55134099997
+  },
+  {
+    "q": "Pedro S\u00e1nchez out as PM of Spain by December 31, 2026?",
+    "score": 0.18345111690916288,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.285,
+    "fair": 0.28500000000000003,
+    "vol24": 110892.40404
+  },
+  {
+    "q": "Will the Democrats win the Nevada governor race in 2026?",
+    "score": 0.17514207470932647,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.555,
+    "fair": 0.555,
+    "vol24": 65524.003755
+  },
+  {
+    "q": "Will Puma Shen win the next Taipei Mayor election?",
+    "score": 0.1696791658014699,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.2565,
+    "fair": 0.2565,
+    "vol24": 57601.756007
+  },
+  {
+    "q": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+    "score": 0.1493752228950837,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.195,
+    "fair": 0.195,
+    "vol24": 299978.4511220001
+  },
+  {
+    "q": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+    "score": 0.11853714072340996,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.4625,
+    "fair": 0.4625,
+    "vol24": 61502.59264699998
+  },
+  {
+    "q": "Will Mistral have the best AI model at the end of December 2026?",
+    "score": 0.09898005670575624,
+    "tags": [
+      "wide spread",
+      "long-shot premium"
+    ],
+    "price": 0.032,
+    "fair": 0.032,
+    "vol24": 85658.709353
   }
 ]
