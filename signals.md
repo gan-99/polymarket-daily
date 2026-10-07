@@ -1,69 +1,75 @@
-# Odds Shift — Signals (Tue 06 Oct 2026 01:36)
+# Odds Shift — Signals (Wed 07 Oct 2026 00:13)
 
-_68 markets · 46 non-sports · 23 carrying a signal · analytics, not advice_
+_68 markets · 35 non-sports · 23 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Falcons vs. Saints: O/U 47.5
-price **90.5%** · fair value est. **90.5%** · spread 1.0% · 24h 40.0% · $708k · score 2.13
-- **information move** — 40.0% move on $708k of volume — the market repriced on real money
-- **asymmetric favourite** — 90.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/nfl-atl-no-2026-10-06-total-47pt5
+### Senators vs. Red Wings
+price **7.5%** · fair value est. **7.5%** · spread 1.0% · 24h 44.0% · $255k · score 2.16
+- **information move** — 44.0% move on $255k of volume — the market repriced on real money
+- **long-shot premium** — priced 7.5% with $255k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nhl-ott-det-2026-10-06
 
-### Falcons vs. Saints
-price **81.5%** · fair value est. **81.5%** · spread 1.0% · 24h 35.0% · $3.7M · score 2.09
-- **information move** — 35.0% move on $3.7M of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-atl-no-2026-10-06
+### Los Angeles Dodgers vs. Atlanta Braves
+price **88.5%** · fair value est. **88.5%** · spread 1.0% · 24h 39.0% · $1.1M · score 2.15
+- **information move** — 39.0% move on $1.1M of volume — the market repriced on real money
+  https://polymarket.com/event/mlb-lad-atl-2026-10-06
 
-### Falcons vs. Saints: O/U 48.5
-price **87.0%** · fair value est. **87.0%** · spread 2.0% · 24h 40.5% · $241k · score 1.82
-- **information move** — 40.5% move on $241k of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-atl-no-2026-10-06-total-48pt5
+### Villena: Francesco Maestrelli vs Oliver Tarvet
+price **66.5%** · fair value est. **66.5%** · spread 1.0% · 24h 43.0% · $197k · score 2.07
+- **information move** — 43.0% move on $197k of volume — the market repriced on real money
+  https://polymarket.com/event/atp-maestre-tarvet-2026-10-06
 
-### Falcons vs. Saints: O/U 54.5
-price **70.5%** · fair value est. **70.5%** · spread 1.0% · 24h 39.5% · $112k · score 1.81
-- **information move** — 39.5% move on $112k of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-atl-no-2026-10-06-total-54pt5
+### Hurricanes vs. Canadiens: O/U 6.5
+price **96.0%** · fair value est. **96.0%** · spread 5.7% · 24h 49.5% · $62k · score 1.51
+- **wide spread** — 5.7% bid-ask — price is a guess, not a level
+- **asymmetric favourite** — 96.0% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nhl-car-mon-2026-10-06-total-6pt5
 
-### Spread: Falcons (-2.5)
-price **78.5%** · fair value est. **78.5%** · spread 1.0% · 24h 37.5% · $151k · score 1.77
-- **information move** — 37.5% move on $151k of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-away-2pt5
+### Hurricanes vs. Canadiens
+price **30.5%** · fair value est. **30.5%** · spread 1.0% · 24h 23.0% · $111k · score 1.05
+- **information move** — 23.0% move on $111k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-car-mon-2026-10-06
 
-### Spread: Saints (-2.5)
-price **14.5%** · fair value est. **14.5%** · spread 1.0% · 24h 33.0% · $450k · score 1.70
-- **information move** — 33.0% move on $450k of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-home-2pt5
+### Argentina vs. Benin: O/U 5.5
+price **9.0%** · fair value est. **9.0%** · spread 6.0% · 24h 32.5% · $117k · score 1.03
+- **information move** — 32.5% move on $117k of volume — the market repriced on real money
+- **wide spread** — 6.0% bid-ask — price is a guess, not a level
+- **long-shot premium** — priced 9.0% with $117k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/fif-arg-ben-2026-10-06-total-5pt5
 
-### Spread: Saints (-1.5)
-price **15.5%** · fair value est. **15.5%** · spread 3.0% · 24h 34.0% · $1.0M · score 1.57
-- **information move** — 34.0% move on $1.0M of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-home-1pt5
+### Samsun: Cagla Buyukakcay vs Linda Klimovicova
+price **8.0%** · fair value est. **8.0%** · spread 2.0% · 24h 15.5% · $349k · score 0.72
+- **information move** — 15.5% move on $349k of volume — the market repriced on real money
+- **long-shot premium** — priced 8.0% with $349k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/wta-buyukak-klimovi-2026-10-05
 
-### Falcons vs. Saints: O/U 58.5
-price **55.5%** · fair value est. **55.5%** · spread 1.0% · 24h 34.0% · $78k · score 1.51
-- **genuine disagreement** — 55.5% with $78k traded — two sides with conviction
-  https://polymarket.com/event/nfl-atl-no-2026-10-06-total-58pt5
+### Islanders vs. Rangers
+price **28.5%** · fair value est. **28.5%** · spread 1.0% · 24h 14.0% · $151k · score 0.66
+- **information move** — 14.0% move on $151k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-nyi-nyr-2026-10-06
 
-### Spread: Falcons (-7.5)
-price **54.5%** · fair value est. **54.5%** · spread 1.0% · 24h 34.0% · $64k · score 1.49
-- **genuine disagreement** — 54.5% with $64k traded — two sides with conviction
-  https://polymarket.com/event/nfl-atl-no-2026-10-06-spread-away-7pt5
+### Spread: Rangers (-1.5)
+price **48.5%** · fair value est. **48.5%** · spread 1.0% · 24h 14.0% · $120k · score 0.65
+- **information move** — 14.0% move on $120k of volume — the market repriced on real money
+- **genuine disagreement** — 48.5% with $120k traded — two sides with conviction
+  https://polymarket.com/event/nhl-nyi-nyr-2026-10-06-spread-home-1pt5
 
-### Will Elon Musk post 200-219 tweets from September 29 to October 6, 2026?
-price **29.9%** · fair value est. **29.9%** · spread 0.1% · 24h 24.5% · $101k · score 1.21
-- **information move** — 24.5% move on $101k of volume — the market repriced on real money
-  https://polymarket.com/event/elon-musk-of-tweets-september-29-october-6-2026-200-219
+### Nets vs. Hornets
+price **55.0%** · fair value est. **55.0%** · spread 4.0% · 24h 15.0% · $210k · score 0.57
+- **information move** — 15.0% move on $210k of volume — the market repriced on real money
+- **genuine disagreement** — 55.0% with $210k traded — two sides with conviction
+  https://polymarket.com/event/nba-bkn-cha-2026-10-06
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 12 markets, $1.6M traded
-- **10–25%** band: 17 markets, $5.8M traded
-- **25–45%** band: 11 markets, $1.1M traded
-- **45–55%** band: 6 markets, $607k traded
-- **55–75%** band: 8 markets, $668k traded
-- **75–90%** band: 11 markets, $6.1M traded
-- **90–100%** band: 3 markets, $883k traded
+- **0–10%** band: 16 markets, $2.5M traded
+- **10–25%** band: 6 markets, $1.4M traded
+- **25–45%** band: 12 markets, $2.1M traded
+- **45–55%** band: 12 markets, $1.5M traded
+- **55–75%** band: 12 markets, $1.5M traded
+- **75–90%** band: 7 markets, $2.0M traded
+- **90–100%** band: 3 markets, $888k traded
 
 <!-- Gan: signals above, voice below. -->
 

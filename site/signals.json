@@ -1,237 +1,246 @@
 [
   {
-    "q": "Falcons vs. Saints: O/U 47.5",
-    "score": 2.127329896580389,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.905,
-    "fair": 0.905,
-    "vol24": 708201.1087700002
-  },
-  {
-    "q": "Falcons vs. Saints",
-    "score": 2.0916134754992535,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.815,
-    "fair": 0.815,
-    "vol24": 3746642.331134002
-  },
-  {
-    "q": "Falcons vs. Saints: O/U 48.5",
-    "score": 1.8162528918647252,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.87,
-    "fair": 0.87,
-    "vol24": 240706.73703699993
-  },
-  {
-    "q": "Falcons vs. Saints: O/U 54.5",
-    "score": 1.8134034712123916,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.705,
-    "fair": 0.705,
-    "vol24": 112196.80231300001
-  },
-  {
-    "q": "Spread: Falcons (-2.5)",
-    "score": 1.7653636205957564,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.785,
-    "fair": 0.785,
-    "vol24": 150798.51812000002
-  },
-  {
-    "q": "Spread: Saints (-2.5)",
-    "score": 1.6958502591697997,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.145,
-    "fair": 0.14500000000000002,
-    "vol24": 449607.1729719996
-  },
-  {
-    "q": "Spread: Saints (-1.5)",
-    "score": 1.5721782973836163,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.155,
-    "fair": 0.15500000000000003,
-    "vol24": 1026288.6770860007
-  },
-  {
-    "q": "Falcons vs. Saints: O/U 58.5",
-    "score": 1.5122387875655623,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.555,
-    "fair": 0.555,
-    "vol24": 78078.541409
-  },
-  {
-    "q": "Spread: Falcons (-7.5)",
-    "score": 1.4855514508586218,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.545,
-    "fair": 0.545,
-    "vol24": 64001.34262899999
-  },
-  {
-    "q": "Will Elon Musk post 200-219 tweets from September 29 to October 6, 2026?",
-    "score": 1.2139772489527603,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.2995,
-    "fair": 0.2995,
-    "vol24": 101054.34083799996
-  },
-  {
-    "q": "Jets vs. Penguins",
-    "score": 0.8383796646085508,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.215,
-    "fair": 0.215,
-    "vol24": 265954.878761
-  },
-  {
-    "q": "New York Yankees vs. Tampa Bay Rays: O/U 6.5",
-    "score": 0.8250802070929968,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.335,
-    "fair": 0.335,
-    "vol24": 110192.714058
-  },
-  {
-    "q": "Will Pedro S\u00e1nchez be the next Prime Minister of Spain?",
-    "score": 0.27646487517760604,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.176,
-    "fair": 0.176,
-    "vol24": 151565.44572
-  },
-  {
-    "q": "Will Ethereum dip to $2,250 by December 31, 2026?",
-    "score": 0.23917700679883458,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.235,
-    "fair": 0.235,
-    "vol24": 182764.470828
-  },
-  {
-    "q": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?",
-    "score": 0.23125780818862762,
+    "q": "Senators vs. Red Wings",
+    "score": 2.1624280977572607,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.095,
-    "fair": 0.095,
-    "vol24": 122368.104015
+    "price": 0.075,
+    "fair": 0.07500000000000001,
+    "vol24": 254723.22196300005
   },
   {
-    "q": "Will Alberto N\u00fa\u00f1ez Feij\u00f3o be the next Prime Minister of Spain?",
-    "score": 0.2278267335761319,
+    "q": "Los Angeles Dodgers vs. Atlanta Braves",
+    "score": 2.147763540425354,
     "tags": [
       "information move"
     ],
-    "price": 0.815,
-    "fair": 0.815,
-    "vol24": 102845.17367199998
+    "price": 0.885,
+    "fair": 0.885,
+    "vol24": 1142336.9403200003
   },
   {
-    "q": "Will Guatemala win on 2026-10-05?",
-    "score": 0.18417443177329731,
+    "q": "Villena: Francesco Maestrelli vs Oliver Tarvet",
+    "score": 2.0696997944928657,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.665,
+    "fair": 0.665,
+    "vol24": 197051.0102050001
+  },
+  {
+    "q": "Hurricanes vs. Canadiens: O/U 6.5",
+    "score": 1.5090954698749788,
+    "tags": [
+      "wide spread",
+      "asymmetric favourite"
+    ],
+    "price": 0.9595,
+    "fair": 0.9595,
+    "vol24": 61838.17341100001
+  },
+  {
+    "q": "Hurricanes vs. Canadiens",
+    "score": 1.0547855608790881,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.305,
+    "fair": 0.305,
+    "vol24": 110821.156148
+  },
+  {
+    "q": "Argentina vs. Benin: O/U 5.5",
+    "score": 1.0294801483173392,
     "tags": [
       "information move",
-      "genuine disagreement"
+      "wide spread",
+      "long-shot premium"
     ],
-    "price": 0.455,
-    "fair": 0.455,
-    "vol24": 116089.55134099997
+    "price": 0.09,
+    "fair": 0.09,
+    "vol24": 117005.49256399997
   },
   {
-    "q": "Pedro S\u00e1nchez out as PM of Spain by December 31, 2026?",
-    "score": 0.18345111690916288,
+    "q": "Samsun: Cagla Buyukakcay vs Linda Klimovicova",
+    "score": 0.7159345167631872,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.08,
+    "fair": 0.08,
+    "vol24": 348913.3565590005
+  },
+  {
+    "q": "Islanders vs. Rangers",
+    "score": 0.6591391305582925,
     "tags": [
       "information move"
     ],
     "price": 0.285,
     "fair": 0.28500000000000003,
-    "vol24": 110892.40404
+    "vol24": 150989.739286
   },
   {
-    "q": "Will the Democrats win the Nevada governor race in 2026?",
-    "score": 0.17514207470932647,
+    "q": "Spread: Rangers (-1.5)",
+    "score": 0.6462683455377176,
     "tags": [
+      "information move",
       "genuine disagreement"
     ],
-    "price": 0.555,
-    "fair": 0.555,
-    "vol24": 65524.003755
+    "price": 0.485,
+    "fair": 0.485,
+    "vol24": 119624.21048400001
   },
   {
-    "q": "Will Puma Shen win the next Taipei Mayor election?",
-    "score": 0.1696791658014699,
+    "q": "Nets vs. Hornets",
+    "score": 0.5702633652845073,
     "tags": [
-      "trend divergence"
-    ],
-    "price": 0.2565,
-    "fair": 0.2565,
-    "vol24": 57601.756007
-  },
-  {
-    "q": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
-    "score": 0.1493752228950837,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.195,
-    "fair": 0.195,
-    "vol24": 299978.4511220001
-  },
-  {
-    "q": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-    "score": 0.11853714072340996,
-    "tags": [
+      "information move",
       "genuine disagreement"
     ],
-    "price": 0.4625,
-    "fair": 0.4625,
-    "vol24": 61502.59264699998
+    "price": 0.55,
+    "fair": 0.55,
+    "vol24": 210114.49272
   },
   {
-    "q": "Will Mistral have the best AI model at the end of December 2026?",
-    "score": 0.09898005670575624,
+    "q": "Los Angeles Dodgers vs. Atlanta Braves: O/U 7.5",
+    "score": 0.46913579273052314,
     "tags": [
-      "wide spread",
+      "information move"
+    ],
+    "price": 0.255,
+    "fair": 0.255,
+    "vol24": 144707.392789
+  },
+  {
+    "q": "Will Argentina win on 2026-10-06?",
+    "score": 0.34007672606203626,
+    "tags": [
+      "information move",
+      "asymmetric favourite",
+      "trend divergence"
+    ],
+    "price": 0.9125,
+    "fair": 0.9125000000000001,
+    "vol24": 574596.7342010001
+  },
+  {
+    "q": "Will Goi\u00e1s EC win on 2026-10-06?",
+    "score": 0.24678454129518562,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.47,
+    "fair": 0.47,
+    "vol24": 242319.408189
+  },
+  {
+    "q": "Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5",
+    "score": 0.24579920723261808,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.425,
+    "fair": 0.425,
+    "vol24": 255611.777322
+  },
+  {
+    "q": "Will Argentina vs. Benin end in a draw?",
+    "score": 0.231490702708297,
+    "tags": [
+      "information move",
+      "long-shot premium",
+      "trend divergence"
+    ],
+    "price": 0.073,
+    "fair": 0.07300000000000001,
+    "vol24": 120365.02481700001
+  },
+  {
+    "q": "Spread: Argentina (-4.5)",
+    "score": 0.2024416502371535,
+    "tags": [
+      "information move",
+      "wide spread"
+    ],
+    "price": 0.27,
+    "fair": 0.27,
+    "vol24": 115089.971475
+  },
+  {
+    "q": "Will Manchester City win the 2026-27 UEFA Champions League Championship?",
+    "score": 0.14288498688282442,
+    "tags": [
       "long-shot premium"
     ],
-    "price": 0.032,
-    "fair": 0.032,
-    "vol24": 85658.709353
+    "price": 0.055,
+    "fair": 0.055,
+    "vol24": 173425.78999999995
+  },
+  {
+    "q": "Wild vs. Sabres",
+    "score": 0.13811605348076916,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.545,
+    "fair": 0.545,
+    "vol24": 115944.872842
+  },
+  {
+    "q": "Milwaukee Brewers vs. San Diego Padres: O/U 7.5",
+    "score": 0.13458264297252254,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 86038.30804400003
+  },
+  {
+    "q": "Utah vs. Devils",
+    "score": 0.13218728419953651,
+    "tags": [
+      "genuine disagreement",
+      "trend divergence"
+    ],
+    "price": 0.485,
+    "fair": 0.485,
+    "vol24": 70284.71826099999
+  },
+  {
+    "q": "Will North Carolina enact a data center moratorium by December 31, 2026?",
+    "score": 0.12985511470562836,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.055,
+    "fair": 0.055,
+    "vol24": 57722.705975
+  },
+  {
+    "q": "Chicago Fire FC vs. Vancouver Whitecaps FC: O/U 3.5",
+    "score": 0.0990248149015959,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.465,
+    "fair": 0.46499999999999997,
+    "vol24": 279488.06422099995
+  },
+  {
+    "q": "Spread: Cowboys (-9.5)",
+    "score": 0.088347064555086,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.455,
+    "fair": 0.455,
+    "vol24": 72290.71878699999
   }
 ]
