@@ -1,246 +1,134 @@
 [
   {
-    "q": "Senators vs. Red Wings",
-    "score": 2.1624280977572607,
+    "q": "Los Angeles Dodgers vs. Atlanta Braves",
+    "score": 1.8492165477527482,
     "tags": [
       "information move",
-      "long-shot premium"
-    ],
-    "price": 0.075,
-    "fair": 0.07500000000000001,
-    "vol24": 254723.22196300005
-  },
-  {
-    "q": "Los Angeles Dodgers vs. Atlanta Braves",
-    "score": 2.147763540425354,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.885,
-    "fair": 0.885,
-    "vol24": 1142336.9403200003
-  },
-  {
-    "q": "Villena: Francesco Maestrelli vs Oliver Tarvet",
-    "score": 2.0696997944928657,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.665,
-    "fair": 0.665,
-    "vol24": 197051.0102050001
-  },
-  {
-    "q": "Hurricanes vs. Canadiens: O/U 6.5",
-    "score": 1.5090954698749788,
-    "tags": [
-      "wide spread",
       "asymmetric favourite"
     ],
-    "price": 0.9595,
-    "fair": 0.9595,
-    "vol24": 61838.17341100001
+    "price": 0.905,
+    "fair": 0.905,
+    "vol24": 447077.6140180003
   },
   {
-    "q": "Hurricanes vs. Canadiens",
-    "score": 1.0547855608790881,
+    "q": "Timberwolves vs. Pacers",
+    "score": 1.06303384501173,
     "tags": [
       "information move"
     ],
-    "price": 0.305,
-    "fair": 0.305,
-    "vol24": 110821.156148
+    "price": 0.325,
+    "fair": 0.325,
+    "vol24": 121358.81644799997
   },
   {
-    "q": "Argentina vs. Benin: O/U 5.5",
-    "score": 1.0294801483173392,
-    "tags": [
-      "information move",
-      "wide spread",
-      "long-shot premium"
-    ],
-    "price": 0.09,
-    "fair": 0.09,
-    "vol24": 117005.49256399997
-  },
-  {
-    "q": "Samsun: Cagla Buyukakcay vs Linda Klimovicova",
-    "score": 0.7159345167631872,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.08,
-    "fair": 0.08,
-    "vol24": 348913.3565590005
-  },
-  {
-    "q": "Islanders vs. Rangers",
-    "score": 0.6591391305582925,
+    "q": "Penguins vs. Capitals",
+    "score": 0.7341230278974537,
     "tags": [
       "information move"
     ],
-    "price": 0.285,
-    "fair": 0.28500000000000003,
-    "vol24": 150989.739286
+    "price": 0.265,
+    "fair": 0.265,
+    "vol24": 111453.04034200002
   },
   {
-    "q": "Spread: Rangers (-1.5)",
-    "score": 0.6462683455377176,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 119624.21048400001
-  },
-  {
-    "q": "Nets vs. Hornets",
-    "score": 0.5702633652845073,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.55,
-    "fair": 0.55,
-    "vol24": 210114.49272
-  },
-  {
-    "q": "Los Angeles Dodgers vs. Atlanta Braves: O/U 7.5",
-    "score": 0.46913579273052314,
+    "q": "Tampa Bay Rays vs. New York Yankees: O/U 7.5",
+    "score": 0.6726368161423893,
     "tags": [
       "information move"
     ],
-    "price": 0.255,
-    "fair": 0.255,
-    "vol24": 144707.392789
+    "price": 0.31,
+    "fair": 0.31,
+    "vol24": 161253.125604
   },
   {
-    "q": "Will Argentina win on 2026-10-06?",
-    "score": 0.34007672606203626,
-    "tags": [
-      "information move",
-      "asymmetric favourite",
-      "trend divergence"
-    ],
-    "price": 0.9125,
-    "fair": 0.9125000000000001,
-    "vol24": 574596.7342010001
-  },
-  {
-    "q": "Will Goi\u00e1s EC win on 2026-10-06?",
-    "score": 0.24678454129518562,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.47,
-    "fair": 0.47,
-    "vol24": 242319.408189
-  },
-  {
-    "q": "Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5",
-    "score": 0.24579920723261808,
+    "q": "New York Liberty vs. Atlanta Dream",
+    "score": 0.4111140084334319,
     "tags": [
       "information move"
     ],
-    "price": 0.425,
-    "fair": 0.425,
-    "vol24": 255611.777322
+    "price": 0.395,
+    "fair": 0.395,
+    "vol24": 105857.75202000001
   },
   {
-    "q": "Will Argentina vs. Benin end in a draw?",
-    "score": 0.231490702708297,
+    "q": "Tampa Bay Rays vs. New York Yankees",
+    "score": 0.24104183170411256,
     "tags": [
-      "information move",
-      "long-shot premium",
-      "trend divergence"
+      "information move"
     ],
-    "price": 0.073,
-    "fair": 0.07300000000000001,
-    "vol24": 120365.02481700001
+    "price": 0.345,
+    "fair": 0.345,
+    "vol24": 200871.41340899997
   },
   {
-    "q": "Spread: Argentina (-4.5)",
-    "score": 0.2024416502371535,
-    "tags": [
-      "information move",
-      "wide spread"
-    ],
-    "price": 0.27,
-    "fair": 0.27,
-    "vol24": 115089.971475
-  },
-  {
-    "q": "Will Manchester City win the 2026-27 UEFA Champions League Championship?",
-    "score": 0.14288498688282442,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.055,
-    "fair": 0.055,
-    "vol24": 173425.78999999995
-  },
-  {
-    "q": "Wild vs. Sabres",
-    "score": 0.13811605348076916,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.545,
-    "fair": 0.545,
-    "vol24": 115944.872842
-  },
-  {
-    "q": "Milwaukee Brewers vs. San Diego Padres: O/U 7.5",
-    "score": 0.13458264297252254,
+    "q": "Milwaukee Brewers vs. San Diego Padres",
+    "score": 0.22016749505311636,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.495,
     "fair": 0.495,
-    "vol24": 86038.30804400003
+    "vol24": 69771.59749000001
   },
   {
-    "q": "Utah vs. Devils",
-    "score": 0.13218728419953651,
+    "q": "Will Dallas Cowboys win the 2026 NFC East?",
+    "score": 0.19285561865491546,
     "tags": [
-      "genuine disagreement",
-      "trend divergence"
+      "information move",
+      "genuine disagreement"
     ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 70284.71826099999
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 201153.389047
   },
   {
-    "q": "Will North Carolina enact a data center moratorium by December 31, 2026?",
-    "score": 0.12985511470562836,
+    "q": "Jacksonville State vs. Kennesaw State",
+    "score": 0.14658659548108044,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.545,
+    "fair": 0.545,
+    "vol24": 237050.02323900012
+  },
+  {
+    "q": "US x Iran ceasefire continues through October 15?",
+    "score": 0.13518053242101752,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.905,
+    "fair": 0.905,
+    "vol24": 90492.94516899998
+  },
+  {
+    "q": "Will Marco Rubio win the 2028 US Presidential Election?",
+    "score": 0.12927404910515627,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.055,
-    "fair": 0.055,
-    "vol24": 57722.705975
+    "price": 0.0575,
+    "fair": 0.0575,
+    "vol24": 166981.74030199993
   },
   {
-    "q": "Chicago Fire FC vs. Vancouver Whitecaps FC: O/U 3.5",
-    "score": 0.0990248149015959,
+    "q": "Will the price of Bitcoin be above $80,000 on October 8?",
+    "score": 0.09900163389012621,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.972,
+    "fair": 0.972,
+    "vol24": 84319.84586799999
+  },
+  {
+    "q": "Oilers vs. Ducks: O/U 6.5",
+    "score": 0.09273001716780342,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 279488.06422099995
-  },
-  {
-    "q": "Spread: Cowboys (-9.5)",
-    "score": 0.088347064555086,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.455,
-    "fair": 0.455,
-    "vol24": 72290.71878699999
+    "price": 0.555,
+    "fair": 0.555,
+    "vol24": 125935.304239
   }
 ]
