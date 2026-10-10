@@ -1,351 +1,250 @@
 [
   {
-    "q": "Missouri State vs. Western Kentucky",
-    "score": 1.6471677934777145,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.135,
-    "fair": 0.135,
-    "vol24": 309426.78720900003
-  },
-  {
-    "q": "Will Elon Musk post 320-339 tweets from October 2 to October 9, 2026?",
-    "score": 1.3886381808516437,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.28,
-    "fair": 0.28,
-    "vol24": 210634.48800300012
-  },
-  {
-    "q": "Will Elon Musk post 340-359 tweets from October 2 to October 9, 2026?",
-    "score": 1.2482023039535912,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.314,
-    "fair": 0.314,
-    "vol24": 155782.545737
-  },
-  {
-    "q": "Will Yulia Navalnaya win the Nobel Peace Prize in 2026?",
-    "score": 1.084032876614502,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.2455,
-    "fair": 0.2455,
-    "vol24": 385555.28104800003
-  },
-  {
-    "q": "Spread: UTSA (-6.5)",
-    "score": 1.0619139928465262,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.265,
-    "fair": 0.265,
-    "vol24": 203970.722873
-  },
-  {
-    "q": "Thunder vs. Hawks",
-    "score": 0.8529639771890881,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.3735,
-    "fair": 0.3735,
-    "vol24": 231338.277533
-  },
-  {
-    "q": "Will Elon Musk post 360-379 tweets from October 2 to October 9, 2026?",
-    "score": 0.7944039829379164,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.1545,
-    "fair": 0.1545,
-    "vol24": 162199.46536200002
-  },
-  {
-    "q": "Hawks vs. Spurs",
-    "score": 0.7768712175073937,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.08,
-    "fair": 0.08,
-    "vol24": 109436.119667
-  },
-  {
-    "q": "Sharks vs. Blues",
-    "score": 0.7693665363748267,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.255,
-    "fair": 0.255,
-    "vol24": 194711.99526899992
-  },
-  {
-    "q": "South Alabama vs. Arkansas State",
-    "score": 0.7263817568144914,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.295,
-    "fair": 0.295,
-    "vol24": 509664.49478499993
-  },
-  {
-    "q": "Blackhawks vs. Islanders",
-    "score": 0.6599569851538241,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.235,
-    "fair": 0.235,
-    "vol24": 153240.47089399994
-  },
-  {
-    "q": "Will Indiana enact a data center moratorium by December 31, 2028?",
-    "score": 0.588298545558739,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.275,
-    "fair": 0.275,
-    "vol24": 95039.95030200001
-  },
-  {
-    "q": "Will Elon Musk post 380-399 tweets from October 2 to October 9, 2026?",
-    "score": 0.5342622115842612,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.11,
-    "fair": 0.11,
-    "vol24": 148542.40416699997
-  },
-  {
-    "q": "Spread: Arkansas State (-3.5)",
-    "score": 0.3131003881536549,
-    "tags": [
-      "information move",
-      "wide spread",
-      "genuine disagreement"
-    ],
-    "price": 0.56,
-    "fair": 0.56,
-    "vol24": 278754.947242
-  },
-  {
-    "q": "Counter-Strike: 1WIN vs Aurora Gaming (BO3) - ESL Pro League Playoffs",
-    "score": 0.28228237452689214,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.295,
-    "fair": 0.295,
-    "vol24": 149683.51218100003
-  },
-  {
-    "q": "Predators vs. Canadiens",
-    "score": 0.27432719011344925,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.305,
-    "fair": 0.305,
-    "vol24": 124349.58032399998
-  },
-  {
-    "q": "Will Sudan's Emergency Response Rooms win the Nobel Peace Prize in 2026?",
-    "score": 0.2652837073127818,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.085,
-    "fair": 0.085,
-    "vol24": 91650.86101800001
-  },
-  {
-    "q": "US x Iran ceasefire continues through October 31?",
-    "score": 0.2453574597887193,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.77,
-    "fair": 0.77,
-    "vol24": 225554.62808100003
-  },
-  {
-    "q": "Will Vitality Win the ESL Pro League Season 24?",
-    "score": 0.22741602603304842,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.435,
-    "fair": 0.435,
-    "vol24": 100727.54778599998
-  },
-  {
-    "q": "Spread: Cowboys (-8.5)",
-    "score": 0.1967117224836482,
-    "tags": [
-      "information move",
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.52,
-    "fair": 0.52,
-    "vol24": 176053.014625
-  },
-  {
-    "q": "Valorant: T1 vs Paper Rex (BO3) - VCT Champions Playoffs",
-    "score": 0.18988375793413548,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.345,
-    "fair": 0.345,
-    "vol24": 166648.24221699996
-  },
-  {
-    "q": "Counter-Strike: Team Falcons vs Spirit (BO3) - ESL Pro League Playoffs",
-    "score": 0.18919006245820488,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 159486.524663
-  },
-  {
-    "q": "Spread: Cowboys (-7.5)",
-    "score": 0.15419882600955426,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.55,
-    "fair": 0.55,
-    "vol24": 193559.569733
-  },
-  {
-    "q": "Cleveland Guardians vs. Chicago White Sox",
-    "score": 0.1531653351915518,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 413105.7491659999
-  },
-  {
-    "q": "Spread: Cowboys (-9.5)",
-    "score": 0.15245158582183063,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.5,
-    "fair": 0.5,
-    "vol24": 168619.94306199998
-  },
-  {
-    "q": "Will Elon Musk post 400-419 tweets from October 2 to October 9, 2026?",
-    "score": 0.14879793199709457,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0305,
-    "fair": 0.0305,
-    "vol24": 161407.95280799989
-  },
-  {
-    "q": "Will the Republicans win the Texas Senate race in 2026?",
-    "score": 0.14140878891028827,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.365,
-    "fair": 0.365,
-    "vol24": 153103.84237499998
-  },
-  {
-    "q": "Will the Democrats win the Texas Senate race in 2026?",
-    "score": 0.13815363322518168,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.635,
-    "fair": 0.635,
-    "vol24": 116313.328627
-  },
-  {
-    "q": "Spread: Cowboys (-14.5)",
-    "score": 0.13590288050648994,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.335,
-    "fair": 0.335,
-    "vol24": 96183.61668400002
-  },
-  {
-    "q": "Spread: Cowboys (-10.5)",
-    "score": 0.13575424110001688,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.455,
-    "fair": 0.455,
-    "vol24": 94984.10496800001
-  },
-  {
-    "q": "CA Paranaense vs. CA Mineiro: O/U 2.5",
-    "score": 0.12160923515711129,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 224287.15937899993
-  },
-  {
-    "q": "US x Iran ceasefire continues through October 15?",
-    "score": 0.09626675724134398,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.925,
-    "fair": 0.925,
-    "vol24": 197092.20341400002
-  },
-  {
-    "q": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-    "score": 0.09289978305301878,
+    "q": "Will Bitcoin dip to $80,000 October 5-11?",
+    "score": 1.4039308612401384,
     "tags": [
       "long-shot premium"
     ],
     "price": 0.075,
     "fair": 0.07500000000000001,
-    "vol24": 128672.19000500001
+    "vol24": 66989.36368
   },
   {
-    "q": "Spread: Commanders (-3.5)",
-    "score": 0.09030524038093639,
+    "q": "Penguins vs. Blue Jackets",
+    "score": 0.9012066517656567,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.285,
+    "fair": 0.28500000000000003,
+    "vol24": 165009.733357
+  },
+  {
+    "q": "Will Elon Musk post 115-139 tweets from October 8 to October 10, 2026?",
+    "score": 0.8228291751148478,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0375,
+    "fair": 0.0375,
+    "vol24": 57717.480553
+  },
+  {
+    "q": "Will CA Boca Juniors win on 2026-10-09?",
+    "score": 0.7664013383526993,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.155,
+    "fair": 0.155,
+    "vol24": 168058.73352299992
+  },
+  {
+    "q": "Florida State vs. Louisville: O/U 59.5",
+    "score": 0.6896387686178012,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.645,
+    "fair": 0.645,
+    "vol24": 401156.5728610001
+  },
+  {
+    "q": "Florida State vs. Louisville: O/U 61.5",
+    "score": 0.6598654835900905,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.615,
+    "fair": 0.615,
+    "vol24": 111179.89573400002
+  },
+  {
+    "q": "Ducks vs. Jets: O/U 6.5",
+    "score": 0.44915042772365943,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.35,
+    "fair": 0.35,
+    "vol24": 107270.607942
+  },
+  {
+    "q": "LoL: Disguised vs Fuego (BO5) - LCS Promotion Playoffs",
+    "score": 0.44560985431680467,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.966,
+    "fair": 0.966,
+    "vol24": 123788.56856800002
+  },
+  {
+    "q": "Penguins vs. Blue Jackets: O/U 6.5",
+    "score": 0.42458545040245416,
+    "tags": [
+      "wide spread"
+    ],
+    "price": 0.23,
+    "fair": 0.23,
+    "vol24": 79260.60992199997
+  },
+  {
+    "q": "Spread: New York Liberty (-3.5)",
+    "score": 0.39817122812194794,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.36,
+    "fair": 0.36,
+    "vol24": 116850.371051
+  },
+  {
+    "q": "Will Bitcoin dip to $78,000 October 5-11?",
+    "score": 0.38366502669293207,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0275,
+    "fair": 0.0275,
+    "vol24": 87683.66695600002
+  },
+  {
+    "q": "Will the price of Bitcoin be above $84,000 on October 10?",
+    "score": 0.33041839433250103,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0255,
+    "fair": 0.025500000000000002,
+    "vol24": 78857.43359700001
+  },
+  {
+    "q": "Atlanta Dream vs. New York Liberty",
+    "score": 0.24542791318172696,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.51,
+    "fair": 0.51,
+    "vol24": 226354.38616000002
+  },
+  {
+    "q": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "score": 0.2414964810622717,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.601,
+    "fair": 0.601,
+    "vol24": 111555.278695
+  },
+  {
+    "q": "Spread: Louisville (-3.5)",
+    "score": 0.22504568017005588,
     "tags": [
       "genuine disagreement"
     ],
+    "price": 0.455,
+    "fair": 0.455,
+    "vol24": 89330.56937699999
+  },
+  {
+    "q": "Spread: BYU (-10.5)",
+    "score": 0.19572397997126142,
+    "tags": [
+      "information move",
+      "genuine disagreement",
+      "trend divergence"
+    ],
+    "price": 0.535,
+    "fair": 0.535,
+    "vol24": 241216.853876
+  },
+  {
+    "q": "Rangers vs. Capitals: O/U 5.5",
+    "score": 0.19407525586378838,
+    "tags": [
+      "information move",
+      "wide spread",
+      "genuine disagreement"
+    ],
+    "price": 0.45,
+    "fair": 0.45,
+    "vol24": 105467.864278
+  },
+  {
+    "q": "US announces end of Iranian blockade by October 15, 2026?",
+    "score": 0.189778716068911,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.075,
+    "fair": 0.07500000000000001,
+    "vol24": 165543.475389
+  },
+  {
+    "q": "US x Iran ceasefire continues through October 15?",
+    "score": 0.14789306039354203,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.895,
+    "fair": 0.895,
+    "vol24": 264693.88423599995
+  },
+  {
+    "q": "Spread: Broncos (-3.5)",
+    "score": 0.1340232909163071,
+    "tags": [
+      "genuine disagreement",
+      "trend divergence"
+    ],
     "price": 0.515,
     "fair": 0.515,
-    "vol24": 92636.797493
+    "vol24": 82069.548057
+  },
+  {
+    "q": "Spread: Oregon (-11.5)",
+    "score": 0.12970081109757609,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.465,
+    "fair": 0.46499999999999997,
+    "vol24": 56975.583884
+  },
+  {
+    "q": "Spread: Jets (-2.5)",
+    "score": 0.08728884260934217,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.525,
+    "fair": 0.525,
+    "vol24": 63223.636848999995
+  },
+  {
+    "q": "Spread: San Jose State (-4.5)",
+    "score": 0.08661833088050307,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 58076.538105
+  },
+  {
+    "q": "Strait of Hormuz traffic returns to normal by November 30?",
+    "score": 0.08646423883101338,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.075,
+    "fair": 0.07500000000000001,
+    "vol24": 56954.1678
   }
 ]

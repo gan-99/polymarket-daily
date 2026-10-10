@@ -1,4 +1,4 @@
-# Odds Shift — Calibration Report (09 Oct 2026)
+# Odds Shift — Calibration Report (10 Oct 2026)
 
 _35 resolved markets · 24 non-sports · price sampled 7 days before resolution_
 
