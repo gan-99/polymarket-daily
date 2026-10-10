@@ -1,69 +1,70 @@
-# Odds Shift — Signals (Sat 10 Oct 2026 00:23)
+# Odds Shift — Signals (Sat 10 Oct 2026 23:58)
 
-_75 markets · 50 non-sports · 24 carrying a signal · analytics, not advice_
+_75 markets · 44 non-sports · 20 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Will Bitcoin dip to $80,000 October 5-11?
-price **7.5%** · fair value est. **7.5%** · spread 1.0% · 24h 32.0% · $67k · score 1.40
-- **long-shot premium** — priced 7.5% with $67k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-bitcoin-dip-to-80k-october-5-11-2026
+### Will CA Tigre win on 2026-10-10?
+price **6.0%** · fair value est. **6.0%** · spread 2.0% · 24h 50.0% · $77k · score 2.04
+- **long-shot premium** — priced 6.0% with $77k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/arg-tig-ban-2026-10-10-tig
 
-### Penguins vs. Blue Jackets
-price **28.5%** · fair value est. **28.5%** · spread 1.0% · 24h 19.0% · $165k · score 0.90
-- **information move** — 19.0% move on $165k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-pit-cbj-2026-10-09
+### North Dakota State vs. UNLV
+price **31.5%** · fair value est. **31.5%** · spread 1.0% · 24h 24.0% · $164k · score 1.14
+- **information move** — 24.0% move on $164k of volume — the market repriced on real money
+  https://polymarket.com/event/cfb-ndkst-unlv-2026-10-10
 
-### Will Elon Musk post 115-139 tweets from October 8 to October 10, 2026?
-price **3.8%** · fair value est. **3.8%** · spread 0.3% · 24h 17.8% · $58k · score 0.82
-- **long-shot premium** — priced 3.8% with $58k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/elon-musk-of-tweets-october-8-october-10-2026-115-139
+### Spread: Panthers (-1.5)
+price **3.3%** · fair value est. **3.3%** · spread 4.6% · 24h 29.2% · $78k · score 0.98
+- **long-shot premium** — priced 3.3% with $78k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nhl-min-fla-2026-10-10-spread-home-1pt5
 
-### Will CA Boca Juniors win on 2026-10-09?
-price **15.5%** · fair value est. **15.5%** · spread 5.0% · 24h 22.0% · $168k · score 0.77
-- **information move** — 22.0% move on $168k of volume — the market repriced on real money
-  https://polymarket.com/event/arg-iac-boc-2026-10-09-boc
+### Spread: Senators (-1.5)
+price **9.0%** · fair value est. **9.0%** · spread 6.0% · 24h 27.5% · $72k · score 0.83
+- **wide spread** — 6.0% bid-ask — price is a guess, not a level
+- **long-shot premium** — priced 9.0% with $72k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nhl-nsh-ott-2026-10-10-spread-home-1pt5
 
-### Florida State vs. Louisville: O/U 59.5
-price **64.5%** · fair value est. **64.5%** · spread 3.0% · 24h 16.0% · $401k · score 0.69
-- **information move** — 16.0% move on $401k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-flst-lou-2026-10-09-total-59pt5
+### Pistons vs. Wizards
+price **40.0%** · fair value est. **40.0%** · spread 2.0% · 24h 17.5% · $112k · score 0.74
+- **information move** — 17.5% move on $112k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-det-was-2026-10-10
 
-### Florida State vs. Louisville: O/U 61.5
-price **61.5%** · fair value est. **61.5%** · spread 3.0% · 24h 17.0% · $111k · score 0.66
-- **information move** — 17.0% move on $111k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-flst-lou-2026-10-09-total-61pt5
+### Spread: Avalanche (-1.5)
+price **58.0%** · fair value est. **58.0%** · spread 2.0% · 24h 12.5% · $104k · score 0.52
+- **information move** — 12.5% move on $104k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-tor-col-2026-10-10-spread-home-1pt5
 
-### Ducks vs. Jets: O/U 6.5
-price **35.0%** · fair value est. **35.0%** · spread 4.0% · 24h 12.5% · $107k · score 0.45
-- **information move** — 12.5% move on $107k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-ana-wpg-2026-10-09-total-6pt5
+### Timberwolves vs. Heat
+price **57.5%** · fair value est. **57.5%** · spread 1.0% · 24h 10.0% · $171k · score 0.48
+- **information move** — 10.0% move on $171k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-min-mia-2026-10-10
 
-### LoL: Disguised vs Fuego (BO5) - LCS Promotion Playoffs
-price **96.6%** · fair value est. **96.6%** · spread 0.4% · 24h 9.1% · $124k · score 0.45
-- **information move** — 9.1% move on $124k of volume — the market repriced on real money
-- **asymmetric favourite** — 96.6% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/lol-dsg-fue-2026-10-09
+### Inter Miami CF vs. D.C. United SC: O/U 3.5
+price **64.0%** · fair value est. **64.0%** · spread 2.0% · 24h 8.0% · $144k · score 0.34
+- **information move** — 8.0% move on $144k of volume — the market repriced on real money
+  https://polymarket.com/event/mls-mia-dcu-2026-10-10-total-3pt5
 
-### Penguins vs. Blue Jackets: O/U 6.5
-price **23.0%** · fair value est. **23.0%** · spread 20.0% · 24h 26.0% · $79k · score 0.42
-- **wide spread** — 20.0% bid-ask — price is a guess, not a level
-  https://polymarket.com/event/nhl-pit-cbj-2026-10-09-total-6pt5
+### LSU vs. Kentucky: O/U 51.5
+price **59.5%** · fair value est. **59.5%** · spread 11.0% · 24h 13.0% · $132k · score 0.32
+- **information move** — 13.0% move on $132k of volume — the market repriced on real money
+- **wide spread** — 11.0% bid-ask — price is a guess, not a level
+  https://polymarket.com/event/cfb-lsu-uk-2026-10-10-total-51pt5
 
-### Spread: New York Liberty (-3.5)
-price **36.0%** · fair value est. **36.0%** · spread 4.0% · 24h 11.0% · $117k · score 0.40
-- **information move** — 11.0% move on $117k of volume — the market repriced on real money
-  https://polymarket.com/event/wnba-atl-nyl-2026-10-09-spread-home-3pt5
+### 76ers vs. Celtics
+price **30.5%** · fair value est. **30.5%** · spread 1.0% · 24h 6.0% · $112k · score 0.28
+- **information move** — 6.0% move on $112k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-phi-bos-2026-10-10
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 20 markets, $2.3M traded
-- **10–25%** band: 7 markets, $1.6M traded
-- **25–45%** band: 12 markets, $1.6M traded
-- **45–55%** band: 13 markets, $1.5M traded
-- **55–75%** band: 13 markets, $1.5M traded
-- **75–90%** band: 7 markets, $1.4M traded
-- **90–100%** band: 3 markets, $971k traded
+- **0–10%** band: 12 markets, $1.2M traded
+- **10–25%** band: 10 markets, $1.1M traded
+- **25–45%** band: 16 markets, $2.6M traded
+- **45–55%** band: 10 markets, $1.8M traded
+- **55–75%** band: 13 markets, $1.1M traded
+- **75–90%** band: 9 markets, $1.1M traded
+- **90–100%** band: 5 markets, $974k traded
 
 <!-- Gan: signals above, voice below. -->
 
