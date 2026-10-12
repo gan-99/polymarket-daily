@@ -1,206 +1,83 @@
 [
   {
-    "q": "Will CA Tigre win on 2026-10-10?",
-    "score": 2.035022530996643,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.06,
-    "fair": 0.060000000000000005,
-    "vol24": 76568.19379599999
-  },
-  {
-    "q": "North Dakota State vs. UNLV",
-    "score": 1.1378765822803045,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.315,
-    "fair": 0.315,
-    "vol24": 164159.12298100005
-  },
-  {
-    "q": "Spread: Panthers (-1.5)",
-    "score": 0.9788946190302108,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.033,
-    "fair": 0.033,
-    "vol24": 78427.353046
-  },
-  {
-    "q": "Spread: Senators (-1.5)",
-    "score": 0.8348030774551225,
-    "tags": [
-      "wide spread",
-      "long-shot premium"
-    ],
-    "price": 0.09,
-    "fair": 0.09,
-    "vol24": 71949.87619600001
-  },
-  {
-    "q": "Pistons vs. Wizards",
-    "score": 0.7361310914182333,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.4,
-    "fair": 0.4,
-    "vol24": 111622.607838
-  },
-  {
-    "q": "Spread: Avalanche (-1.5)",
-    "score": 0.5227181263712106,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.58,
-    "fair": 0.58,
-    "vol24": 104253.308772
-  },
-  {
-    "q": "Timberwolves vs. Heat",
-    "score": 0.4758345844044569,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.575,
-    "fair": 0.575,
-    "vol24": 171465.952219
-  },
-  {
-    "q": "Inter Miami CF vs. D.C. United SC: O/U 3.5",
-    "score": 0.34380072417511404,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.64,
-    "fair": 0.64,
-    "vol24": 143551.53384400002
-  },
-  {
-    "q": "LSU vs. Kentucky: O/U 51.5",
-    "score": 0.3170620380127045,
+    "q": "Will St. Louis City SC win on 2026-10-11?",
+    "score": 1.6142051465296836,
     "tags": [
       "information move",
-      "wide spread"
-    ],
-    "price": 0.595,
-    "fair": 0.595,
-    "vol24": 132363.457276
-  },
-  {
-    "q": "76ers vs. Celtics",
-    "score": 0.2753756521319314,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.305,
-    "fair": 0.305,
-    "vol24": 111827.78912700001
-  },
-  {
-    "q": "Cal Poly vs. Idaho State",
-    "score": 0.26858410264900595,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.21,
-    "fair": 0.21000000000000002,
-    "vol24": 90880.55330999999
-  },
-  {
-    "q": "Spread: Virginia (-13.5)",
-    "score": 0.26291225169364824,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.47,
-    "fair": 0.47,
-    "vol24": 71409.923033
-  },
-  {
-    "q": "Inter Miami CF vs. D.C. United SC: O/U 1.5",
-    "score": 0.24445452159866837,
-    "tags": [
       "asymmetric favourite"
     ],
-    "price": 0.968,
-    "fair": 0.968,
-    "vol24": 63795.340796
+    "price": 0.977,
+    "fair": 0.977,
+    "vol24": 125166.02686500004
   },
   {
-    "q": "US announces end of Iranian blockade by October 31, 2026?",
-    "score": 0.2327253251979122,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.125,
-    "fair": 0.125,
-    "vol24": 131811.669137
-  },
-  {
-    "q": "Will Nashville SC win on 2026-10-10?",
-    "score": 0.22637779824121354,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.555,
-    "fair": 0.555,
-    "vol24": 95566.794009
-  },
-  {
-    "q": "USC vs. Penn State",
-    "score": 0.14621294497352277,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.495,
-    "fair": 0.495,
-    "vol24": 229688.591674
-  },
-  {
-    "q": "US announces end of Iranian blockade by October 15, 2026?",
-    "score": 0.14472824299085335,
+    "q": "Canucks vs. Rangers",
+    "score": 1.1305144991284883,
     "tags": [
       "long-shot premium"
     ],
     "price": 0.045,
     "fair": 0.045,
-    "vol24": 202628.2994739999
+    "vol24": 94245.18864100003
   },
   {
-    "q": "Spread: James Madison (-7.5)",
-    "score": 0.10156375083924028,
+    "q": "Magic vs. Cavaliers",
+    "score": 1.059564016602345,
     "tags": [
-      "genuine disagreement"
+      "information move"
     ],
-    "price": 0.46,
-    "fair": 0.45999999999999996,
-    "vol24": 74998.788777
+    "price": 0.165,
+    "fair": 0.165,
+    "vol24": 198526.2299930001
   },
   {
-    "q": "Georgia vs. Alabama: O/U 51.5",
-    "score": 0.09683969736142456,
+    "q": "Will Atl\u00e9tico San Luis win on 2026-10-11?",
+    "score": 0.5945116654158191,
     "tags": [
-      "genuine disagreement"
+      "information move"
     ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 211924.56754000002
+    "price": 0.365,
+    "fair": 0.365,
+    "vol24": 107270.24540399999
   },
   {
-    "q": "US x Iran ceasefire continues through October 15?",
-    "score": 0.09361453077268989,
+    "q": "US x Yemen ceasefire continues through October 15?",
+    "score": 0.313047270140271,
     "tags": [
       "asymmetric favourite"
     ],
     "price": 0.915,
     "fair": 0.915,
-    "vol24": 140862.73272200002
+    "vol24": 83044.14449
+  },
+  {
+    "q": "US x Iran ceasefire continues through October 12?",
+    "score": 0.13292855521626543,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.9755,
+    "fair": 0.9755,
+    "vol24": 301932.894015
+  },
+  {
+    "q": "Will the Cleveland Guardians win the 2026 World Series?",
+    "score": 0.11203474147798134,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0955,
+    "fair": 0.0955,
+    "vol24": 78152.03575600001
+  },
+  {
+    "q": "US x Iran ceasefire continues through October 15?",
+    "score": 0.09208937260556728,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.935,
+    "fair": 0.935,
+    "vol24": 116121.26366799999
   }
 ]

@@ -1,70 +1,59 @@
-# Odds Shift — Signals (Sat 10 Oct 2026 23:58)
+# Odds Shift — Signals (Mon 12 Oct 2026 00:06)
 
-_75 markets · 44 non-sports · 20 carrying a signal · analytics, not advice_
+_58 markets · 47 non-sports · 8 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Will CA Tigre win on 2026-10-10?
-price **6.0%** · fair value est. **6.0%** · spread 2.0% · 24h 50.0% · $77k · score 2.04
-- **long-shot premium** — priced 6.0% with $77k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/arg-tig-ban-2026-10-10-tig
+### Will St. Louis City SC win on 2026-10-11?
+price **97.7%** · fair value est. **97.7%** · spread 0.8% · 24h 34.2% · $125k · score 1.61
+- **information move** — 34.2% move on $125k of volume — the market repriced on real money
+- **asymmetric favourite** — 97.7% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/mls-stl-lag-2026-10-11-stl
 
-### North Dakota State vs. UNLV
-price **31.5%** · fair value est. **31.5%** · spread 1.0% · 24h 24.0% · $164k · score 1.14
-- **information move** — 24.0% move on $164k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-ndkst-unlv-2026-10-10
+### Canucks vs. Rangers
+price **4.5%** · fair value est. **4.5%** · spread 1.0% · 24h 25.0% · $94k · score 1.13
+- **long-shot premium** — priced 4.5% with $94k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nhl-van-nyr-2026-10-11
 
-### Spread: Panthers (-1.5)
-price **3.3%** · fair value est. **3.3%** · spread 4.6% · 24h 29.2% · $78k · score 0.98
-- **long-shot premium** — priced 3.3% with $78k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nhl-min-fla-2026-10-10-spread-home-1pt5
+### Magic vs. Cavaliers
+price **16.5%** · fair value est. **16.5%** · spread 1.0% · 24h 22.0% · $199k · score 1.06
+- **information move** — 22.0% move on $199k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-orl-cle-2026-10-11
 
-### Spread: Senators (-1.5)
-price **9.0%** · fair value est. **9.0%** · spread 6.0% · 24h 27.5% · $72k · score 0.83
-- **wide spread** — 6.0% bid-ask — price is a guess, not a level
-- **long-shot premium** — priced 9.0% with $72k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nhl-nsh-ott-2026-10-10-spread-home-1pt5
+### Will Atlético San Luis win on 2026-10-11?
+price **36.5%** · fair value est. **36.5%** · spread 1.0% · 24h 13.0% · $107k · score 0.59
+- **information move** — 13.0% move on $107k of volume — the market repriced on real money
+  https://polymarket.com/event/mex-asl-san-2026-10-11-asl
 
-### Pistons vs. Wizards
-price **40.0%** · fair value est. **40.0%** · spread 2.0% · 24h 17.5% · $112k · score 0.74
-- **information move** — 17.5% move on $112k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-det-was-2026-10-10
+### US x Yemen ceasefire continues through October 15?
+price **91.5%** · fair value est. **91.5%** · spread 1.0% · 24h 7.0% · $83k · score 0.31
+- **asymmetric favourite** — 91.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/us-x-yemen-ceasefire-continues-through-october-15
 
-### Spread: Avalanche (-1.5)
-price **58.0%** · fair value est. **58.0%** · spread 2.0% · 24h 12.5% · $104k · score 0.52
-- **information move** — 12.5% move on $104k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-tor-col-2026-10-10-spread-home-1pt5
+### US x Iran ceasefire continues through October 12?
+price **97.5%** · fair value est. **97.5%** · spread 0.1% · 24h 2.5% · $302k · score 0.13
+- **asymmetric favourite** — 97.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-12
 
-### Timberwolves vs. Heat
-price **57.5%** · fair value est. **57.5%** · spread 1.0% · 24h 10.0% · $171k · score 0.48
-- **information move** — 10.0% move on $171k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-min-mia-2026-10-10
+### Will the Cleveland Guardians win the 2026 World Series?
+price **9.6%** · fair value est. **9.6%** · spread 0.7% · 24h 2.5% · $78k · score 0.11
+- **long-shot premium** — priced 9.6% with $78k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/will-the-cleveland-guardians-win-the-2026-world-series
 
-### Inter Miami CF vs. D.C. United SC: O/U 3.5
-price **64.0%** · fair value est. **64.0%** · spread 2.0% · 24h 8.0% · $144k · score 0.34
-- **information move** — 8.0% move on $144k of volume — the market repriced on real money
-  https://polymarket.com/event/mls-mia-dcu-2026-10-10-total-3pt5
-
-### LSU vs. Kentucky: O/U 51.5
-price **59.5%** · fair value est. **59.5%** · spread 11.0% · 24h 13.0% · $132k · score 0.32
-- **information move** — 13.0% move on $132k of volume — the market repriced on real money
-- **wide spread** — 11.0% bid-ask — price is a guess, not a level
-  https://polymarket.com/event/cfb-lsu-uk-2026-10-10-total-51pt5
-
-### 76ers vs. Celtics
-price **30.5%** · fair value est. **30.5%** · spread 1.0% · 24h 6.0% · $112k · score 0.28
-- **information move** — 6.0% move on $112k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-phi-bos-2026-10-10
+### US x Iran ceasefire continues through October 15?
+price **93.5%** · fair value est. **93.5%** · spread 1.0% · 24h 2.0% · $116k · score 0.09
+- **asymmetric favourite** — 93.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-15
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 12 markets, $1.2M traded
-- **10–25%** band: 10 markets, $1.1M traded
-- **25–45%** band: 16 markets, $2.6M traded
-- **45–55%** band: 10 markets, $1.8M traded
-- **55–75%** band: 13 markets, $1.1M traded
-- **75–90%** band: 9 markets, $1.1M traded
-- **90–100%** band: 5 markets, $974k traded
+- **0–10%** band: 20 markets, $2.1M traded
+- **10–25%** band: 10 markets, $1.4M traded
+- **25–45%** band: 10 markets, $1.8M traded
+- **45–55%** band: 2 markets, $797k traded
+- **55–75%** band: 5 markets, $388k traded
+- **75–90%** band: 5 markets, $610k traded
+- **90–100%** band: 6 markets, $864k traded
 
 <!-- Gan: signals above, voice below. -->
 
