@@ -1,83 +1,186 @@
 [
   {
-    "q": "Will St. Louis City SC win on 2026-10-11?",
-    "score": 1.6142051465296836,
+    "q": "Golden Knights vs. Wild",
+    "score": 1.9393675649069746,
     "tags": [
       "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.977,
-    "fair": 0.977,
-    "vol24": 125166.02686500004
-  },
-  {
-    "q": "Canucks vs. Rangers",
-    "score": 1.1305144991284883,
-    "tags": [
       "long-shot premium"
     ],
-    "price": 0.045,
-    "fair": 0.045,
-    "vol24": 94245.18864100003
+    "price": 0.075,
+    "fair": 0.07500000000000001,
+    "vol24": 120030.71279800002
   },
   {
-    "q": "Magic vs. Cavaliers",
-    "score": 1.059564016602345,
+    "q": "Spurs vs. Jazz",
+    "score": 1.5537949065178345,
     "tags": [
       "information move"
     ],
-    "price": 0.165,
-    "fair": 0.165,
-    "vol24": 198526.2299930001
+    "price": 0.235,
+    "fair": 0.235,
+    "vol24": 181549.79087599996
   },
   {
-    "q": "Will Atl\u00e9tico San Luis win on 2026-10-11?",
-    "score": 0.5945116654158191,
+    "q": "Spread: Tampa Bay Rays (-1.5)",
+    "score": 1.3615844403551967,
     "tags": [
       "information move"
     ],
-    "price": 0.365,
-    "fair": 0.365,
-    "vol24": 107270.24540399999
+    "price": 0.115,
+    "fair": 0.11499999999999999,
+    "vol24": 146092.413251
   },
   {
-    "q": "US x Yemen ceasefire continues through October 15?",
-    "score": 0.313047270140271,
+    "q": "Bills vs. Rams: O/U 52.5",
+    "score": 1.1173064489618436,
     "tags": [
-      "asymmetric favourite"
+      "information move"
     ],
-    "price": 0.915,
-    "fair": 0.915,
-    "vol24": 83044.14449
+    "price": 0.325,
+    "fair": 0.325,
+    "vol24": 132124.87945600005
   },
   {
-    "q": "US x Iran ceasefire continues through October 12?",
-    "score": 0.13292855521626543,
+    "q": "Bills vs. Rams: O/U 54.5",
+    "score": 1.0876327701711679,
     "tags": [
-      "asymmetric favourite"
+      "information move"
     ],
-    "price": 0.9755,
-    "fair": 0.9755,
-    "vol24": 301932.894015
+    "price": 0.265,
+    "fair": 0.265,
+    "vol24": 274259.870965
   },
   {
-    "q": "Will the Cleveland Guardians win the 2026 World Series?",
-    "score": 0.11203474147798134,
+    "q": "Cleveland Guardians vs. Tampa Bay Rays: O/U 6.5",
+    "score": 1.0576424433579115,
     "tags": [
-      "long-shot premium"
+      "information move"
     ],
-    "price": 0.0955,
-    "fair": 0.0955,
-    "vol24": 78152.03575600001
+    "price": 0.315,
+    "fair": 0.315,
+    "vol24": 194182.45178299997
+  },
+  {
+    "q": "Spread: Rams (-4.5)",
+    "score": 0.8963518327398748,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.245,
+    "fair": 0.245,
+    "vol24": 154668.73713699996
+  },
+  {
+    "q": "Spread: Rams (-2.5)",
+    "score": 0.8504300102853666,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.405,
+    "fair": 0.405,
+    "vol24": 318259.264586
+  },
+  {
+    "q": "Spread: Rams (-3.5)",
+    "score": 0.7930046136367818,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.32,
+    "fair": 0.32,
+    "vol24": 1378447.538252
+  },
+  {
+    "q": "Will Elon Musk post 340-359 tweets from October 6 to October 13, 2026?",
+    "score": 0.7249026434990117,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.175,
+    "fair": 0.175,
+    "vol24": 74694.610701
+  },
+  {
+    "q": "Bills vs. Rams: O/U 48.5",
+    "score": 0.7161785260374192,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.5,
+    "fair": 0.5,
+    "vol24": 161647.28392399996
+  },
+  {
+    "q": "Bills vs. Rams",
+    "score": 0.5306803037705019,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 3062615.384803033
+  },
+  {
+    "q": "Cleveland Guardians vs. Tampa Bay Rays",
+    "score": 0.37010764780721395,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 654600.9921840002
+  },
+  {
+    "q": "Will Aleksandar Vu\u010di\u0107 be the next Prime Minister of Serbia?",
+    "score": 0.26749834389509364,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.701,
+    "fair": 0.701,
+    "vol24": 101481.46867
   },
   {
     "q": "US x Iran ceasefire continues through October 15?",
-    "score": 0.09208937260556728,
+    "score": 0.1691366602133407,
     "tags": [
       "asymmetric favourite"
     ],
-    "price": 0.935,
-    "fair": 0.935,
-    "vol24": 116121.26366799999
+    "price": 0.9665,
+    "fair": 0.9664999999999999,
+    "vol24": 264917.301776
+  },
+  {
+    "q": "US x Yemen ceasefire continues through October 15?",
+    "score": 0.14842939350881068,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.945,
+    "fair": 0.945,
+    "vol24": 276955.202247
+  },
+  {
+    "q": "Will Russia capture all of Kostyantynivka by June 30, 2027?",
+    "score": 0.1478951911929351,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.555,
+    "fair": 0.5549999999999999,
+    "vol24": 64060.0
+  },
+  {
+    "q": "Will Student List \u2013 Students Win win the most seats in the 2026 Serbian parliamentary election?",
+    "score": 0.13253536353187712,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.375,
+    "fair": 0.375,
+    "vol24": 72380.90286099998
   }
 ]
