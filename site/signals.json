@@ -1,249 +1,206 @@
 [
   {
-    "q": "Panthers vs. Blue Jackets",
-    "score": 2.0109251424557866,
+    "q": "Will CA Sarmiento win on 2026-10-07?",
+    "score": 1.2927692637657855,
     "tags": [
-      "information move"
+      "genuine disagreement"
     ],
-    "price": 0.875,
-    "fair": 0.875,
-    "vol24": 248406.67861900013
+    "price": 0.5,
+    "fair": 0.5,
+    "vol24": 59332.76360500001
   },
   {
-    "q": "Knicks vs. Raptors",
-    "score": 1.4835444430305735,
+    "q": "Santa Cruz 2: Francisco Comesana vs Felipe Meligeni Alves",
+    "score": 1.074061387985271,
     "tags": [
       "information move",
-      "long-shot premium"
+      "asymmetric favourite"
     ],
-    "price": 0.047,
-    "fair": 0.047,
-    "vol24": 154865.49076700004
+    "price": 0.93,
+    "fair": 0.9299999999999999,
+    "vol24": 113345.08698499999
   },
   {
-    "q": "Cavaliers vs. Magic",
-    "score": 1.167596568798873,
+    "q": "Will Ethereum reach $2,600 in October?",
+    "score": 0.7380465036914563,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.515,
+    "fair": 0.515,
+    "vol24": 59646.881547
+  },
+  {
+    "q": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+    "score": 0.5802466470295246,
     "tags": [
       "information move"
     ],
-    "price": 0.23,
-    "fair": 0.22999999999999998,
-    "vol24": 100920.87135000007
+    "price": 0.705,
+    "fair": 0.705,
+    "vol24": 2413864.7760859956
   },
   {
-    "q": "Kraken vs. Flyers",
-    "score": 0.8897840346060502,
+    "q": "Will Luca Niculescu be the next Prime Minister of Romania?",
+    "score": 0.5743199956191349,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.9205,
+    "fair": 0.9205000000000001,
+    "vol24": 58959.51305200001
+  },
+  {
+    "q": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+    "score": 0.558834882113758,
     "tags": [
       "information move"
     ],
-    "price": 0.665,
-    "fair": 0.665,
-    "vol24": 273884.537746
+    "price": 0.285,
+    "fair": 0.28500000000000003,
+    "vol24": 1403406.2095679995
   },
   {
-    "q": "Delaware vs. Middle Tennessee",
-    "score": 0.8632236913602922,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.355,
-    "fair": 0.355,
-    "vol24": 385091.50114199996
-  },
-  {
-    "q": "Will Athletic Club win on 2026-10-13?",
-    "score": 0.6402387075632112,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.315,
-    "fair": 0.315,
-    "vol24": 107261.271053
-  },
-  {
-    "q": "US x Yemen ceasefire continues through October 31?",
-    "score": 0.36997146424169675,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.875,
-    "fair": 0.875,
-    "vol24": 122209.25022700003
-  },
-  {
-    "q": "Will Louisiana enact a data center moratorium by December 31, 2027?",
-    "score": 0.36570037599178684,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.105,
-    "fair": 0.10500000000000001,
-    "vol24": 106752.02
-  },
-  {
-    "q": "Will Indiana enact a data center moratorium by December 31, 2027?",
-    "score": 0.35077348037373496,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.165,
-    "fair": 0.165,
-    "vol24": 325202.11103100004
-  },
-  {
-    "q": "Will CA Boca Juniors win on 2026-10-13?",
-    "score": 0.3410068202184256,
+    "q": "Will FC Cincinnati win on 2026-10-14?",
+    "score": 0.44743442733788924,
     "tags": [
       "information move"
     ],
     "price": 0.435,
     "fair": 0.435,
-    "vol24": 228389.79878199994
+    "vol24": 294199.225178
   },
   {
-    "q": "Blues vs. Senators",
-    "score": 0.3200965689900765,
+    "q": "Will Elon Musk post 220-239 tweets from October 9 to October 16, 2026?",
+    "score": 0.39957940375321055,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0215,
+    "fair": 0.0215,
+    "vol24": 84906.00918500002
+  },
+  {
+    "q": "Will Columbus Crew win on 2026-10-14?",
+    "score": 0.34401336100666474,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
-    "price": 0.525,
-    "fair": 0.525,
-    "vol24": 738646.2718949999
+    "price": 0.555,
+    "fair": 0.555,
+    "vol24": 254637.60382100003
   },
   {
-    "q": "Cleveland Guardians vs. Tampa Bay Rays",
-    "score": 0.2992177660859196,
+    "q": "Columbus Crew vs. Charlotte FC: O/U 3.5",
+    "score": 0.3250409870219352,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 115792.79089100004
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 128169.163675
   },
   {
-    "q": "LoL: BNK FEARX vs KT Rolster (BO5) - Demacia Cup Global Invitational Playoffs",
-    "score": 0.2866093833104233,
+    "q": "Another Fed rate hike in 2026?",
+    "score": 0.27450492923667585,
     "tags": [
       "information move"
     ],
-    "price": 0.405,
-    "fair": 0.405,
-    "vol24": 179681.32590300002
+    "price": 0.855,
+    "fair": 0.855,
+    "vol24": 107791.95292699999
   },
   {
-    "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8\u201312%?",
-    "score": 0.2743523875594998,
-    "tags": [
-      "long-shot premium",
-      "trend divergence"
-    ],
-    "price": 0.0885,
-    "fair": 0.0885,
-    "vol24": 79865.07379100002
-  },
-  {
-    "q": "Capitals vs. Hurricanes",
-    "score": 0.2735034538140973,
+    "q": "Inter Miami CF vs. New York City FC: O/U 3.5",
+    "score": 0.22980836985770323,
     "tags": [
       "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.46,
-    "fair": 0.45999999999999996,
-    "vol24": 112018.73268100002
-  },
-  {
-    "q": "Warriors vs. Lakers",
-    "score": 0.23994950213498564,
-    "tags": [
       "genuine disagreement"
     ],
     "price": 0.465,
     "fair": 0.46499999999999997,
-    "vol24": 62948.17499999998
+    "vol24": 113705.19763899999
   },
   {
-    "q": "Trail Blazers vs. Kings",
-    "score": 0.22823576467604162,
+    "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "score": 0.2001300472900141,
     "tags": [
       "information move"
     ],
-    "price": 0.585,
-    "fair": 0.585,
-    "vol24": 104998.40132799996
+    "price": 0.265,
+    "fair": 0.265,
+    "vol24": 318841.56957
   },
   {
-    "q": "Dana White's Contender Series: Ilias Bulaid vs. Erick Visconde (Featherweight, Main Card)",
-    "score": 0.22377454236803218,
+    "q": "Will there be no Hormuz agreement?",
+    "score": 0.19893554082384485,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.931,
+    "fair": 0.931,
+    "vol24": 186422.236114
+  },
+  {
+    "q": "Nashville SC vs. Sporting Kansas City: O/U 3.5",
+    "score": 0.17861344611992733,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.54,
-    "fair": 0.54,
-    "vol24": 76268.98336499998
+    "price": 0.505,
+    "fair": 0.505,
+    "vol24": 81632.75398599998
   },
   {
-    "q": "Ballon d'Or 2026: Kylian Mbapp\u00e9 or Lamine Yamal to finish higher?",
-    "score": 0.20387118385372158,
+    "q": "Stars vs. Avalanche",
+    "score": 0.14707662139212624,
     "tags": [
       "trend divergence"
     ],
-    "price": 0.565,
-    "fair": 0.565,
-    "vol24": 96274.953288
+    "price": 0.415,
+    "fair": 0.415,
+    "vol24": 247062.99011100002
   },
   {
-    "q": "Bruins vs. Sharks",
-    "score": 0.1785119096941543,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 81109.581803
-  },
-  {
-    "q": "Will the upper bound of the target federal funds rate be 4.25% at the end of 2026?",
-    "score": 0.14915852452546227,
-    "tags": [
-      "information move",
-      "wide spread"
-    ],
-    "price": 0.624,
-    "fair": 0.624,
-    "vol24": 127587.353159
-  },
-  {
-    "q": "Avalanche vs. Stars",
-    "score": 0.14725689493436359,
+    "q": "LoL: Team WE vs HANJIN BRION (BO5) - Demacia Cup Global Invitational Playoffs",
+    "score": 0.14139836918647236,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 250852.10496300002
+    "price": 0.445,
+    "fair": 0.445,
+    "vol24": 152969.212563
   },
   {
-    "q": "Will oil be below $80 on November 2 and the Democrats win the Senate?",
-    "score": 0.09394654033394663,
+    "q": "Will the U.S. invade Cuba in 2026?",
+    "score": 0.13402527700403014,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.0795,
-    "fair": 0.0795,
-    "vol24": 85543.75119999998
+    "price": 0.075,
+    "fair": 0.07500000000000001,
+    "vol24": 82083.310936
   },
   {
-    "q": "Will Real Madrid CF win on 2026-10-14?",
-    "score": 0.09090809170648806,
+    "q": "Will there be a Hormuz agreement and the Democrats win the Senate?",
+    "score": 0.0944684329897123,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0385,
+    "fair": 0.0385,
+    "vol24": 58972.35913400001
+  },
+  {
+    "q": "Spread: Kennesaw State (-2.5)",
+    "score": 0.07925794692206894,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 99986.346681
+    "price": 0.52,
+    "fair": 0.52,
+    "vol24": 56946.782192
   }
 ]
