@@ -1,293 +1,134 @@
 [
   {
-    "q": "Will Los Angeles Dodgers win the 2026 National League Championship Series?",
-    "score": 0.9737833856501849,
+    "q": "Dota 2: Yellow Submarine vs The Warriors (BO3) - EPL Masters Play-In Group B",
+    "score": 1.8528838130311693,
     "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.095,
-    "fair": 0.095,
-    "vol24": 73945.381706
-  },
-  {
-    "q": "Will the Los Angeles Dodgers win the 2026 World Series?",
-    "score": 0.7387838207317315,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.075,
-    "fair": 0.07500000000000001,
-    "vol24": 119987.263326
-  },
-  {
-    "q": "Will the price of Bitcoin be above $80,000 on October 16?",
-    "score": 0.7115758843522001,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.945,
-    "fair": 0.945,
-    "vol24": 77997.132566
-  },
-  {
-    "q": "Will CA Hurac\u00e1n win on 2026-10-15?",
-    "score": 0.7042589989169099,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.235,
-    "fair": 0.235,
-    "vol24": 146070.669188
-  },
-  {
-    "q": "Panthers vs. Eagles",
-    "score": 0.6034213574481317,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.635,
-    "fair": 0.635,
-    "vol24": 127605.566871
-  },
-  {
-    "q": "Will there be no Hormuz agreement?",
-    "score": 0.4412627856440483,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.942,
-    "fair": 0.942,
-    "vol24": 197310.96775100002
-  },
-  {
-    "q": "Will Bitcoin dip to $77,500 in October?",
-    "score": 0.4378252777477146,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.375,
-    "fair": 0.375,
-    "vol24": 224489.433787
-  },
-  {
-    "q": "Will Bitcoin reach $87,500 in October?",
-    "score": 0.31419860273946265,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.4,
-    "fair": 0.4,
-    "vol24": 106456.83843599999
-  },
-  {
-    "q": "Will Indiana enact a data center moratorium by December 31, 2027?",
-    "score": 0.287387519547373,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.125,
-    "fair": 0.125,
-    "vol24": 2101479.8173089996
-  },
-  {
-    "q": "Will there be a Hormuz agreement and the Democrats win the Senate?",
-    "score": 0.28641794626941663,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.0285,
-    "fair": 0.0285,
-    "vol24": 181832.96685199998
-  },
-  {
-    "q": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-    "score": 0.28237922428234363,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.205,
-    "fair": 0.20500000000000002,
-    "vol24": 1630582.09023
-  },
-  {
-    "q": "US announces end of Iranian blockade by October 31, 2026?",
-    "score": 0.2811022383988646,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.055,
-    "fair": 0.055,
-    "vol24": 142409.18063800002
-  },
-  {
-    "q": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-    "score": 0.27782402982652227,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.7965,
-    "fair": 0.7965,
-    "vol24": 701261.5193279998
-  },
-  {
-    "q": "Will the Cleveland Guardians win the 2026 World Series?",
-    "score": 0.25698951066986087,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.1865,
-    "fair": 0.1865,
-    "vol24": 112700.721956
-  },
-  {
-    "q": "Will Elon Musk post 300-319 tweets from October 9 to October 16, 2026?",
-    "score": 0.22575018442363964,
-    "tags": [
-      "information move",
-      "long-shot premium",
-      "trend divergence"
-    ],
-    "price": 0.0805,
-    "fair": 0.08049999999999999,
-    "vol24": 109905.53993500001
-  },
-  {
-    "q": "Utah vs. Oilers",
-    "score": 0.20801160225363924,
-    "tags": [
-      "information move",
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.515,
-    "fair": 0.515,
-    "vol24": 121541.46921800001
-  },
-  {
-    "q": "Commanders vs. 49ers: O/U 50.5",
-    "score": 0.2054226117117009,
-    "tags": [
-      "information move",
       "genuine disagreement"
     ],
-    "price": 0.545,
-    "fair": 0.545,
-    "vol24": 105060.021626
+    "price": 0.505,
+    "fair": 0.505,
+    "vol24": 62472.99532999998
   },
   {
-    "q": "Will there be a Hormuz agreement and the Republicans win the Senate?",
-    "score": 0.19858838668459666,
+    "q": "Will Trump say \"Star\" during his Midterm Rally in Georgia?",
+    "score": 1.0349039362113026,
     "tags": [
-      "long-shot premium"
+      "information move",
+      "wide spread",
+      "asymmetric favourite"
     ],
-    "price": 0.0265,
-    "fair": 0.0265,
-    "vol24": 89628.53116699998
+    "price": 0.91,
+    "fair": 0.9099999999999999,
+    "vol24": 129012.964814
   },
   {
-    "q": "Will Apple be the largest company in the world by market cap on December 31?",
-    "score": 0.18790063432921267,
+    "q": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+    "score": 0.7786633259142735,
     "tags": [
       "information move"
     ],
-    "price": 0.2945,
-    "fair": 0.2945,
-    "vol24": 114044.66987000003
+    "price": 0.865,
+    "fair": 0.865,
+    "vol24": 513093.9300600002
   },
   {
-    "q": "Spread: Texas State (-14.5)",
-    "score": 0.18112056610841334,
+    "q": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+    "score": 0.7124178055329969,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.135,
+    "fair": 0.135,
+    "vol24": 395883.47613500006
+  },
+  {
+    "q": "Russia-Ukraine peace talks by November 30, 2026?",
+    "score": 0.5741510208406364,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.185,
+    "fair": 0.185,
+    "vol24": 112856.12521799997
+  },
+  {
+    "q": "Celtics vs. 76ers",
+    "score": 0.5239604134525107,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.225,
+    "fair": 0.225,
+    "vol24": 173620.752078
+  },
+  {
+    "q": "Ballon d'Or 2026: Kylian Mbapp\u00e9 or Lamine Yamal to finish higher?",
+    "score": 0.2509526217930701,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.565,
+    "fair": 0.565,
+    "vol24": 104483.63643000001
+  },
+  {
+    "q": "Will Russia capture Oleksiievo-Druzhkivka by March 31, 2027?",
+    "score": 0.15269914901706344,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.265,
+    "fair": 0.265,
+    "vol24": 62966.450867
+  },
+  {
+    "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8\u201312%?",
+    "score": 0.14119798228870534,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0615,
+    "fair": 0.0615,
+    "vol24": 159231.21134300003
+  },
+  {
+    "q": "Spread: Chiefs (-7.5)",
+    "score": 0.13151347416940043,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 66397.874754
+  },
+  {
+    "q": "Manchester City FC vs. Ipswich Town FC: O/U 3.5",
+    "score": 0.09871209092900571,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 268635.487989
+  },
+  {
+    "q": "Spread: Memphis (-6.5)",
+    "score": 0.09306058945358407,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.515,
     "fair": 0.515,
-    "vol24": 95677.766559
+    "vol24": 131319.46744
   },
   {
-    "q": "Will Marine Le Pen win the 2027 French presidential election?",
-    "score": 0.17888973384636805,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.4735,
-    "fair": 0.4735,
-    "vol24": 206098.713369
-  },
-  {
-    "q": "Will oil be below $80 on November 2 and the Republicans win the Senate?",
-    "score": 0.1589443759120953,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0455,
-    "fair": 0.0455,
-    "vol24": 86995.57273100001
-  },
-  {
-    "q": "Will there be no Hormuz agreement?",
-    "score": 0.1421696818625296,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.9605,
-    "fair": 0.9604999999999999,
-    "vol24": 73705.25783899998
-  },
-  {
-    "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-    "score": 0.14182736794801715,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.295,
-    "fair": 0.295,
-    "vol24": 158611.2861170001
-  },
-  {
-    "q": "US x Iran ceasefire continues through October 17?",
-    "score": 0.12747561148108036,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.9545,
-    "fair": 0.9544999999999999,
-    "vol24": 111951.558557
-  },
-  {
-    "q": "Israel x Iran ceasefire continues through October 21?",
-    "score": 0.09489086533106816,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.935,
-    "fair": 0.935,
-    "vol24": 165575.07874799997
-  },
-  {
-    "q": "Spread: Georgia Southern (-3.5)",
-    "score": 0.0917616092507635,
+    "q": "Spread: Purdue (-3.5)",
+    "score": 0.0928576353612054,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.465,
     "fair": 0.46499999999999997,
-    "vol24": 111399.851085
-  },
-  {
-    "q": "Rangers vs. Devils",
-    "score": 0.09066993254181055,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.455,
-    "fair": 0.455,
-    "vol24": 97015.65346400002
+    "vol24": 127987.204004
   }
 ]
