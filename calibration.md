@@ -1,6 +1,6 @@
-# Odds Shift — Calibration Report (16 Oct 2026)
+# Odds Shift — Calibration Report (17 Oct 2026)
 
-_35 resolved markets · 24 non-sports · price sampled 7 days before resolution_
+_36 resolved markets · 25 non-sports · price sampled 7 days before resolution_
 
 ## Are the odds real probabilities?
 
@@ -9,23 +9,25 @@ _35 resolved markets · 24 non-sports · price sampled 7 days before resolution_
 | Price band | Markets | Resolved YES | Actual rate | Gap |
 |---|---|---|---|---|
 | 0–5% | 3 | 0 | 0.0% | -2.5% |
+| 10–20% | 1 | 0 | 0.0% | -15.0% |
 | 20–35% | 3 | 1 | 33.3% | +5.8% |
 | 35–50% | 10 | 5 | 50.0% | +7.5% |
 | 50–65% | 17 | 8 | 47.1% | -10.4% |
 | 65–80% | 2 | 1 | 50.0% | -22.5% |
 
-**Brier score:** 0.2254 _(0 = perfect, 0.25 = coin-flip guessing; lower is better)_
+**Brier score:** 0.2196 _(0 = perfect, 0.25 = coin-flip guessing; lower is better)_
 
 **Non-sports only**
 
 | Price band | Markets | Resolved YES | Actual rate | Gap |
 |---|---|---|---|---|
 | 0–5% | 3 | 0 | 0.0% | -2.5% |
+| 10–20% | 1 | 0 | 0.0% | -15.0% |
 | 20–35% | 2 | 1 | 50.0% | +22.5% |
 | 35–50% | 5 | 1 | 20.0% | -22.5% |
 | 50–65% | 14 | 6 | 42.9% | -14.6% |
 
-**Brier score:** 0.2206 _(0 = perfect, 0.25 = coin-flip guessing; lower is better)_
+**Brier score:** 0.2124 _(0 = perfect, 0.25 = coin-flip guessing; lower is better)_
 
 **Sports only**
 

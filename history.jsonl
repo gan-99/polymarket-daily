@@ -33,3 +33,4 @@
 {"slug": "cbb-alcst-txs-2026-02-26", "q": "Alcorn State Braves vs. Texas Southern Tigers", "price": 0.5, "lead_days": 7, "resolved_yes": 0, "volume": 99971.750276, "end": "2026-02-27", "sports": false, "outcomes": ["Alcorn State Braves", "Texas Southern Tigers"]}
 {"slug": "wnba-wsh-tor-2026-05-08", "q": "Washington Mystics vs. Toronto Tempo", "price": 0.465, "lead_days": 7, "resolved_yes": 1, "volume": 99971.01140699988, "end": "2026-05-08", "sports": false, "outcomes": ["Washington Mystics", "Toronto Tempo"]}
 {"slug": "btc-updown-5m-1771579800", "q": "Bitcoin Up or Down - February 20, 4:30AM-4:35AM ET", "price": 0.5, "lead_days": 7, "resolved_yes": 0, "volume": 99970.035413, "end": "2026-02-20", "sports": false, "outcomes": ["Up", "Down"]}
+{"slug": "fl1-lil-hac-2026-10-10-hac", "q": "Will Le Havre AC win on 2026-10-10?", "price": 0.13, "lead_days": 7, "resolved_yes": 0, "volume": 99995.67746600001, "end": "2026-10-10", "sports": false, "outcomes": ["Yes", "No"]}
