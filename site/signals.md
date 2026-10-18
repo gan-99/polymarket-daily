@@ -1,73 +1,70 @@
-# Odds Shift — Signals (Sat 17 Oct 2026 22:46)
+# Odds Shift — Signals (Sun 18 Oct 2026 22:40)
 
-_68 markets · 44 non-sports · 24 carrying a signal · analytics, not advice_
+_65 markets · 41 non-sports · 23 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Alabama vs. Tennessee
-price **6.5%** · fair value est. **6.5%** · spread 1.0% · 24h 68.0% · $677k · score 3.60
-- **information move** — 68.0% move on $677k of volume — the market repriced on real money
-- **long-shot premium** — priced 6.5% with $677k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/cfb-ala-tenn-2026-10-17
+### Cardinals vs. Rams
+price **81.5%** · fair value est. **81.5%** · spread 1.0% · 24h 69.0% · $2.4M · score 4.00
+- **information move** — 69.0% move on $2.4M of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-ari-la-2026-10-18
 
-### Spread: Toledo (-6.5)
-price **97.5%** · fair value est. **97.5%** · spread 1.0% · 24h 45.0% · $159k · score 2.13
-- **information move** — 45.0% move on $159k of volume — the market repriced on real money
-- **asymmetric favourite** — 97.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/cfb-toledo-emich-2026-10-17-spread-away-6pt5
+### Will Columbus Crew win on 2026-10-18?
+price **81.5%** · fair value est. **81.5%** · spread 1.0% · 24h 46.0% · $448k · score 2.36
+- **information move** — 46.0% move on $448k of volume — the market repriced on real money
+  https://polymarket.com/event/mls-fcc-clb-2026-10-18-clb
 
-### Troy vs. Louisiana
-price **4.5%** · fair value est. **4.5%** · spread 1.0% · 24h 36.0% · $262k · score 1.77
-- **information move** — 36.0% move on $262k of volume — the market repriced on real money
-- **long-shot premium** — priced 4.5% with $262k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/cfb-troy-loulaf-2026-10-17
+### Tampa Bay Rays vs. Cleveland Guardians
+price **87.5%** · fair value est. **87.5%** · spread 1.0% · 24h 37.0% · $763k · score 1.98
+- **information move** — 37.0% move on $763k of volume — the market repriced on real money
+  https://polymarket.com/event/mlb-tb-cle-2026-10-17
 
-### Auburn vs. Georgia
-price **30.6%** · fair value est. **30.6%** · spread 0.5% · 24h 21.1% · $422k · score 1.13
-- **information move** — 21.1% move on $422k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-aubrn-ga-2026-10-17
+### Will FC Cincinnati win on 2026-10-18?
+price **5.5%** · fair value est. **5.5%** · spread 1.0% · 24h 35.0% · $220k · score 1.70
+- **information move** — 35.0% move on $220k of volume — the market repriced on real money
+- **long-shot premium** — priced 5.5% with $220k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/mls-fcc-clb-2026-10-18-fcc
 
-### West Indies Tour of India T20s: India vs West Indies
-price **50.5%** · fair value est. **50.5%** · spread 1.0% · 24h 18.0% · $401k · score 0.92
-- **information move** — 18.0% move on $401k of volume — the market repriced on real money
-- **genuine disagreement** — 50.5% with $401k traded — two sides with conviction
-  https://polymarket.com/event/crint-ind-wst-2026-10-17
+### Spread: Chiefs (-7.5)
+price **77.5%** · fair value est. **77.5%** · spread 3.0% · 24h 29.0% · $149k · score 1.15
+- **information move** — 29.0% move on $149k of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-lac-kc-2026-10-18-spread-home-7pt5
 
-### North Carolina vs. Duke
-price **27.5%** · fair value est. **27.5%** · spread 1.0% · 24h 14.0% · $132k · score 0.65
-- **information move** — 14.0% move on $132k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-ncar-duke-2026-10-17
+### Spread: Chiefs (-3.5)
+price **92.0%** · fair value est. **92.0%** · spread 2.0% · 24h 24.5% · $85k · score 1.01
+- **asymmetric favourite** — 92.0% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nfl-lac-kc-2026-10-18-spread-home-3pt5
 
-### Spread: Wyoming (-7.5)
-price **90.0%** · fair value est. **90.0%** · spread 20.0% · 24h 38.5% · $65k · score 0.62
-- **wide spread** — 20.0% bid-ask — price is a guess, not a level
-- **asymmetric favourite** — 90.0% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/cfb-nill-wyom-2026-10-17-spread-home-7pt5
+### Chargers vs. Chiefs
+price **3.5%** · fair value est. **3.5%** · spread 0.8% · 24h 18.0% · $1.0M · score 1.00
+- **information move** — 18.0% move on $1.0M of volume — the market repriced on real money
+- **long-shot premium** — priced 3.5% with $1.0M behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nfl-lac-kc-2026-10-18
 
-### Will CA Mineiro win on 2026-10-17?
-price **50.5%** · fair value est. **50.5%** · spread 1.0% · 24h 12.0% · $73k · score 0.53
-- **genuine disagreement** — 50.5% with $73k traded — two sides with conviction
-  https://polymarket.com/event/bra-cam-cor-2026-10-17-cam
+### Spread: Chiefs (-6.5)
+price **80.5%** · fair value est. **80.5%** · spread 3.0% · 24h 23.0% · $135k · score 0.91
+- **information move** — 23.0% move on $135k of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-lac-kc-2026-10-18-spread-home-6pt5
 
-### Penn State vs. Michigan
-price **23.5%** · fair value est. **23.5%** · spread 1.0% · 24h 10.0% · $199k · score 0.48
-- **information move** — 10.0% move on $199k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-pennst-mich-2026-10-17
+### Bills vs. Raiders
+price **81.5%** · fair value est. **81.5%** · spread 1.0% · 24h 14.0% · $1.8M · score 0.80
+- **information move** — 14.0% move on $1.8M of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-buf-lv-2026-10-18
 
-### US x Iran ceasefire continues through October 22?
-price **92.5%** · fair value est. **92.5%** · spread 1.0% · 24h 6.5% · $67k · score 0.29
-- **asymmetric favourite** — 92.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-22
+### Will CA San Lorenzo de Almagro win on 2026-10-18?
+price **13.0%** · fair value est. **13.0%** · spread 2.0% · 24h 13.5% · $167k · score 0.59
+- **information move** — 13.5% move on $167k of volume — the market repriced on real money
+  https://polymarket.com/event/arg-est-slo-2026-10-18-slo
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 13 markets, $2.3M traded
-- **10–25%** band: 5 markets, $837k traded
-- **25–45%** band: 16 markets, $3.0M traded
-- **45–55%** band: 14 markets, $2.1M traded
-- **55–75%** band: 9 markets, $721k traded
-- **75–90%** band: 4 markets, $787k traded
-- **90–100%** band: 7 markets, $994k traded
+- **0–10%** band: 16 markets, $2.5M traded
+- **10–25%** band: 11 markets, $1.9M traded
+- **25–45%** band: 7 markets, $1.1M traded
+- **45–55%** band: 7 markets, $1.5M traded
+- **55–75%** band: 8 markets, $1.4M traded
+- **75–90%** band: 12 markets, $7.3M traded
+- **90–100%** band: 4 markets, $417k traded
 
 <!-- Gan: signals above, voice below. -->
 

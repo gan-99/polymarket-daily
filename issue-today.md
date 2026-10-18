@@ -1,74 +1,85 @@
-# Odds Shift — Sat 17 Oct 2026
+# Odds Shift — Sun 18 Oct 2026
 
-_48 markets screened · 26 non-sports · 22:46 local_
+_30 markets screened · 20 non-sports · 22:40 local_
 
 ## 🔍 Insights of the day
 
-- **Biggest non-sports swing:** Alabama vs. Tennessee moved ▼ 68.0% in 24h (now Alabama 6.5%, $677k traded).
-- **Where the money is:** Alabama vs. Tennessee — $677k in a day (Other), priced 6.5%.
-- **Genuine coin flip:** Will Udinese Calcio win on 2026-10-18? at 53.5% with $93k behind it — nobody knows.
-- **Long shot with believers:** Alabama vs. Tennessee priced 6.5% ($677k wagered).
-- **Busiest category:** Other (12 markets). Sports excluded from all of the above — 22 sports markets were screened and sit at the bottom.
+- **Biggest non-sports swing:** Will Columbus Crew win on 2026-10-18? moved ▲ 46.0% in 24h (now Yes 81.5%, $448k traded).
+- **Where the money is:** Will Flávio Bolsonaro win the 2026 Brazilian presidential election? — $1.0M in a day (Politics & Elections), priced 79.0%.
+- **Genuine coin flip:** Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 million views on week 1? at 41.5% with $82k behind it — nobody knows.
+- **Long shot with believers:** Will Bitcoin dip to $80,000 October 12-18? priced 9.1% ($115k wagered).
+- **Busiest category:** Other (6 markets). Sports excluded from all of the above — 10 sports markets were screened and sit at the bottom.
 
 <!-- Gan: facts above, humour here. The voice is yours. -->
 
 ## 💰 Where the money is (sports excluded)
 
-- **Alabama vs. Tennessee** — Alabama 6.5% · $677k traded · resolves 2026-10-17
-  https://polymarket.com/event/cfb-ala-tenn-2026-10-17
-- **Auburn vs. Georgia** — Auburn 30.6% · $422k traded · resolves 2026-10-17
-  https://polymarket.com/event/cfb-aubrn-ga-2026-10-17
-- **Will the US confirm that aliens exist before 2027?** — Yes 5.1% · $386k traded · resolves 2027-01-01
-  https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027-789-924-249
-- **US x Iran ceasefire continues through October 31?** — Yes 80.5% · $376k traded · resolves 2026-10-31
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917
-- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 26.5% · $363k traded · resolves 2026-10-28
+- **Will Flávio Bolsonaro win the 2026 Brazilian presidential election?** — Yes 79.0% · $1.0M traded · resolves 2026-10-05
+  https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 30.5% · $544k traded · resolves 2026-10-28
   https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
+- **Will Columbus Crew win on 2026-10-18?** — Yes 81.5% · $448k traded · resolves 2026-10-18
+  https://polymarket.com/event/mls-fcc-clb-2026-10-18-clb
+- **US x Iran ceasefire continues through October 31?** — Yes 81.5% · $190k traded · resolves 2026-10-31
+  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917
+- **Will the Fed increase interest rates by 25 bps after the October 2026 meeting?** — Yes 12.5% · $149k traded · resolves 2026-10-29
+  https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032
 
 ## 📈 Geopolitics
 
-- **US x Iran ceasefire continues through October 31?** — Yes 80.5% (▲ 4.0% in 24h) · $376k traded · resolves 2026-10-31
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917
-- **US-Iran ceasefire continues through the midterms?** — Yes 77.5% (▲ 3.5% in 24h) · $101k traded · resolves 2026-11-04
-  https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms
-- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 26.5% (▼ 3.0% in 24h) · $363k traded · resolves 2026-10-28
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 30.5% (▲ 3.0% in 24h) · $544k traded · resolves 2026-10-28
   https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
-- **NATO x Russia military clash by December 31, 2026?** — Yes 26.0% (▲ 2.0% in 24h) · $169k traded · resolves 2027-01-01
-  https://polymarket.com/event/nato-x-russia-military-clash-by-december-31-2026-244-538-582
-- **US announces end of Iranian blockade by October 31, 2026?** — Yes 6.5% (▲ 1.0% in 24h) · $59k traded · resolves 2026-11-01
-  https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696
+- **US x Iran ceasefire continues through October 31?** — Yes 81.5% (▲ 1.0% in 24h) · $190k traded · resolves 2026-10-31
+  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917
+- **Israel x Iran ceasefire continues through October 31?** — Yes 86.5% (▲ 1.0% in 24h) · $147k traded · resolves 2026-10-31
+  https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-october-31
+- **US-Iran ceasefire continues through the midterms?** — Yes 78.5% (▲ 1.0% in 24h) · $86k traded · resolves 2026-11-04
+  https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms
 
 ## 📈 Politics & Elections
 
-- **Will oil be at least $85 on November 2 and the Democrats win the Senate?** — Yes 60.4% (▲ 9.5% in 24h) · $92k traded · resolves 2026-11-04
-  https://polymarket.com/event/oil-at-least-85-on-november-2-and-the-democrats-win-the-senate
-- **Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 8–12%?** — Yes 9.0% (▲ 2.9% in 24h) · $163k traded · resolves 2026-10-26
-  https://polymarket.com/event/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-812
-- **Will the Republicans win the Michigan Senate race in 2026?** — Yes 32.5% (▲ 2.0% in 24h) · $64k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-michigan-senate-race-in-2026
-- **2026 Balance of Power: R Senate, R House** — Yes 8.5% (▼ 1.0% in 24h) · $114k traded · resolves 2026-11-04
-  https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537
-- **Will the Republicans win the Texas Senate race in 2026?** — Yes 37.5% (▼ 1.0% in 24h) · $55k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-texas-senate-race-in-2026
+- **Will Édouard Philippe win the 2027 French presidential election?** — Yes 19.5% (▲ 2.0% in 24h) · $79k traded · resolves 2027-04-19
+  https://polymarket.com/event/will-douard-philippe-win-the-2027-french-presidential-election
+- **Will Flávio Bolsonaro win the 2026 Brazilian presidential election?** — Yes 79.0% (▲ 1.6% in 24h) · $1.0M traded · resolves 2026-10-05
+  https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election
+- **Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?** — Yes 19.5% (▼ 1.0% in 24h) · $104k traded · resolves 2026-10-26
+  https://polymarket.com/event/will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4
+
+## 📈 Crypto
+
+- **Will Bitcoin dip to $80,000 October 12-18?** — Yes 9.1% (▼ 12.9% in 24h) · $115k traded · resolves 2026-10-19
+  https://polymarket.com/event/will-bitcoin-dip-to-80k-october-12-18-2026-from-october-15
+- **Will Bitcoin dip to $55,000 by December 31, 2026?** — Yes 10.0% (▼ 0.5% in 24h) · $58k traded · resolves 2027-01-01
+  https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516
+
+## 📈 Science & Space
+
+- **Will "Grand Theft Auto VI Launch Trailer" get between 40 and 60 million views on week 1?** — Yes 41.5% (▼ 5.0% in 24h) · $82k traded · resolves 2026-10-23
+  https://polymarket.com/event/will-grand-theft-auto-vi-launch-trailer-get-between-40-and-60-million-views-on-week-1
+
+## 📈 Business & Markets
+
+- **Will the Fed increase interest rates by 25 bps after the October 2026 meeting?** — Yes 12.5% (▼ 1.0% in 24h) · $149k traded · resolves 2026-10-29
+  https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032
 
 ## 🎲 Other movers
 
-- **Alabama vs. Tennessee** — Alabama 6.5% (▼ 68.0% in 24h) · $677k traded · resolves 2026-10-17
-  https://polymarket.com/event/cfb-ala-tenn-2026-10-17
-- **Auburn vs. Georgia** — Auburn 30.6% (▲ 21.1% in 24h) · $422k traded · resolves 2026-10-17
-  https://polymarket.com/event/cfb-aubrn-ga-2026-10-17
-- **North Carolina vs. Duke** — North Carolina 27.5% (▼ 14.0% in 24h) · $132k traded · resolves 2026-10-17
-  https://polymarket.com/event/cfb-ncar-duke-2026-10-17
+- **Will Columbus Crew win on 2026-10-18?** — Yes 81.5% (▲ 46.0% in 24h) · $448k traded · resolves 2026-10-18
+  https://polymarket.com/event/mls-fcc-clb-2026-10-18-clb
+- **Ballon d'Or 2026: Kylian Mbappé or Lamine Yamal to finish higher?** — Mbappé 56.5% (▲ 5.0% in 24h) · $69k traded · resolves 2027-01-01
+  https://polymarket.com/event/ballon-dor-2026-kylian-mbappe-or-lamine-yamal-to-finish-higher
+- **Will América de Cali win on 2026-10-18?** — Yes 37.5% (▲ 4.0% in 24h) · $94k traded · resolves 2026-10-18
+  https://polymarket.com/event/col1-cab-ad1-2026-10-18-ad1
 
 ---
 
 ## 🏟️ Sports (deliberately last — saturated, low signal)
 
-- Spread: Wyoming (-7.5) — Wyoming 90.0% (▲ 38.5%) · $65k
-- West Indies Tour of India T20s: India vs West Indies — India 50.5% (▼ 18.0%) · $401k
-- Will CA Mineiro win on 2026-10-17? — Yes 50.5% (▼ 12.0%) · $73k
+- Cardinals vs. Rams — Cardinals 81.5% (▲ 69.0%) · $2.4M
+- Tampa Bay Rays vs. Cleveland Guardians — Tampa Bay Rays 87.5% (▲ 37.0%) · $763k
+- Spread: Chiefs (-7.5) — Chiefs 77.5% (▲ 29.0%) · $149k
 
-_22 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
+_10 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
 
 ---
 
