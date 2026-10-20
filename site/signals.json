@@ -1,271 +1,260 @@
 [
   {
-    "q": "Japan Women's Open: Katie Boulter vs Himeno Sakatsume",
-    "score": 1.4661504249194433,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.93,
-    "fair": 0.9299999999999999,
-    "vol24": 384887.5150449999
-  },
-  {
-    "q": "Will CA Sarmiento win on 2026-10-19?",
-    "score": 1.4372728093716978,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.08,
-    "fair": 0.08,
-    "vol24": 168439.52234799997
-  },
-  {
-    "q": "Will Goi\u00e1s EC win on 2026-10-19?",
-    "score": 0.8979735115046628,
+    "q": "Cali: Matias Soto vs Samuel Heredia",
+    "score": 1.0023269063865672,
     "tags": [
       "information move"
+    ],
+    "price": 0.565,
+    "fair": 0.565,
+    "vol24": 238966.86180299998
+  },
+  {
+    "q": "Avalanche vs. Devils",
+    "score": 0.9443110418979153,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.335,
+    "fair": 0.335,
+    "vol24": 589914.3547980002
+  },
+  {
+    "q": "Maple Leafs vs. Blue Jackets: O/U 6.5",
+    "score": 0.6011312821841771,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.675,
+    "fair": 0.675,
+    "vol24": 142085.83725299998
+  },
+  {
+    "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4\u20138%?",
+    "score": 0.5369257741641262,
+    "tags": [
+      "trend divergence"
     ],
     "price": 0.365,
     "fair": 0.365,
-    "vol24": 116275.40699299998
+    "vol24": 83524.59855
   },
   {
-    "q": "Spread: Real Cartagena FC (-1.5)",
-    "score": 0.8469213208558543,
+    "q": "Will Atl\u00e9tico Nacional win on 2026-10-19?",
+    "score": 0.4940685360136013,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.515,
+    "fair": 0.515,
+    "vol24": 149952.32206900002
+  },
+  {
+    "q": "Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential election from Amap\u00e1?",
+    "score": 0.42993123299579533,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.72,
+    "fair": 0.72,
+    "vol24": 81939.725652
+  },
+  {
+    "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
+    "score": 0.39438915066371055,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.375,
+    "fair": 0.375,
+    "vol24": 66115.802366
+  },
+  {
+    "q": "76ers vs. Knicks: O/U 231.5",
+    "score": 0.32837365635360255,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
     "price": 0.445,
     "fair": 0.445,
-    "vol24": 108578.639219
+    "vol24": 216805.30892699992
   },
   {
-    "q": "Avalanche vs. Flyers",
-    "score": 0.669715320522228,
+    "q": "Spread: Knicks (-4.5)",
+    "score": 0.32637782281162203,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
-    "price": 0.525,
-    "fair": 0.525,
-    "vol24": 182829.62629500005
+    "price": 0.45,
+    "fair": 0.45,
+    "vol24": 1060318.452091
   },
   {
-    "q": "Will Lamine Yamal win the 2026 Ballon d'Or?",
-    "score": 0.3580618043292306,
+    "q": "Will Anthropic's valuation hit (HIGH) $2.0T by December 31?",
+    "score": 0.2709842726249284,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.625,
+    "fair": 0.625,
+    "vol24": 92905.264384
+  },
+  {
+    "q": "Spread: Knicks (-5.5)",
+    "score": 0.24901424073952647,
     "tags": [
       "information move"
     ],
-    "price": 0.1915,
-    "fair": 0.1915,
-    "vol24": 150444.82620500002
+    "price": 0.42,
+    "fair": 0.42,
+    "vol24": 271041.8653
   },
   {
-    "q": "Will Harry Kane win the 2026 Ballon d'Or?",
-    "score": 0.3078084045746373,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.7335,
-    "fair": 0.7335,
-    "vol24": 124880.99081600002
-  },
-  {
-    "q": "Will there be no Hormuz agreement?",
-    "score": 0.3043149305762691,
+    "q": "Thunder vs. Spurs",
+    "score": 0.24720475293586133,
     "tags": [
       "information move",
-      "asymmetric favourite",
-      "trend divergence"
-    ],
-    "price": 0.901,
-    "fair": 0.901,
-    "vol24": 220833.57691700003
-  },
-  {
-    "q": "Will there be no Hormuz agreement?",
-    "score": 0.30135316244141275,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.852,
-    "fair": 0.852,
-    "vol24": 82809.15757600003
-  },
-  {
-    "q": "LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage",
-    "score": 0.2799975723846002,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.385,
-    "fair": 0.385,
-    "vol24": 135920.70918499996
-  },
-  {
-    "q": "US x Iran ceasefire continues through October 31?",
-    "score": 0.21055154396580375,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.785,
-    "fair": 0.785,
-    "vol24": 616831.799791
-  },
-  {
-    "q": "US announces end of Iranian blockade by October 31, 2026?",
-    "score": 0.19482030953429397,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.11,
-    "fair": 0.11,
-    "vol24": 156749.25436400002
-  },
-  {
-    "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-    "score": 0.19166264187007823,
-    "tags": [
       "genuine disagreement"
     ],
-    "price": 0.499,
-    "fair": 0.499,
-    "vol24": 88973.00852000002
+    "price": 0.505,
+    "fair": 0.505,
+    "vol24": 274475.119174
   },
   {
-    "q": "Next White House Press Secretary announced by November 30, 2026?",
-    "score": 0.18447975755578364,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.55,
-    "fair": 0.55,
-    "vol24": 83072.05875099999
-  },
-  {
-    "q": "US x Iran ceasefire continues through October 22?",
-    "score": 0.1605941301192594,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.9265,
-    "fair": 0.9265000000000001,
-    "vol24": 636689.2676090001
-  },
-  {
-    "q": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-    "score": 0.15871605325964702,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.845,
-    "fair": 0.845,
-    "vol24": 660066.910011
-  },
-  {
-    "q": "Will there be a Hormuz agreement and the Democrats win the Senate?",
-    "score": 0.15520980048189525,
-    "tags": [
-      "long-shot premium",
-      "trend divergence"
-    ],
-    "price": 0.0795,
-    "fair": 0.0795,
-    "vol24": 79214.34677199998
-  },
-  {
-    "q": "Spread: 49ers (-7.5)",
-    "score": 0.15300027745364678,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 407388.820754
-  },
-  {
-    "q": "Commanders vs. 49ers: O/U 51.5",
-    "score": 0.1385521861428569,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.495,
-    "fair": 0.495,
-    "vol24": 120293.791912
-  },
-  {
-    "q": "Will there be a Hormuz agreement and the Democrats win the Senate?",
-    "score": 0.13070396590765787,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.046,
-    "fair": 0.046,
-    "vol24": 89740.307402
-  },
-  {
-    "q": "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?",
-    "score": 0.12162824248302663,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0665,
-    "fair": 0.0665,
-    "vol24": 103289.94270999999
-  },
-  {
-    "q": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
-    "score": 0.11099616962453443,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0505,
-    "fair": 0.0505,
-    "vol24": 163770.62794600002
-  },
-  {
-    "q": "Israel x Iran ceasefire continues through October 21?",
-    "score": 0.10265413973134185,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.953,
-    "fair": 0.953,
-    "vol24": 158906.01866799998
-  },
-  {
-    "q": "Commanders vs. 49ers: O/U 52.5",
-    "score": 0.1015533294541856,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 384974.5250619999
-  },
-  {
-    "q": "Will CD Riestra win on 2026-10-19?",
-    "score": 0.09663626126769309,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 206534.33800000002
-  },
-  {
-    "q": "Atlanta Dream vs. Golden State Valkyries: O/U 152.5",
-    "score": 0.08832648343429472,
+    "q": "South Alabama vs. Marshall",
+    "score": 0.22692264566251197,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.535,
     "fair": 0.535,
-    "vol24": 72102.540248
+    "vol24": 98241.22833000001
+  },
+  {
+    "q": "Spread: South Alabama (-2.5)",
+    "score": 0.2209586941952251,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.48,
+    "fair": 0.48,
+    "vol24": 66207.990209
+  },
+  {
+    "q": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+    "score": 0.21908232419580576,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.797,
+    "fair": 0.797,
+    "vol24": 637174.3683630001
+  },
+  {
+    "q": "Will Puma Shen win the next Taipei Mayor election?",
+    "score": 0.21329690265695847,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.3595,
+    "fair": 0.3595,
+    "vol24": 67892.437026
+  },
+  {
+    "q": "Missouri State vs. Delaware",
+    "score": 0.20201913244195482,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.375,
+    "fair": 0.375,
+    "vol24": 359356.02743300004
+  },
+  {
+    "q": "Spread: Knicks (-2.5)",
+    "score": 0.20115051499172903,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.53,
+    "fair": 0.53,
+    "vol24": 231212.790266
+  },
+  {
+    "q": "Will Chiang Wan-an win the next Taipei Mayor election?",
+    "score": 0.18504557765651825,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.64,
+    "fair": 0.64,
+    "vol24": 86008.958379
+  },
+  {
+    "q": "South Alabama vs. Marshall: O/U 65.5",
+    "score": 0.17250691385232253,
+    "tags": [
+      "information move",
+      "wide spread",
+      "genuine disagreement"
+    ],
+    "price": 0.53,
+    "fair": 0.53,
+    "vol24": 104322.692037
+  },
+  {
+    "q": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+    "score": 0.1601996812591975,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.205,
+    "fair": 0.20500000000000002,
+    "vol24": 748148.3670269998
+  },
+  {
+    "q": "Will Andrey Gyurov win the 2026 Bulgarian presidential first round by 20%-30%?",
+    "score": 0.1473558088599981,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.067,
+    "fair": 0.067,
+    "vol24": 156644.04121800003
+  },
+  {
+    "q": "US x Iran ceasefire continues through October 22?",
+    "score": 0.1206337296322806,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.9475,
+    "fair": 0.9475,
+    "vol24": 464492.73120700003
+  },
+  {
+    "q": "Jets vs. Blues",
+    "score": 0.09064547029210246,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.455,
+    "fair": 0.455,
+    "vol24": 96715.56553600001
+  },
+  {
+    "q": "Will Ethereum dip to $1,250 by December 31, 2026?",
+    "score": 0.09044424156875251,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.085,
+    "fair": 0.08499999999999999,
+    "vol24": 94281.97684700001
   }
 ]

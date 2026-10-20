@@ -1,74 +1,71 @@
-# Odds Shift — Signals (Tue 20 Oct 2026 00:02)
+# Odds Shift — Signals (Tue 20 Oct 2026 23:32)
 
-_80 markets · 56 non-sports · 26 carrying a signal · analytics, not advice_
+_73 markets · 53 non-sports · 25 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Japan Women's Open: Katie Boulter vs Himeno Sakatsume
-price **93.0%** · fair value est. **93.0%** · spread 2.0% · 24h 31.5% · $385k · score 1.47
-- **information move** — 31.5% move on $385k of volume — the market repriced on real money
-- **asymmetric favourite** — 93.0% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/wta-boulter-sakatsu-2026-10-18
+### Cali: Matias Soto vs Samuel Heredia
+price **56.5%** · fair value est. **56.5%** · spread 1.0% · 24h 20.5% · $239k · score 1.00
+- **information move** — 20.5% move on $239k of volume — the market repriced on real money
+  https://polymarket.com/event/atp-soto-heredia-2026-10-19
 
-### Will CA Sarmiento win on 2026-10-19?
-price **8.0%** · fair value est. **8.0%** · spread 2.0% · 24h 33.0% · $168k · score 1.44
-- **information move** — 33.0% move on $168k of volume — the market repriced on real money
-- **long-shot premium** — priced 8.0% with $168k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/arg-cas-bar-2026-10-19-cas
+### Avalanche vs. Devils
+price **33.5%** · fair value est. **33.5%** · spread 1.0% · 24h 18.0% · $590k · score 0.94
+- **information move** — 18.0% move on $590k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-col-nj-2026-10-20
 
-### Will Goiás EC win on 2026-10-19?
-price **36.5%** · fair value est. **36.5%** · spread 1.0% · 24h 19.5% · $116k · score 0.90
-- **information move** — 19.5% move on $116k of volume — the market repriced on real money
-  https://polymarket.com/event/bra2-goi-nau-2026-10-19-goi
+### Maple Leafs vs. Blue Jackets: O/U 6.5
+price **67.5%** · fair value est. **67.5%** · spread 5.0% · 24h 17.5% · $142k · score 0.60
+- **information move** — 17.5% move on $142k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-tor-cbj-2026-10-20-total-6pt5
 
-### Spread: Real Cartagena FC (-1.5)
-price **44.5%** · fair value est. **44.5%** · spread 1.0% · 24h 18.5% · $109k · score 0.85
-- **information move** — 18.5% move on $109k of volume — the market repriced on real money
-- **genuine disagreement** — 44.5% with $109k traded — two sides with conviction
-  https://polymarket.com/event/col2-car-boy-2026-10-19-spread-home-1pt5
+### Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4–8%?
+price **36.5%** · fair value est. **36.5%** · spread 1.0% · 24h 12.0% · $84k · score 0.54
+- **trend divergence** — 24h moved up 12.0% against a down week — something changed
+  https://polymarket.com/event/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-48
 
-### Avalanche vs. Flyers
-price **52.5%** · fair value est. **52.5%** · spread 1.0% · 24h 14.0% · $183k · score 0.67
-- **information move** — 14.0% move on $183k of volume — the market repriced on real money
-- **genuine disagreement** — 52.5% with $183k traded — two sides with conviction
-  https://polymarket.com/event/nhl-col-phi-2026-10-19
+### Will Atlético Nacional win on 2026-10-19?
+price **51.5%** · fair value est. **51.5%** · spread 1.0% · 24h 10.5% · $150k · score 0.49
+- **information move** — 10.5% move on $150k of volume — the market repriced on real money
+- **genuine disagreement** — 51.5% with $150k traded — two sides with conviction
+  https://polymarket.com/event/col1-cdf-atn-2026-10-19-atn
 
-### Will Lamine Yamal win the 2026 Ballon d'Or?
-price **19.1%** · fair value est. **19.1%** · spread 0.7% · 24h 7.4% · $150k · score 0.36
-- **information move** — 7.4% move on $150k of volume — the market repriced on real money
-  https://polymarket.com/event/will-lamine-yamal-win-the-2026-ballon-dor
+### Will Flavio Bolsonaro win the most votes in the second round of the Brazil presidential election from Amapá?
+price **72.0%** · fair value est. **72.0%** · spread 2.0% · 24h 10.5% · $82k · score 0.43
+- **trend divergence** — 24h moved up 10.5% against a down week — something changed
+  https://polymarket.com/event/will-flavio-bolsonaro-win-the-most-votes-in-the-second-round-of-the-brazil-presidential-election-from-amapa
 
-### Will Harry Kane win the 2026 Ballon d'Or?
-price **73.4%** · fair value est. **73.4%** · spread 0.1% · 24h 6.1% · $125k · score 0.31
-- **information move** — 6.1% move on $125k of volume — the market repriced on real money
-  https://polymarket.com/event/will-harry-kane-win-the-2026-ballon-dor
+### Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?
+price **37.5%** · fair value est. **37.5%** · spread 1.0% · 24h 9.0% · $66k · score 0.39
+- **trend divergence** — 24h moved down 9.0% against a up week — something changed
+  https://polymarket.com/event/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4
 
-### Will there be no Hormuz agreement?
-price **90.1%** · fair value est. **90.1%** · spread 0.8% · 24h 6.2% · $221k · score 0.30
-- **information move** — 6.2% move on $221k of volume — the market repriced on real money
-- **asymmetric favourite** — 90.1% — small remaining upside, large downside if the tail lands
-- **trend divergence** — 24h moved down 6.2% against a up week — something changed
-  https://polymarket.com/event/will-there-be-no-hormuz-agreement
+### 76ers vs. Knicks: O/U 231.5
+price **44.5%** · fair value est. **44.5%** · spread 3.0% · 24h 8.0% · $217k · score 0.33
+- **information move** — 8.0% move on $217k of volume — the market repriced on real money
+- **genuine disagreement** — 44.5% with $217k traded — two sides with conviction
+  https://polymarket.com/event/nba-phi-nyk-2026-10-20-total-231pt5
 
-### Will there be no Hormuz agreement?
-price **85.2%** · fair value est. **85.2%** · spread 0.2% · 24h 6.2% · $83k · score 0.30
-- **trend divergence** — 24h moved down 6.2% against a up week — something changed
-  https://polymarket.com/event/no-hormuz-agreement-by-nov-2
+### Spread: Knicks (-4.5)
+price **45.0%** · fair value est. **45.0%** · spread 2.0% · 24h 6.5% · $1.1M · score 0.33
+- **information move** — 6.5% move on $1.1M of volume — the market repriced on real money
+- **genuine disagreement** — 45.0% with $1.1M traded — two sides with conviction
+  https://polymarket.com/event/nba-phi-nyk-2026-10-20-spread-home-4pt5
 
-### LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage
-price **38.5%** · fair value est. **38.5%** · spread 1.0% · 24h 6.0% · $136k · score 0.28
-- **information move** — 6.0% move on $136k of volume — the market repriced on real money
-  https://polymarket.com/event/lol-g2-dk-2026-10-23
+### Will Anthropic's valuation hit (HIGH) $2.0T by December 31?
+price **62.5%** · fair value est. **62.5%** · spread 1.0% · 24h 6.0% · $93k · score 0.27
+- **trend divergence** — 24h moved up 6.0% against a down week — something changed
+  https://polymarket.com/event/will-anthropics-valuation-hit-high-2pt0t-by-december-31-922
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 18 markets, $2.3M traded
-- **10–25%** band: 13 markets, $3.1M traded
-- **25–45%** band: 17 markets, $1.9M traded
-- **45–55%** band: 7 markets, $1.4M traded
-- **55–75%** band: 12 markets, $987k traded
-- **75–90%** band: 8 markets, $2.2M traded
-- **90–100%** band: 5 markets, $1.5M traded
+- **0–10%** band: 20 markets, $2.4M traded
+- **10–25%** band: 10 markets, $2.2M traded
+- **25–45%** band: 14 markets, $4.9M traded
+- **45–55%** band: 11 markets, $2.4M traded
+- **55–75%** band: 12 markets, $1.3M traded
+- **75–90%** band: 4 markets, $1.5M traded
+- **90–100%** band: 2 markets, $729k traded
 
 <!-- Gan: signals above, voice below. -->
 
