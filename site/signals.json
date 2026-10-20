@@ -1,239 +1,271 @@
 [
   {
-    "q": "Cardinals vs. Rams",
-    "score": 3.9967107571272655,
+    "q": "Japan Women's Open: Katie Boulter vs Himeno Sakatsume",
+    "score": 1.4661504249194433,
     "tags": [
-      "information move"
+      "information move",
+      "asymmetric favourite"
     ],
-    "price": 0.815,
-    "fair": 0.815,
-    "vol24": 2352706.157323
+    "price": 0.93,
+    "fair": 0.9299999999999999,
+    "vol24": 384887.5150449999
   },
   {
-    "q": "Will Columbus Crew win on 2026-10-18?",
-    "score": 2.3630853315243705,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.815,
-    "fair": 0.815,
-    "vol24": 447564.113987
-  },
-  {
-    "q": "Tampa Bay Rays vs. Cleveland Guardians",
-    "score": 1.978744561806877,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.875,
-    "fair": 0.875,
-    "vol24": 763402.4225300001
-  },
-  {
-    "q": "Will FC Cincinnati win on 2026-10-18?",
-    "score": 1.7000053049884745,
+    "q": "Will CA Sarmiento win on 2026-10-19?",
+    "score": 1.4372728093716978,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.055,
-    "fair": 0.055,
-    "vol24": 220227.649544
+    "price": 0.08,
+    "fair": 0.08,
+    "vol24": 168439.52234799997
   },
   {
-    "q": "Spread: Chiefs (-7.5)",
-    "score": 1.1537462168797292,
+    "q": "Will Goi\u00e1s EC win on 2026-10-19?",
+    "score": 0.8979735115046628,
     "tags": [
       "information move"
     ],
-    "price": 0.775,
-    "fair": 0.775,
-    "vol24": 148580.86311600002
+    "price": 0.365,
+    "fair": 0.365,
+    "vol24": 116275.40699299998
   },
   {
-    "q": "Spread: Chiefs (-3.5)",
-    "score": 1.0065837565572093,
+    "q": "Spread: Real Cartagena FC (-1.5)",
+    "score": 0.8469213208558543,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.445,
+    "fair": 0.445,
+    "vol24": 108578.639219
+  },
+  {
+    "q": "Avalanche vs. Flyers",
+    "score": 0.669715320522228,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.525,
+    "fair": 0.525,
+    "vol24": 182829.62629500005
+  },
+  {
+    "q": "Will Lamine Yamal win the 2026 Ballon d'Or?",
+    "score": 0.3580618043292306,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.1915,
+    "fair": 0.1915,
+    "vol24": 150444.82620500002
+  },
+  {
+    "q": "Will Harry Kane win the 2026 Ballon d'Or?",
+    "score": 0.3078084045746373,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.7335,
+    "fair": 0.7335,
+    "vol24": 124880.99081600002
+  },
+  {
+    "q": "Will there be no Hormuz agreement?",
+    "score": 0.3043149305762691,
+    "tags": [
+      "information move",
+      "asymmetric favourite",
+      "trend divergence"
+    ],
+    "price": 0.901,
+    "fair": 0.901,
+    "vol24": 220833.57691700003
+  },
+  {
+    "q": "Will there be no Hormuz agreement?",
+    "score": 0.30135316244141275,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.852,
+    "fair": 0.852,
+    "vol24": 82809.15757600003
+  },
+  {
+    "q": "LoL: G2 Esports vs Dplus KIA (BO1) - Worlds Group Stage",
+    "score": 0.2799975723846002,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.385,
+    "fair": 0.385,
+    "vol24": 135920.70918499996
+  },
+  {
+    "q": "US x Iran ceasefire continues through October 31?",
+    "score": 0.21055154396580375,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.785,
+    "fair": 0.785,
+    "vol24": 616831.799791
+  },
+  {
+    "q": "US announces end of Iranian blockade by October 31, 2026?",
+    "score": 0.19482030953429397,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.11,
+    "fair": 0.11,
+    "vol24": 156749.25436400002
+  },
+  {
+    "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+    "score": 0.19166264187007823,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.499,
+    "fair": 0.499,
+    "vol24": 88973.00852000002
+  },
+  {
+    "q": "Next White House Press Secretary announced by November 30, 2026?",
+    "score": 0.18447975755578364,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.55,
+    "fair": 0.55,
+    "vol24": 83072.05875099999
+  },
+  {
+    "q": "US x Iran ceasefire continues through October 22?",
+    "score": 0.1605941301192594,
     "tags": [
       "asymmetric favourite"
     ],
-    "price": 0.92,
-    "fair": 0.92,
-    "vol24": 85153.215949
+    "price": 0.9265,
+    "fair": 0.9265000000000001,
+    "vol24": 636689.2676090001
   },
   {
-    "q": "Chargers vs. Chiefs",
-    "score": 1.002113312289069,
+    "q": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+    "score": 0.15871605325964702,
     "tags": [
-      "information move",
-      "long-shot premium"
+      "trend divergence"
     ],
-    "price": 0.035,
-    "fair": 0.035,
-    "vol24": 1029625.884177
+    "price": 0.845,
+    "fair": 0.845,
+    "vol24": 660066.910011
   },
   {
-    "q": "Spread: Chiefs (-6.5)",
-    "score": 0.9075524183235969,
+    "q": "Will there be a Hormuz agreement and the Democrats win the Senate?",
+    "score": 0.15520980048189525,
     "tags": [
-      "information move"
+      "long-shot premium",
+      "trend divergence"
     ],
-    "price": 0.805,
-    "fair": 0.8049999999999999,
-    "vol24": 134784.788486
+    "price": 0.0795,
+    "fair": 0.0795,
+    "vol24": 79214.34677199998
   },
   {
-    "q": "Bills vs. Raiders",
-    "score": 0.7958678319153325,
+    "q": "Spread: 49ers (-7.5)",
+    "score": 0.15300027745364678,
     "tags": [
-      "information move"
-    ],
-    "price": 0.815,
-    "fair": 0.815,
-    "vol24": 1791624.564699
-  },
-  {
-    "q": "Will CA San Lorenzo de Almagro win on 2026-10-18?",
-    "score": 0.5875451290511083,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.13,
-    "fair": 0.13,
-    "vol24": 166963.20324099998
-  },
-  {
-    "q": "Will Bitcoin dip to $80,000 October 12-18?",
-    "score": 0.5629463429835365,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.091,
-    "fair": 0.091,
-    "vol24": 115385.011547
-  },
-  {
-    "q": "Spread: Bills (-4.5)",
-    "score": 0.4712158732423925,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.605,
-    "fair": 0.605,
-    "vol24": 574518.9544980001
-  },
-  {
-    "q": "Spread: Bills (-5.5)",
-    "score": 0.4493963838124196,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.565,
-    "fair": 0.565,
-    "vol24": 310900.250473
-  },
-  {
-    "q": "Spread: Raiders (-3.5)",
-    "score": 0.3470580371192246,
-    "tags": [
-      "wide spread",
-      "long-shot premium"
-    ],
-    "price": 0.09,
-    "fair": 0.09,
-    "vol24": 67394.912833
-  },
-  {
-    "q": "Bills vs. Raiders: O/U 52.5",
-    "score": 0.3070721315558815,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.625,
-    "fair": 0.625,
-    "vol24": 131179.372341
-  },
-  {
-    "q": "Tampa Bay Rays vs. Cleveland Guardians: O/U 6.5",
-    "score": 0.25348599722622217,
-    "tags": [
-      "information move",
       "genuine disagreement"
     ],
     "price": 0.465,
     "fair": 0.46499999999999997,
-    "vol24": 377303.460073
+    "vol24": 407388.820754
   },
   {
-    "q": "Bills vs. Raiders: O/U 54.5",
-    "score": 0.18499136581941825,
+    "q": "Commanders vs. 49ers: O/U 51.5",
+    "score": 0.1385521861428569,
     "tags": [
-      "information move",
       "genuine disagreement",
       "trend divergence"
     ],
-    "price": 0.505,
-    "fair": 0.505,
-    "vol24": 122252.85430299999
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 120293.791912
   },
   {
-    "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-    "score": 0.15641878478969537,
+    "q": "Will there be a Hormuz agreement and the Democrats win the Senate?",
+    "score": 0.13070396590765787,
     "tags": [
-      "trend divergence"
+      "long-shot premium"
     ],
-    "price": 0.305,
-    "fair": 0.305,
-    "vol24": 543694.129178
+    "price": 0.046,
+    "fair": 0.046,
+    "vol24": 89740.307402
   },
   {
-    "q": "Will Red Bull Bragantino win on 2026-10-18?",
-    "score": 0.14889830557755435,
+    "q": "Kim Jong Un out as Supreme Leader of North Korea by December 31, 2026?",
+    "score": 0.12162824248302663,
     "tags": [
-      "genuine disagreement"
+      "long-shot premium"
     ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 288139.654184
+    "price": 0.0665,
+    "fair": 0.0665,
+    "vol24": 103289.94270999999
   },
   {
-    "q": "Will CR Flamengo win on 2026-10-18?",
-    "score": 0.14018904721759956,
+    "q": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
+    "score": 0.11099616962453443,
     "tags": [
-      "genuine disagreement"
+      "long-shot premium"
     ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 138121.701707
+    "price": 0.0505,
+    "fair": 0.0505,
+    "vol24": 163770.62794600002
   },
   {
-    "q": "US x Iran ceasefire continues through October 22?",
-    "score": 0.13944474028979234,
+    "q": "Israel x Iran ceasefire continues through October 21?",
+    "score": 0.10265413973134185,
     "tags": [
       "asymmetric favourite"
     ],
-    "price": 0.955,
-    "fair": 0.955,
-    "vol24": 129709.10492000001
+    "price": 0.953,
+    "fair": 0.953,
+    "vol24": 158906.01866799998
   },
   {
-    "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4\u20138%?",
-    "score": 0.1306261557352445,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.305,
-    "fair": 0.305,
-    "vol24": 61605.382831
-  },
-  {
-    "q": "Cowboys vs. Packers",
-    "score": 0.10350105489408196,
+    "q": "Commanders vs. 49ers: O/U 52.5",
+    "score": 0.1015533294541856,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.515,
-    "fair": 0.515,
-    "vol24": 492671.15704
+    "price": 0.465,
+    "fair": 0.46499999999999997,
+    "vol24": 384974.5250619999
+  },
+  {
+    "q": "Will CD Riestra win on 2026-10-19?",
+    "score": 0.09663626126769309,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.445,
+    "fair": 0.445,
+    "vol24": 206534.33800000002
+  },
+  {
+    "q": "Atlanta Dream vs. Golden State Valkyries: O/U 152.5",
+    "score": 0.08832648343429472,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.535,
+    "fair": 0.535,
+    "vol24": 72102.540248
   }
 ]
