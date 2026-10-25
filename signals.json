@@ -1,406 +1,315 @@
 [
   {
-    "q": "Tennessee vs. South Carolina",
-    "score": 2.457916616877423,
+    "q": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
+    "score": 2.916568185624293,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.36,
+    "fair": 0.36,
+    "vol24": 9185771.141757987
+  },
+  {
+    "q": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+    "score": 2.913719248743837,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.634,
+    "fair": 0.634,
+    "vol24": 5124253.361193999
+  },
+  {
+    "q": "Spread: Rams (-10.5)",
+    "score": 2.679680852906734,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.835,
+    "fair": 0.835,
+    "vol24": 148358.010015
+  },
+  {
+    "q": "Spread: Broncos (-7.5)",
+    "score": 2.5065712624202834,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
     "price": 0.915,
     "fair": 0.915,
-    "vol24": 754442.4502470001
+    "vol24": 142460.63447400002
   },
   {
-    "q": "BYU vs. UCF",
-    "score": 2.2793679032599456,
+    "q": "Spread: Rams (-3.5)",
+    "score": 2.3904341519167334,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.9625,
+    "fair": 0.9624999999999999,
+    "vol24": 268860.630131
+  },
+  {
+    "q": "Spread: Broncos (-4.5)",
+    "score": 2.3630131503047314,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.9615,
+    "fair": 0.9615,
+    "vol24": 706802.525724
+  },
+  {
+    "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4\u20138%?",
+    "score": 1.6818219436687292,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0495,
+    "fair": 0.0495,
+    "vol24": 426310.906863
+  },
+  {
+    "q": "Will Luiz In\u00e1cio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
+    "score": 1.5182245879322684,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.53,
+    "fair": 0.53,
+    "vol24": 331753.39377
+  },
+  {
+    "q": "Will Iliana Iotova win the next Bulgarian presidential election?",
+    "score": 0.7945342054648941,
     "tags": [
       "information move"
     ],
-    "price": 0.305,
-    "fair": 0.305,
-    "vol24": 932765.800289
+    "price": 0.69,
+    "fair": 0.69,
+    "vol24": 142472.92434300002
   },
   {
-    "q": "Spread: BYU (-7.5)",
-    "score": 1.7808992744618348,
+    "q": "Will \u0410ndrey Gyurov win the next Bulgarian presidential election?",
+    "score": 0.7800429683734337,
     "tags": [
-      "information move",
-      "long-shot premium"
+      "information move"
     ],
-    "price": 0.0205,
-    "fair": 0.0205,
-    "vol24": 233434.675944
+    "price": 0.31,
+    "fair": 0.31,
+    "vol24": 114745.16330799999
   },
   {
-    "q": "Spread: Iowa (-7.5)",
-    "score": 1.5699009165997093,
+    "q": "Will Fl\u00e1vio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and Democrats win the US Senate?",
+    "score": 0.7419668592118281,
     "tags": [
-      "information move",
-      "wide spread",
-      "long-shot premium"
+      "information move"
     ],
-    "price": 0.0335,
-    "fair": 0.0335,
-    "vol24": 350612.6389110001
+    "price": 0.205,
+    "fair": 0.20500000000000002,
+    "vol24": 114514.67812200003
   },
   {
-    "q": "Spread: South Carolina (-2.5)",
-    "score": 1.5525817051213053,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.055,
-    "fair": 0.055,
-    "vol24": 149716.425468
-  },
-  {
-    "q": "Will Inter Miami CF win on 2026-10-24?",
-    "score": 1.525459122972159,
+    "q": "Packers vs. Lions",
+    "score": 0.7244474033093419,
     "tags": [
       "information move"
     ],
     "price": 0.235,
     "fair": 0.235,
-    "vol24": 392056.81714
+    "vol24": 1348774.1829340006
   },
   {
-    "q": "Kansas State vs. Arizona State",
-    "score": 1.5018356026259494,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.245,
-    "fair": 0.245,
-    "vol24": 321165.724859
-  },
-  {
-    "q": "Spread: Troy (-11.5)",
-    "score": 0.8378849302122195,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.28,
-    "fair": 0.28,
-    "vol24": 163494.66137399996
-  },
-  {
-    "q": "Texas A&M vs. Alabama",
-    "score": 0.7628163603670517,
+    "q": "Spread: Thunder (-16.5)",
+    "score": 0.4401905815014637,
     "tags": [
       "information move",
-      "long-shot premium"
+      "genuine disagreement"
     ],
-    "price": 0.0265,
-    "fair": 0.026500000000000003,
-    "vol24": 606853.1419549999
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 1128808.083831
   },
   {
-    "q": "Will Kylian Mbapp\u00e9 win the 2026 Ballon d'Or?",
-    "score": 0.6155241232616793,
+    "q": "Spread: Raptors (-1.5)",
+    "score": 0.43352201219991204,
     "tags": [
       "information move"
     ],
-    "price": 0.1805,
-    "fair": 0.1805,
-    "vol24": 841663.0094590001
+    "price": 0.395,
+    "fair": 0.395,
+    "vol24": 198884.15646600001
   },
   {
-    "q": "Heat vs. Hornets",
-    "score": 0.5084792185492236,
+    "q": "Pistons vs. 76ers",
+    "score": 0.4271508745168352,
     "tags": [
-      "information move"
+      "information move",
+      "genuine disagreement"
     ],
-    "price": 0.615,
-    "fair": 0.615,
-    "vol24": 1639629.5609070002
+    "price": 0.535,
+    "fair": 0.535,
+    "vol24": 747005.7473529999
   },
   {
-    "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4\u20138%?",
-    "score": 0.4969262749875583,
+    "q": "Spread: Knicks (-7.5)",
+    "score": 0.42461516823818557,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 312621.20666599995
+  },
+  {
+    "q": "Spread: Pacers (-6.5)",
+    "score": 0.35641843510265186,
     "tags": [
       "information move"
     ],
     "price": 0.43,
     "fair": 0.43,
-    "vol24": 153219.774064
+    "vol24": 1727119.401561
   },
   {
-    "q": "Spurs vs. Mavericks",
-    "score": 0.46253718678629996,
+    "q": "Lakers vs. Jazz",
+    "score": 0.3450825873989095,
     "tags": [
       "information move"
     ],
-    "price": 0.875,
-    "fair": 0.875,
-    "vol24": 122434.977996
+    "price": 0.765,
+    "fair": 0.765,
+    "vol24": 2120869.2603970002
   },
   {
-    "q": "Spread: Boise State (-14.5)",
-    "score": 0.4445692878054325,
+    "q": "France declares state of emergency by December 31, 2026?",
+    "score": 0.2807324100263193,
     "tags": [
       "information move",
-      "wide spread"
+      "long-shot premium"
     ],
-    "price": 0.635,
-    "fair": 0.635,
-    "vol24": 250230.13853100003
+    "price": 0.09,
+    "fair": 0.09,
+    "vol24": 152317.33546699997
   },
   {
-    "q": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-    "score": 0.44160639883880903,
+    "q": "Spread: Lions (-10.5)",
+    "score": 0.27669143775952676,
     "tags": [
       "information move"
     ],
-    "price": 0.8385,
-    "fair": 0.8385,
-    "vol24": 1287942.3203229997
+    "price": 0.175,
+    "fair": 0.175,
+    "vol24": 154156.428766
   },
   {
-    "q": "Spread: Spurs (-12.5)",
-    "score": 0.4227239150922187,
+    "q": "Spread: Pacers (-7.5)",
+    "score": 0.26466826466200233,
     "tags": [
       "information move"
     ],
-    "price": 0.585,
-    "fair": 0.585,
-    "vol24": 295490.357733
+    "price": 0.39,
+    "fair": 0.39,
+    "vol24": 196500.239073
   },
   {
-    "q": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-    "score": 0.3782137548439587,
+    "q": "Pacers vs. Nets: O/U 231.5",
+    "score": 0.25799901657828883,
     "tags": [
       "information move"
     ],
-    "price": 0.16,
-    "fair": 0.16,
-    "vol24": 1125692.2903540002
+    "price": 0.425,
+    "fair": 0.42500000000000004,
+    "vol24": 144536.43108
   },
   {
-    "q": "US x Iran ceasefire continues through October 31?",
-    "score": 0.37156156039533245,
+    "q": "Magic vs. Knicks",
+    "score": 0.25179904401313863,
     "tags": [
       "information move"
     ],
-    "price": 0.825,
-    "fair": 0.825,
-    "vol24": 281558.089723
+    "price": 0.305,
+    "fair": 0.305,
+    "vol24": 346399.865369
+  },
+  {
+    "q": "Spread: Lakers (-6.5)",
+    "score": 0.2418017099821726,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.545,
+    "fair": 0.545,
+    "vol24": 519173.2510050001
+  },
+  {
+    "q": "Pacers vs. Nets",
+    "score": 0.21670006320776392,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.645,
+    "fair": 0.645,
+    "vol24": 910439.8555310002
   },
   {
     "q": "US x Iran ceasefire continues through October 28?",
-    "score": 0.35815882206478844,
+    "score": 0.19964816868428212,
     "tags": [
       "information move"
     ],
-    "price": 0.89,
-    "fair": 0.89,
-    "vol24": 235711.34634500003
+    "price": 0.855,
+    "fair": 0.855,
+    "vol24": 309259.631822
   },
   {
-    "q": "San Diego State vs. Colorado State",
-    "score": 0.353807890756547,
+    "q": "Will Luiz In\u00e1cio Lula da Silva win the second round of the 2026 Brazilian presidential election by 4\u20138%?",
+    "score": 0.18519148817234105,
     "tags": [
       "information move",
-      "genuine disagreement",
+      "long-shot premium"
+    ],
+    "price": 0.0485,
+    "fair": 0.0485,
+    "vol24": 396125.24736599997
+  },
+  {
+    "q": "Spread: Lions (-4.5)",
+    "score": 0.15792839939058947,
+    "tags": [
+      "information move",
+      "wide spread",
+      "genuine disagreement"
+    ],
+    "price": 0.52,
+    "fair": 0.52,
+    "vol24": 147422.187909
+  },
+  {
+    "q": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+    "score": 0.15251825211884032,
+    "tags": [
       "trend divergence"
-    ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 362941.881862
-  },
-  {
-    "q": "Bengals vs. Ravens",
-    "score": 0.34340280080098556,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.585,
-    "fair": 0.585,
-    "vol24": 249073.7636440001
-  },
-  {
-    "q": "Will Harry Kane win the 2026 Ballon d'Or?",
-    "score": 0.3373455962708084,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.7045,
-    "fair": 0.7044999999999999,
-    "vol24": 385085.44638499996
-  },
-  {
-    "q": "Wizards vs. Bulls",
-    "score": 0.31351030462379165,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 559355.794866
-  },
-  {
-    "q": "Will Luiz In\u00e1cio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?",
-    "score": 0.2818672648801259,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.145,
-    "fair": 0.14500000000000002,
-    "vol24": 147083.369377
-  },
-  {
-    "q": "Spread: Nuggets (-11.5)",
-    "score": 0.24133931053081767,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 203921.35205700004
-  },
-  {
-    "q": "Will Bitcoin dip to $70,000 by December 31, 2026?",
-    "score": 0.23788534922360804,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.405,
-    "fair": 0.405,
-    "vol24": 171188.720522
-  },
-  {
-    "q": "Tampa Bay Rays vs. Milwaukee Brewers",
-    "score": 0.20917366515832259,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 129756.968389
-  },
-  {
-    "q": "Will Fl\u00e1vio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?",
-    "score": 0.1992726334502159,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.365,
-    "fair": 0.365,
-    "vol24": 151734.943579
-  },
-  {
-    "q": "Spread: Ohio (-10.5)",
-    "score": 0.19460743640590603,
-    "tags": [
-      "information move",
-      "wide spread"
     ],
     "price": 0.315,
     "fair": 0.315,
-    "vol24": 208577.68660400005
+    "vol24": 391142.313984
   },
   {
-    "q": "Spread: Cavaliers (-11.5)",
-    "score": 0.17765370010652734,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 383178.26791700016
-  },
-  {
-    "q": "Spread: Cavaliers (-10.5)",
-    "score": 0.1639333594654469,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.505,
-    "fair": 0.505,
-    "vol24": 141967.272404
-  },
-  {
-    "q": "Predators vs. Penguins",
-    "score": 0.14620530052279784,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 229540.396323
-  },
-  {
-    "q": "Steelers vs. Saints: O/U 44.5",
-    "score": 0.1444620121321654,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 198124.531603
-  },
-  {
-    "q": "Spread: Bulls (-1.5)",
-    "score": 0.14418424112913691,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.495,
-    "fair": 0.495,
-    "vol24": 193532.21359
-  },
-  {
-    "q": "Nets vs. Cavaliers: O/U 227.5",
-    "score": 0.1240260969010192,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.525,
-    "fair": 0.525,
-    "vol24": 286514.59375700005
-  },
-  {
-    "q": "Spurs vs. Mavericks: O/U 230.5",
-    "score": 0.115942340009326,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 126316.336719
-  },
-  {
-    "q": "Will Bitcoin dip to $78,000 October 19-25?",
-    "score": 0.11508050923965786,
+    "q": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+    "score": 0.10855322641342732,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.0805,
-    "fair": 0.0805,
-    "vol24": 146498.516894
-  },
-  {
-    "q": "Will there be no change in Fed interest rates after the October 2026 meeting?",
-    "score": 0.10449363079711263,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.945,
-    "fair": 0.945,
-    "vol24": 558661.7229900002
-  },
-  {
-    "q": "Rockets vs. Hawks",
-    "score": 0.09959923740765998,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.495,
-    "fair": 0.495,
-    "vol24": 300577.600075
+    "price": 0.065,
+    "fair": 0.065,
+    "vol24": 934172.3050819999
   }
 ]

@@ -1,74 +1,73 @@
-# Odds Shift — Signals (Sat 24 Oct 2026 22:47)
+# Odds Shift — Signals (Sun 25 Oct 2026 22:55)
 
-_76 markets · 42 non-sports · 39 carrying a signal · analytics, not advice_
+_62 markets · 33 non-sports · 30 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Tennessee vs. South Carolina
-price **91.5%** · fair value est. **91.5%** · spread 1.0% · 24h 46.0% · $754k · score 2.46
-- **information move** — 46.0% move on $754k of volume — the market repriced on real money
+### Will Flávio Bolsonaro win the 2026 Brazilian presidential election?
+price **36.0%** · fair value est. **36.0%** · spread 1.4% · 24h 47.8% · $9.2M · score 2.92
+- **information move** — 47.8% move on $9.2M of volume — the market repriced on real money
+  https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election
+
+### Will Luiz Inácio Lula da Silva win the 2026 Brazilian presidential election?
+price **63.4%** · fair value est. **63.4%** · spread 0.8% · 24h 46.9% · $5.1M · score 2.91
+- **information move** — 46.9% move on $5.1M of volume — the market repriced on real money
+  https://polymarket.com/event/will-luiz-incio-lula-da-silva-win-the-2026-brazilian-presidential-election
+
+### Spread: Rams (-10.5)
+price **83.5%** · fair value est. **83.5%** · spread 1.0% · 24h 57.0% · $148k · score 2.68
+- **information move** — 57.0% move on $148k of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-la-lv-2026-10-25-spread-away-10pt5
+
+### Spread: Broncos (-7.5)
+price **91.5%** · fair value est. **91.5%** · spread 1.0% · 24h 53.5% · $142k · score 2.51
+- **information move** — 53.5% move on $142k of volume — the market repriced on real money
 - **asymmetric favourite** — 91.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/cfb-tenn-sc-2026-10-24
+  https://polymarket.com/event/nfl-den-ari-2026-10-25-spread-away-7pt5
 
-### BYU vs. UCF
-price **30.5%** · fair value est. **30.5%** · spread 1.0% · 24h 42.0% · $933k · score 2.28
-- **information move** — 42.0% move on $933k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-byu-ucf-2026-10-24
+### Spread: Rams (-3.5)
+price **96.2%** · fair value est. **96.2%** · spread 1.3% · 24h 49.8% · $269k · score 2.39
+- **information move** — 49.8% move on $269k of volume — the market repriced on real money
+- **asymmetric favourite** — 96.2% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nfl-la-lv-2026-10-25-spread-away-3pt5
 
-### Spread: BYU (-7.5)
-price **2.1%** · fair value est. **2.1%** · spread 3.7% · 24h 45.5% · $233k · score 1.78
-- **information move** — 45.5% move on $233k of volume — the market repriced on real money
-- **long-shot premium** — priced 2.1% with $233k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/cfb-byu-ucf-2026-10-24-spread-away-7pt5
+### Spread: Broncos (-4.5)
+price **96.2%** · fair value est. **96.2%** · spread 1.3% · 24h 45.6% · $707k · score 2.36
+- **information move** — 45.6% move on $707k of volume — the market repriced on real money
+- **asymmetric favourite** — 96.2% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nfl-den-ari-2026-10-25-spread-away-4pt5
 
-### Spread: Iowa (-7.5)
-price **3.4%** · fair value est. **3.4%** · spread 6.3% · 24h 46.2% · $351k · score 1.57
-- **information move** — 46.2% move on $351k of volume — the market repriced on real money
-- **wide spread** — 6.3% bid-ask — price is a guess, not a level
-- **long-shot premium** — priced 3.4% with $351k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/cfb-iowa-minnst-2026-10-24-spread-away-7pt5
+### Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by 4–8%?
+price **5.0%** · fair value est. **5.0%** · spread 1.9% · 24h 35.5% · $426k · score 1.68
+- **information move** — 35.5% move on $426k of volume — the market repriced on real money
+- **long-shot premium** — priced 5.0% with $426k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-48
 
-### Spread: South Carolina (-2.5)
-price **5.5%** · fair value est. **5.5%** · spread 5.0% · 24h 45.0% · $150k · score 1.55
-- **information move** — 45.0% move on $150k of volume — the market repriced on real money
-- **long-shot premium** — priced 5.5% with $150k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/cfb-tenn-sc-2026-10-24-spread-home-2pt5
+### Will Luiz Inácio Lula da Silva win the second round of the 2026 Brazilian presidential election by less than 4%?
+price **53.0%** · fair value est. **53.0%** · spread 4.0% · 24h 38.5% · $332k · score 1.52
+- **information move** — 38.5% move on $332k of volume — the market repriced on real money
+- **genuine disagreement** — 53.0% with $332k traded — two sides with conviction
+  https://polymarket.com/event/will-luiz-inacio-lula-da-silva-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4
 
-### Will Inter Miami CF win on 2026-10-24?
-price **23.5%** · fair value est. **23.5%** · spread 1.0% · 24h 30.0% · $392k · score 1.53
-- **information move** — 30.0% move on $392k of volume — the market repriced on real money
-  https://polymarket.com/event/mls-nyr-mia-2026-10-24-mia
+### Will Iliana Iotova win the next Bulgarian presidential election?
+price **69.0%** · fair value est. **69.0%** · spread 2.0% · 24h 18.5% · $142k · score 0.79
+- **information move** — 18.5% move on $142k of volume — the market repriced on real money
+  https://polymarket.com/event/will-iliana-iotova-win-the-next-bulgarian-presidential-election
 
-### Kansas State vs. Arizona State
-price **24.5%** · fair value est. **24.5%** · spread 1.0% · 24h 30.0% · $321k · score 1.50
-- **information move** — 30.0% move on $321k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-kanst-arzst-2026-10-24
-
-### Spread: Troy (-11.5)
-price **28.0%** · fair value est. **28.0%** · spread 4.0% · 24h 22.5% · $163k · score 0.84
-- **information move** — 22.5% move on $163k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-lamon-troy-2026-10-24-spread-home-11pt5
-
-### Texas A&M vs. Alabama
-price **2.6%** · fair value est. **2.7%** · spread 0.5% · 24h 13.9% · $607k · score 0.76
-- **information move** — 13.9% move on $607k of volume — the market repriced on real money
-- **long-shot premium** — priced 2.6% with $607k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/cfb-txam-ala-2026-10-24
-
-### Will Kylian Mbappé win the 2026 Ballon d'Or?
-price **18.1%** · fair value est. **18.1%** · spread 0.3% · 24h 10.7% · $842k · score 0.62
-- **information move** — 10.7% move on $842k of volume — the market repriced on real money
-  https://polymarket.com/event/will-kylian-mbapp-win-the-2026-ballon-dor
+### Will Аndrey Gyurov win the next Bulgarian presidential election?
+price **31.0%** · fair value est. **31.0%** · spread 2.0% · 24h 18.5% · $115k · score 0.78
+- **information move** — 18.5% move on $115k of volume — the market repriced on real money
+  https://polymarket.com/event/will-ndrey-gyurov-win-the-next-bulgarian-presidential-election
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 15 markets, $4.1M traded
-- **10–25%** band: 11 markets, $6.3M traded
-- **25–45%** band: 16 markets, $4.0M traded
-- **45–55%** band: 16 markets, $3.5M traded
-- **55–75%** band: 11 markets, $4.1M traded
-- **75–90%** band: 4 markets, $1.9M traded
-- **90–100%** band: 3 markets, $1.4M traded
+- **0–10%** band: 8 markets, $3.0M traded
+- **10–25%** band: 9 markets, $3.6M traded
+- **25–45%** band: 15 markets, $16.0M traded
+- **45–55%** band: 12 markets, $4.5M traded
+- **55–75%** band: 7 markets, $7.4M traded
+- **75–90%** band: 6 markets, $5.5M traded
+- **90–100%** band: 5 markets, $2.9M traded
 
 <!-- Gan: signals above, voice below. -->
 
