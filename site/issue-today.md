@@ -1,75 +1,73 @@
-# Odds Shift — Sun 25 Oct 2026
+# Odds Shift — Tue 27 Oct 2026
 
-_33 markets screened · 18 non-sports · 22:55 local_
+_30 markets screened · 14 non-sports · 00:08 local_
 
 ## 🔍 Insights of the day
 
-- **Biggest non-sports swing:** Will Flávio Bolsonaro win the 2026 Brazilian presidential election? moved ▼ 47.8% in 24h (now Yes 36.0%, $9.2M traded).
-- **Where the money is:** Will Flávio Bolsonaro win the 2026 Brazilian presidential election? — $9.2M in a day (Politics & Elections), priced 36.0%.
-- **Genuine coin flip:** Will J.D. Vance win the 2028 Republican presidential nomination? at 40.4% with $204k behind it — nobody knows.
-- **Long shot with believers:** Will the Republican Party hold exactly 53 Senate seats after the 2026 midterm elections? priced 6.2% ($199k wagered).
-- **Busiest category:** Politics & Elections (10 markets). Sports excluded from all of the above — 15 sports markets were screened and sit at the bottom.
+- **Biggest non-sports swing:** US x Iran ceasefire continues through October 31? moved ▲ 8.0% in 24h (now Yes 89.5%, $200k traded).
+- **Where the money is:** Will there be no change in Fed interest rates after the October 2026 meeting? — $3.8M in a day (Business & Markets), priced 93.5%.
+- **Genuine coin flip:** Will Gen.G win Worlds 2026? at 43.0% with $127k behind it — nobody knows.
+- **Long shot with believers:** France declares state of emergency by December 31, 2026? priced 9.5% ($933k wagered).
+- **Busiest category:** Geopolitics (5 markets). Sports excluded from all of the above — 16 sports markets were screened and sit at the bottom.
 
 <!-- Gan: facts above, humour here. The voice is yours. -->
 
 ## 💰 Where the money is (sports excluded)
 
-- **Will Flávio Bolsonaro win the 2026 Brazilian presidential election?** — Yes 36.0% · $9.2M traded · resolves 2026-10-26
-  https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election
-- **Will there be no change in Fed interest rates after the October 2026 meeting?** — Yes 93.5% · $1.3M traded · resolves 2026-10-29
+- **Will there be no change in Fed interest rates after the October 2026 meeting?** — Yes 93.5% · $3.8M traded · resolves 2026-10-29
   https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031
-- **Will Kylian Mbappé win the 2026 Ballon d'Or?** — Yes 17.2% · $668k traded · resolves 2026-10-27
-  https://polymarket.com/event/will-kylian-mbapp-win-the-2026-ballon-dor
-- **US x Iran ceasefire continues through October 31?** — Yes 80.5% · $664k traded · resolves 2026-10-31
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917
-- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 26.5% · $615k traded · resolves 2026-10-28
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 28.5% · $1.9M traded · resolves 2026-10-28
   https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
+- **France declares state of emergency by December 31, 2026?** — Yes 9.5% · $933k traded · resolves 2027-01-01
+  https://polymarket.com/event/france-declares-state-of-emergency-by-december-31-2026
+- **Will the Republican Party control the House after the 2026 Midterm elections?** — Yes 8.5% · $541k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-republican-party-control-the-house-after-the-2026-midterm-elections
+- **Will Likud win the most seats in the 2026 Israeli legislative election?** — Yes 31.5% · $417k traded · resolves 2026-10-28
+  https://polymarket.com/event/will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election
 
 ## 📈 Geopolitics
 
-- **US x Iran ceasefire continues through October 31?** — Yes 80.5% (▼ 2.0% in 24h) · $664k traded · resolves 2026-10-31
+- **US x Iran ceasefire continues through October 31?** — Yes 89.5% (▲ 8.0% in 24h) · $200k traded · resolves 2026-10-31
   https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917
-- **Will the U.S. invade Iran before 2027?** — Yes 20.5% (▲ 1.5% in 24h) · $125k traded · resolves 2027-01-01
-  https://polymarket.com/event/will-the-us-invade-iran-before-2027
-- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 26.5% (▼ 1.0% in 24h) · $615k traded · resolves 2026-10-28
+- **Israel x Iran ceasefire continues through October 31?** — Yes 93.5% (▲ 8.0% in 24h) · $194k traded · resolves 2026-10-31
+  https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-october-31
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 28.5% (▲ 3.0% in 24h) · $1.9M traded · resolves 2026-10-28
   https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
+- **Will the U.S. invade Iran before 2027?** — Yes 19.0% (▼ 0.5% in 24h) · $119k traded · resolves 2027-01-01
+  https://polymarket.com/event/will-the-us-invade-iran-before-2027
+- **US announces end of Iranian blockade by December 31, 2026?** — Yes 36.4% (▲ 0.4% in 24h) · $119k traded · resolves 2027-01-01
+  https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157-255-857
 
 ## 📈 Politics & Elections
 
-- **Will Flávio Bolsonaro win the 2026 Brazilian presidential election?** — Yes 36.0% (▼ 47.8% in 24h) · $9.2M traded · resolves 2026-10-26
-  https://polymarket.com/event/will-flvio-bolsonaro-win-the-2026-brazilian-presidential-election
-- **Will Flávio Bolsonaro win Brazil, Gadi Eizenkot become Israeli PM, and Democrats win the US Senate?** — Yes 20.5% (▼ 22.0% in 24h) · $115k traded · resolves 2026-11-05
-  https://polymarket.com/event/will-flavio-bolsonaro-win-brazil-gadi-eizenkot-become-israeli-pm-and-democrats-win-the-us-senate
-- **Will Iliana Iotova win the next Bulgarian presidential election?** — Yes 69.0% (▼ 18.5% in 24h) · $142k traded · resolves 2026-10-26
-  https://polymarket.com/event/will-iliana-iotova-win-the-next-bulgarian-presidential-election
-- **Will Likud win the most seats in the 2026 Israeli legislative election?** — Yes 31.5% (▲ 3.0% in 24h) · $391k traded · resolves 2026-10-28
+- **Will Аndrey Gyurov win the next Bulgarian presidential election?** — Yes 31.0% (▼ 1.5% in 24h) · $131k traded · resolves 2026-10-26
+  https://polymarket.com/event/will-ndrey-gyurov-win-the-next-bulgarian-presidential-election
+- **Will Likud win 30-34 seats in the 2026 Israeli legislative election?** — Yes 9.8% (▼ 1.2% in 24h) · $107k traded · resolves 2026-10-28
+  https://polymarket.com/event/will-likud-win-30-34-seats-in-the-2026-israeli-legislative-election
+- **Will Likud win the most seats in the 2026 Israeli legislative election?** — Yes 31.5% (▲ 1.0% in 24h) · $417k traded · resolves 2026-10-28
   https://polymarket.com/event/will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election
-- **Will Flávio Bolsonaro win the second round of the 2026 Brazilian presidential election by less than 4%?** — Yes 36.0% (▼ 2.5% in 24h) · $361k traded · resolves 2026-10-26
-  https://polymarket.com/event/will-flavio-bolsonaro-win-the-second-round-of-the-2026-brazilian-presidential-election-by-less-than-4
+- **Will the Republicans win the Texas Senate race in 2026?** — Yes 35.5% (▼ 1.0% in 24h) · $207k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-republicans-win-the-texas-senate-race-in-2026
 
 ## 📈 Business & Markets
 
-- **Will there be no change in Fed interest rates after the October 2026 meeting?** — Yes 93.5% (▼ 1.0% in 24h) · $1.3M traded · resolves 2026-10-29
+- **Will there be no change in Fed interest rates after the October 2026 meeting?** — Yes 93.5% (▼ 1.1% in 24h) · $3.8M traded · resolves 2026-10-29
   https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031
 
 ## 🎲 Other movers
 
-- **France declares state of emergency by December 31, 2026?** — Yes 9.0% (▼ 6.5% in 24h) · $152k traded · resolves 2027-01-01
-  https://polymarket.com/event/france-declares-state-of-emergency-by-december-31-2026
-- **Will J.D. Vance win the 2028 Republican presidential nomination?** — Yes 40.4% (▼ 3.9% in 24h) · $204k traded · resolves 2028-11-08
-  https://polymarket.com/event/will-jd-vance-win-the-2028-republican-presidential-nomination
-- **Will Kylian Mbappé win the 2026 Ballon d'Or?** — Yes 17.2% (▼ 0.8% in 24h) · $668k traded · resolves 2026-10-27
-  https://polymarket.com/event/will-kylian-mbapp-win-the-2026-ballon-dor
+- **Will Gen.G win Worlds 2026?** — Yes 43.0% (▲ 4.5% in 24h) · $127k traded · resolves 2026-11-29
+  https://polymarket.com/event/will-genptg-win-worlds-2026
 
 ---
 
 ## 🏟️ Sports (deliberately last — saturated, low signal)
 
-- Spread: Rams (-10.5) — Rams 83.5% (▲ 57.0%) · $148k
-- Spread: Broncos (-7.5) — Broncos 91.5% (▲ 53.5%) · $142k
-- Packers vs. Lions — Packers 23.5% (▼ 13.0%) · $1.3M
+- Kings vs. Rangers — Kings 87.0% (▲ 42.5%) · $149k
+- Wizards vs. Hornets — Wizards 17.5% (▼ 25.0%) · $2.6M
+- Curitiba: Nauhany Leme Da Silva vs Despina Papamichail — Nauhany Leme Da Silva 74.5% (▲ 25.0%) · $164k
 
-_15 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
+_16 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
 
 ---
 
