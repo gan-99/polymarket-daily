@@ -1,70 +1,70 @@
-# Odds Shift — Signals (Wed 28 Oct 2026 00:09)
+# Odds Shift — Signals (Thu 29 Oct 2026 00:31)
 
-_73 markets · 44 non-sports · 36 carrying a signal · analytics, not advice_
+_72 markets · 33 non-sports · 47 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Will Likud win the most seats in the 2026 Israeli legislative election?
-price **97.0%** · fair value est. **97.0%** · spread 0.7% · 24h 66.5% · $5.0M · score 4.16
-- **information move** — 66.5% move on $5.0M of volume — the market repriced on real money
-- **asymmetric favourite** — 97.0% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/will-likud-win-the-most-seats-in-the-2026-israeli-legislative-election
+### Wizards vs. Cavaliers
+price **64.5%** · fair value est. **64.5%** · spread 1.0% · 24h 43.0% · $1.2M · score 2.38
+- **information move** — 43.0% move on $1.2M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-was-cle-2026-10-28
 
-### Will Yashar win the most seats in the 2026 Israeli legislative election?
-price **3.0%** · fair value est. **3.0%** · spread 0.5% · 24h 65.5% · $2.6M · score 4.00
-- **information move** — 65.5% move on $2.6M of volume — the market repriced on real money
-- **long-shot premium** — priced 3.0% with $2.6M behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-yashar-win-the-most-seats-in-the-2026-israeli-legislative-election
+### Heat vs. Hawks
+price **77.5%** · fair value est. **77.5%** · spread 1.0% · 24h 35.0% · $2.0M · score 2.01
+- **information move** — 35.0% move on $2.0M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-mia-atl-2026-10-28
 
-### Will Likud win 25-29 seats in the 2026 Israeli legislative election?
-price **63.5%** · fair value est. **63.5%** · spread 3.0% · 24h 43.0% · $699k · score 1.93
-- **information move** — 43.0% move on $699k of volume — the market repriced on real money
-  https://polymarket.com/event/will-likud-win-25-29-seats-in-the-2026-israeli-legislative-election
+### Spread: Cavaliers (-9.5)
+price **9.0%** · fair value est. **9.0%** · spread 4.0% · 24h 41.5% · $332k · score 1.64
+- **information move** — 41.5% move on $332k of volume — the market repriced on real money
+- **long-shot premium** — priced 9.0% with $332k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nba-was-cle-2026-10-28-spread-home-9pt5
 
-### Israel Election: Which Bloc Wins More Seats?
-price **88.0%** · fair value est. **88.0%** · spread 6.0% · 24h 42.5% · $90k · score 1.32
-- **wide spread** — 6.0% bid-ask — price is a guess, not a level
-  https://polymarket.com/event/israel-election-which-bloc-wins-more-seats
+### Spread: Hawks (-2.5)
+price **16.0%** · fair value est. **16.0%** · spread 4.0% · 24h 36.0% · $1.3M · score 1.57
+- **information move** — 36.0% move on $1.3M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-mia-atl-2026-10-28-spread-home-2pt5
 
-### Will Likud win 20-24 seats in the 2026 Israeli legislative election?
-price **15.0%** · fair value est. **15.1%** · spread 2.1% · 24h 25.4% · $217k · score 1.12
-- **information move** — 25.4% move on $217k of volume — the market repriced on real money
-  https://polymarket.com/event/will-likud-win-20-24-seats-in-the-2026-israeli-legislative-election
+### Spread: Hawks (-3.5)
+price **13.5%** · fair value est. **13.5%** · spread 3.0% · 24h 36.0% · $179k · score 1.45
+- **information move** — 36.0% move on $179k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-mia-atl-2026-10-28-spread-home-3pt5
 
-### Spread: Celtics (-12.5)
-price **33.0%** · fair value est. **33.0%** · spread 2.0% · 24h 22.0% · $515k · score 1.05
-- **information move** — 22.0% move on $515k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-bkn-bos-2026-10-27-spread-home-12pt5
+### 76ers vs. Pacers: O/U 233.5
+price **30.5%** · fair value est. **30.5%** · spread 1.0% · 24h 31.0% · $129k · score 1.44
+- **information move** — 31.0% move on $129k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-phi-ind-2026-10-28-total-233pt5
 
-### Will Benjamin Netanyahu be the next Prime Minister of Israel?
-price **42.5%** · fair value est. **42.5%** · spread 1.0% · 24h 15.0% · $9.5M · score 0.95
-- **information move** — 15.0% move on $9.5M of volume — the market repriced on real money
-  https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
+### 76ers vs. Pacers
+price **85.5%** · fair value est. **85.5%** · spread 1.0% · 24h 23.0% · $1.3M · score 1.28
+- **information move** — 23.0% move on $1.3M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-phi-ind-2026-10-28
 
-### Spread: Celtics (-13.5)
-price **29.5%** · fair value est. **29.5%** · spread 3.0% · 24h 22.5% · $204k · score 0.92
-- **information move** — 22.5% move on $204k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-bkn-bos-2026-10-27-spread-home-13pt5
+### Spread: Pistons (-7.5)
+price **22.5%** · fair value est. **22.5%** · spread 1.0% · 24h 26.5% · $181k · score 1.27
+- **information move** — 26.5% move on $181k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-cha-det-2026-10-28-spread-home-7pt5
 
-### Spread: Celtics (-10.5)
-price **41.0%** · fair value est. **41.0%** · spread 2.0% · 24h 19.5% · $305k · score 0.89
-- **information move** — 19.5% move on $305k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-bkn-bos-2026-10-27-spread-home-10pt5
+### Hornets vs. Pistons
+price **52.5%** · fair value est. **52.5%** · spread 1.0% · 24h 23.0% · $983k · score 1.25
+- **information move** — 23.0% move on $983k of volume — the market repriced on real money
+- **genuine disagreement** — 52.5% with $983k traded — two sides with conviction
+  https://polymarket.com/event/nba-cha-det-2026-10-28
 
-### Will Gadi Eizenkot be the next Prime Minister of Israel?
-price **40.8%** · fair value est. **40.8%** · spread 0.3% · 24h 13.8% · $963k · score 0.80
-- **information move** — 13.8% move on $963k of volume — the market repriced on real money
-  https://polymarket.com/event/will-gadi-eizenkot-be-the-next-prime-minister-of-israel
+### Rockets vs. Bucks: O/U 226.5
+price **29.5%** · fair value est. **29.5%** · spread 1.0% · 24h 23.5% · $625k · score 1.24
+- **information move** — 23.5% move on $625k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-hou-mil-2026-10-28-total-226pt5
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 12 markets, $9.3M traded
-- **10–25%** band: 7 markets, $3.2M traded
-- **25–45%** band: 18 markets, $14.5M traded
-- **45–55%** band: 17 markets, $5.0M traded
-- **55–75%** band: 8 markets, $1.8M traded
-- **75–90%** band: 2 markets, $172k traded
-- **90–100%** band: 9 markets, $9.1M traded
+- **0–10%** band: 10 markets, $3.4M traded
+- **10–25%** band: 6 markets, $3.3M traded
+- **25–45%** band: 13 markets, $5.2M traded
+- **45–55%** band: 15 markets, $11.0M traded
+- **55–75%** band: 16 markets, $8.8M traded
+- **75–90%** band: 7 markets, $5.6M traded
+- **90–100%** band: 5 markets, $1.8M traded
 
 <!-- Gan: signals above, voice below. -->
 
