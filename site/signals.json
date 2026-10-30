@@ -1,491 +1,420 @@
 [
   {
-    "q": "Wizards vs. Cavaliers",
-    "score": 2.38266532289129,
+    "q": "Will Cruzeiro EC win on 2026-10-29?",
+    "score": 2.314352717696954,
     "tags": [
       "information move"
     ],
-    "price": 0.645,
-    "fair": 0.645,
-    "vol24": 1245059.229643
+    "price": 0.86,
+    "fair": 0.86,
+    "vol24": 315827.997983
   },
   {
-    "q": "Heat vs. Hawks",
-    "score": 2.0067510362357255,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.775,
-    "fair": 0.775,
-    "vol24": 2027363.4562229998
-  },
-  {
-    "q": "Spread: Cavaliers (-9.5)",
-    "score": 1.6367901150605757,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.09,
-    "fair": 0.09,
-    "vol24": 332430.05890700006
-  },
-  {
-    "q": "Spread: Hawks (-2.5)",
-    "score": 1.5749228111383882,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.16,
-    "fair": 0.16,
-    "vol24": 1332599.0373169999
-  },
-  {
-    "q": "Spread: Hawks (-3.5)",
-    "score": 1.4546930361872026,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.135,
-    "fair": 0.135,
-    "vol24": 179083.57732400004
-  },
-  {
-    "q": "76ers vs. Pacers: O/U 233.5",
-    "score": 1.4398558855567514,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.305,
-    "fair": 0.305,
-    "vol24": 128576.816262
-  },
-  {
-    "q": "76ers vs. Pacers",
-    "score": 1.2803911169533422,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.855,
-    "fair": 0.855,
-    "vol24": 1329258.2457999997
-  },
-  {
-    "q": "Spread: Pistons (-7.5)",
-    "score": 1.2667077609950796,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.225,
-    "fair": 0.225,
-    "vol24": 181146.44606699998
-  },
-  {
-    "q": "Hornets vs. Pistons",
-    "score": 1.2529891030253977,
+    "q": "Will Bitcoin dip to $75,000 in October?",
+    "score": 2.2495002055280966,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
-    "price": 0.525,
-    "fair": 0.525,
-    "vol24": 983005.9303520003
+    "price": 0.5165,
+    "fair": 0.532,
+    "vol24": 160491.60307600006
   },
   {
-    "q": "Rockets vs. Bucks: O/U 226.5",
-    "score": 1.238221626143829,
+    "q": "Will CR Flamengo win on 2026-10-29?",
+    "score": 2.1006883422321976,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.955,
+    "fair": 0.955,
+    "vol24": 317542.18835200014
+  },
+  {
+    "q": "US x Iran ceasefire continues through November 8?",
+    "score": 2.017160539408208,
     "tags": [
       "information move"
     ],
-    "price": 0.295,
-    "fair": 0.295,
-    "vol24": 625072.397264
+    "price": 0.385,
+    "fair": 0.385,
+    "vol24": 222171.64550199988
   },
   {
-    "q": "Spread: 76ers (-6.5)",
-    "score": 1.2320853106259027,
+    "q": "Will Bitcoin reach $82,500 in October?",
+    "score": 1.9869871649674409,
     "tags": [
-      "information move"
+      "information move",
+      "long-shot premium"
     ],
-    "price": 0.7,
-    "fair": 0.7,
-    "vol24": 379536.101678
+    "price": 0.08,
+    "fair": 0.08,
+    "vol24": 173941.500839
   },
   {
-    "q": "Spread: 76ers (-7.5)",
-    "score": 1.1983973972165005,
+    "q": "US x Iran ceasefire continues through October 31?",
+    "score": 1.6754776717047835,
     "tags": [
-      "information move"
+      "information move",
+      "genuine disagreement"
     ],
-    "price": 0.66,
-    "fair": 0.66,
-    "vol24": 436029.79565100005
+    "price": 0.54,
+    "fair": 0.54,
+    "vol24": 651753.8931809999
   },
   {
-    "q": "Spread: 76ers (-5.5)",
-    "score": 1.178699951827574,
+    "q": "US x Iran ceasefire continues through November 2?",
+    "score": 1.6191667678142514,
     "tags": [
-      "information move"
+      "information move",
+      "wide spread"
     ],
-    "price": 0.73,
-    "fair": 0.73,
-    "vol24": 352226.53440500004
+    "price": 0.4305,
+    "fair": 0.4305,
+    "vol24": 133993.132586
   },
   {
-    "q": "Nuggets vs. Pelicans",
-    "score": 1.1067198218673082,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.835,
-    "fair": 0.835,
-    "vol24": 1221683.377425
-  },
-  {
-    "q": "Spread: Nuggets (-4.5)",
-    "score": 0.9081231066645149,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.72,
-    "fair": 0.72,
-    "vol24": 447242.22949000006
-  },
-  {
-    "q": "Kennesaw State vs. Middle Tennessee",
-    "score": 0.8646800497875913,
+    "q": "Blackhawks vs. Red Wings",
+    "score": 1.1232696459694964,
     "tags": [
       "information move"
     ],
     "price": 0.605,
     "fair": 0.605,
-    "vol24": 880389.4892759997
+    "vol24": 235590.260805
   },
   {
-    "q": "Lakers vs. Clippers",
-    "score": 0.7749546753459035,
+    "q": "Guayaquil: Emilio Camacho vs Joao Lucas Da Silva",
+    "score": 1.100723657425368,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.5495,
+    "fair": 0.5495,
+    "vol24": 167153.291401
+  },
+  {
+    "q": "Will the price of Ethereum be above $2,400 on October 30?",
+    "score": 1.0135647906907495,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0265,
+    "fair": 0.0265,
+    "vol24": 146382.051508
+  },
+  {
+    "q": "US-Iran ceasefire continues through the midterms?",
+    "score": 0.9911157384746079,
+    "tags": [
+      "information move",
+      "wide spread",
+      "genuine disagreement"
+    ],
+    "price": 0.52,
+    "fair": 0.52,
+    "vol24": 179516.80494200002
+  },
+  {
+    "q": "Cavaliers vs. Hawks",
+    "score": 0.9705019774715662,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.665,
+    "fair": 0.665,
+    "vol24": 852795.5168929999
+  },
+  {
+    "q": "Canadiens vs. Stars",
+    "score": 0.8412723659390207,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.575,
+    "fair": 0.575,
+    "vol24": 277667.79381899995
+  },
+  {
+    "q": "Will Am\u00e9rica de Cali win on 2026-08-16?",
+    "score": 0.7834261903385127,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.505,
+    "fair": 0.505,
+    "vol24": 117280.17015499999
+  },
+  {
+    "q": "Bruins vs. Blues",
+    "score": 0.7611717601730822,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.645,
+    "fair": 0.645,
+    "vol24": 381878.408555
+  },
+  {
+    "q": "Islanders vs. Wild",
+    "score": 0.7219561030002852,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.205,
+    "fair": 0.20500000000000002,
+    "vol24": 196943.907413
+  },
+  {
+    "q": "Spread: North Texas (-14.5)",
+    "score": 0.6480846522737822,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.3,
+    "fair": 0.30000000000000004,
+    "vol24": 152993.993037
+  },
+  {
+    "q": "LoL: Top Esports vs Bilibili Gaming (BO3) - Worlds Group Stage",
+    "score": 0.6167379661688107,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.356,
+    "fair": 0.356,
+    "vol24": 775477.5097069998
+  },
+  {
+    "q": "Cavaliers vs. Hawks: O/U 237.5",
+    "score": 0.5923069531630448,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.37,
+    "fair": 0.37,
+    "vol24": 293391.358578
+  },
+  {
+    "q": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+    "score": 0.5037050938780797,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.56,
+    "fair": 0.56,
+    "vol24": 108904.782239
+  },
+  {
+    "q": "US x Iran ceasefire continues through October 28?",
+    "score": 0.4676553470691129,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.8875,
+    "fair": 0.8875,
+    "vol24": 169525.291906
+  },
+  {
+    "q": "Will Bitcoin reach $85,000 in October?",
+    "score": 0.43671505748454603,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0205,
+    "fair": 0.0205,
+    "vol24": 165922.45702300002
+  },
+  {
+    "q": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "score": 0.4162883591343343,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.255,
+    "fair": 0.255,
+    "vol24": 529619.6842909999
+  },
+  {
+    "q": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+    "score": 0.40398000659902944,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.715,
+    "fair": 0.715,
+    "vol24": 358693.80824600003
+  },
+  {
+    "q": "Spread: Packers (-3.5)",
+    "score": 0.3741623620189034,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.435,
+    "fair": 0.435,
+    "vol24": 758042.7306589999
+  },
+  {
+    "q": "Panthers vs. Packers",
+    "score": 0.3568080758941211,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.425,
+    "fair": 0.425,
+    "vol24": 404560.033203
+  },
+  {
+    "q": "Florida Atlantic vs. North Texas",
+    "score": 0.3427831931823715,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.245,
+    "fair": 0.245,
+    "vol24": 243551.748927
+  },
+  {
+    "q": "Will Bitcoin dip to $70,000 in October?",
+    "score": 0.30993178169883484,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0655,
+    "fair": 0.0655,
+    "vol24": 111914.10380500002
+  },
+  {
+    "q": "Will the Republicans win the Michigan Senate race in 2026?",
+    "score": 0.30128008767219394,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.235,
+    "fair": 0.235,
+    "vol24": 333785.120586
+  },
+  {
+    "q": "Will the Democrats win the Michigan Senate race in 2026?",
+    "score": 0.29283549859633623,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.765,
+    "fair": 0.765,
+    "vol24": 233694.746358
+  },
+  {
+    "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+    "score": 0.2537213855522869,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.3,
+    "fair": 0.3,
+    "vol24": 211658.12853500003
+  },
+  {
+    "q": "Panthers vs. Packers: O/U 48.5",
+    "score": 0.23556140711898138,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
     "price": 0.495,
     "fair": 0.495,
-    "vol24": 1227239.2543449998
+    "vol24": 152176.67921799998
   },
   {
-    "q": "Will Inter Miami CF win on 2026-10-28?",
-    "score": 0.6692126289131841,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.525,
-    "fair": 0.525,
-    "vol24": 181174.39930999998
-  },
-  {
-    "q": "Heat vs. Hawks: O/U 240.5",
-    "score": 0.6604450134073918,
+    "q": "Spread: Packers (-13.5)",
+    "score": 0.23258515331067228,
     "tags": [
       "information move"
     ],
-    "price": 0.65,
-    "fair": 0.65,
-    "vol24": 129753.57646999999
+    "price": 0.165,
+    "fair": 0.16499999999999998,
+    "vol24": 109481.571232
   },
   {
-    "q": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
-    "score": 0.6114369161628551,
+    "q": "Will Pedro S\u00e1nchez be the next Prime Minister of Spain?",
+    "score": 0.22520656108075923,
     "tags": [
       "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0835,
+    "fair": 0.08349999999999999,
+    "vol24": 146723.777664
+  },
+  {
+    "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "score": 0.18078669473024328,
+    "tags": [
       "trend divergence"
     ],
-    "price": 0.4345,
-    "fair": 0.4345,
-    "vol24": 235752.55980600003
-  },
-  {
-    "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-    "score": 0.5862071959422861,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.2435,
-    "fair": 0.2435,
-    "vol24": 993441.5148499997
-  },
-  {
-    "q": "Spread: Lakers (-4.5)",
-    "score": 0.5799163267175212,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.375,
-    "fair": 0.375,
-    "vol24": 126841.173458
-  },
-  {
-    "q": "Spread: Lakers (-3.5)",
-    "score": 0.553985198756574,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.405,
-    "fair": 0.405,
-    "vol24": 199061.22666100005
-  },
-  {
-    "q": "Magic vs. Raptors",
-    "score": 0.5269230823310368,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.265,
-    "fair": 0.265,
-    "vol24": 625393.281258
-  },
-  {
-    "q": "Spread: Raptors (-4.5)",
-    "score": 0.5241871163981445,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.6,
-    "fair": 0.6,
-    "vol24": 1950945.6648559996
-  },
-  {
-    "q": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
-    "score": 0.5172662165270223,
-    "tags": [
-      "information move",
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.555,
-    "fair": 0.555,
-    "vol24": 148819.29643400002
-  },
-  {
-    "q": "Spread: Spurs (-13.5)",
-    "score": 0.3853570558594395,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.525,
-    "fair": 0.525,
-    "vol24": 198910.328535
-  },
-  {
-    "q": "Will Together win the third-most seats in the 2026 Israeli legislative election?",
-    "score": 0.324400128067856,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.8655,
-    "fair": 0.8654999999999999,
-    "vol24": 120855.12713600002
-  },
-  {
-    "q": "Will the Republicans win the South Carolina Senate race in 2026?",
-    "score": 0.3200220232112532,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.72,
-    "fair": 0.72,
-    "vol24": 131931.67600799998
-  },
-  {
-    "q": "Will Nashville SC win on 2026-10-28?",
-    "score": 0.3119251715098984,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 523151.306439
-  },
-  {
-    "q": "Will Real Salt Lake win on 2026-10-28?",
-    "score": 0.2771906093957139,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 120732.51338299998
-  },
-  {
-    "q": "Spread: Chicago Fire FC (-1.5)",
-    "score": 0.2733629228481261,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 293262.79950599995
-  },
-  {
-    "q": "Spread: Timberwolves (-4.5)",
-    "score": 0.2725699036374428,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.41,
-    "fair": 0.41000000000000003,
-    "vol24": 282746.043669
-  },
-  {
-    "q": "Warriors vs. Timberwolves",
-    "score": 0.25756615515674647,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 1977248.9375590002
-  },
-  {
-    "q": "Milwaukee Brewers vs. Tampa Bay Rays",
-    "score": 0.2341109765006207,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.545,
-    "fair": 0.545,
-    "vol24": 528094.855194
-  },
-  {
-    "q": "Will the Tampa Bay Rays win the 2026 World Series?",
-    "score": 0.22832787020174208,
-    "tags": [
-      "information move",
-      "long-shot premium",
-      "trend divergence"
-    ],
-    "price": 0.097,
-    "fair": 0.097,
-    "vol24": 359080.92361799994
-  },
-  {
-    "q": "US x Iran ceasefire continues through November 8?",
-    "score": 0.20461336988791667,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.8,
-    "fair": 0.8,
-    "vol24": 285992.742111
-  },
-  {
-    "q": "Will the Milwaukee Brewers win the 2026 World Series?",
-    "score": 0.1954155809574126,
-    "tags": [
-      "information move",
-      "asymmetric favourite",
-      "trend divergence"
-    ],
-    "price": 0.907,
-    "fair": 0.907,
-    "vol24": 199952.22031299997
-  },
-  {
-    "q": "Spurs vs. Jazz",
-    "score": 0.19389654135501644,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.865,
-    "fair": 0.865,
-    "vol24": 214858.66153700004
-  },
-  {
-    "q": "Devils vs. Avalanche",
-    "score": 0.18944898278166716,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.425,
-    "fair": 0.425,
-    "vol24": 162122.89404699998
-  },
-  {
-    "q": "US announces end of Iranian blockade by November 30, 2026?",
-    "score": 0.1810364609328664,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.27,
-    "fair": 0.27,
-    "vol24": 269831.23337100004
-  },
-  {
-    "q": "Knicks vs. Bulls: O/U 233.5",
-    "score": 0.12978540772775987,
-    "tags": [
-      "information move",
-      "wide spread",
-      "genuine disagreement"
-    ],
-    "price": 0.55,
-    "fair": 0.55,
-    "vol24": 513519.68266700004
-  },
-  {
-    "q": "Spread: Thunder (-5.5)",
-    "score": 0.12432857790852318,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 295430.92750399996
+    "price": 0.43,
+    "fair": 0.43,
+    "vol24": 1579067.4711519994
   },
   {
     "q": "Israel x Iran ceasefire continues through October 31?",
-    "score": 0.11712602459146453,
+    "score": 0.1595037438925373,
     "tags": [
-      "asymmetric favourite"
+      "asymmetric favourite",
+      "trend divergence"
     ],
-    "price": 0.9675,
-    "fair": 0.9675,
-    "vol24": 371528.3856750001
+    "price": 0.9325,
+    "fair": 0.9325,
+    "vol24": 174114.44587599998
   },
   {
-    "q": "US x Iran ceasefire continues through October 31?",
-    "score": 0.11448723584204053,
+    "q": "Will Christine Lagarde win the 2027 French presidential election?",
+    "score": 0.14603862882669477,
     "tags": [
-      "asymmetric favourite"
+      "long-shot premium"
     ],
-    "price": 0.9665,
-    "fair": 0.9664999999999999,
-    "vol24": 238910.794702
+    "price": 0.031,
+    "fair": 0.031,
+    "vol24": 333360.4814490001
   },
   {
-    "q": "Maple Leafs vs. Kraken",
-    "score": 0.09624687253922003,
+    "q": "Grizzlies vs. Trail Blazers: O/U 233.5",
+    "score": 0.13176388073822254,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.545,
-    "fair": 0.545,
-    "vol24": 196596.49943899998
+    "price": 0.5,
+    "fair": 0.5,
+    "vol24": 186445.92690199998
   },
   {
-    "q": "Spread: Rockets (-8.5)",
-    "score": 0.08488307116823365,
+    "q": "Capitals vs. Predators",
+    "score": 0.092564194156318,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 329153.370441
+    "price": 0.53,
+    "fair": 0.53,
+    "vol24": 357973.13585599995
+  },
+  {
+    "q": "Spread: Pelicans (-5.5)",
+    "score": 0.08279209282355288,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.515,
+    "fair": 0.515,
+    "vol24": 240704.510936
   }
 ]
