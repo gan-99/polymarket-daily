@@ -1,82 +1,68 @@
 # Odds Shift — Sat 31 Oct 2026
 
-_37 markets screened · 18 non-sports · 00:15 local_
+_29 markets screened · 16 non-sports · 23:52 local_
 
 ## 🔍 Insights of the day
 
-- **Biggest non-sports swing:** Will Bitcoin dip to $75,000 in October? moved ▼ 48.9% in 24h (now Yes 8.0%, $359k traded).
-- **Where the money is:** Will the Republican Party control the Senate after the 2026 Midterm elections? — $1.5M in a day (Politics & Elections), priced 29.5%.
-- **Genuine coin flip:** Will Benjamin Netanyahu be the next Prime Minister of Israel? at 42.0% with $356k behind it — nobody knows.
-- **Long shot with believers:** Will the Republican Party control the House after the 2026 Midterm elections? priced 6.5% ($1.4M wagered).
-- **Busiest category:** Politics & Elections (7 markets). Sports excluded from all of the above — 19 sports markets were screened and sit at the bottom.
+- **Biggest non-sports swing:** Will the Democratic Party win the NC-13 House seat? moved ▲ 10.0% in 24h (now Yes 42.5%, $149k traded).
+- **Where the money is:** Will the Democratic Party control the House after the 2026 Midterm elections? — $1.5M in a day (Other), priced 94.5%.
+- **Genuine coin flip:** Will Benjamin Netanyahu be the next Prime Minister of Israel? at 42.5% with $373k behind it — nobody knows.
+- **Long shot with believers:** Will Christine Lagarde win the 2027 French presidential election? priced 5.6% ($226k wagered).
+- **Busiest category:** Politics & Elections (9 markets). Sports excluded from all of the above — 13 sports markets were screened and sit at the bottom.
 
 <!-- Gan: facts above, humour here. The voice is yours. -->
 
 ## 💰 Where the money is (sports excluded)
 
-- **Will the Republican Party control the Senate after the 2026 Midterm elections?** — Yes 29.5% · $1.5M traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections
-- **Will the Republican Party control the House after the 2026 Midterm elections?** — Yes 6.5% · $1.4M traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republican-party-control-the-house-after-the-2026-midterm-elections
-- **2026 Balance of Power: D Senate, D House** — Yes 69.5% · $1.2M traded · resolves 2026-11-04
-  https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949
-- **Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?** — Yes 14.5% · $736k traded · resolves 2026-11-03
+- **Will the Democratic Party control the House after the 2026 Midterm elections?** — Yes 94.5% · $1.5M traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections
+- **Will the Democrats win the Michigan Senate race in 2026?** — Yes 78.0% · $954k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democrats-win-the-michigan-senate-race-in-2026
+- **Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?** — Yes 12.5% · $698k traded · resolves 2026-11-03
   https://polymarket.com/event/2026-senate-map-r-ia-ks
-- **Baylor vs. UCF** — Baylor 72.5% · $572k traded · resolves 2026-10-30
-  https://polymarket.com/event/cfb-bayl-ucf-2026-10-30
+- **2026 Balance of Power: D Senate, D House** — Yes 70.5% · $523k traded · resolves 2026-11-04
+  https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949
+- **Will the Republicans win the Nebraska Senate race in 2026?** — Yes 73.5% · $477k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-republicans-win-the-nebraska-senate-race-in-2026
 
 ## 📈 Geopolitics
 
-- **US-Iran ceasefire continues through the midterms?** — Yes 89.0% (▲ 27.5% in 24h) · $132k traded · resolves 2026-11-04
-  https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms
-- **US x Iran ceasefire continues through November 8?** — Yes 72.5% (▲ 20.5% in 24h) · $277k traded · resolves 2026-11-09
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-november-8
-- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 42.0% (▼ 1.0% in 24h) · $356k traded · resolves 2026-10-28
+- **US x Iran ceasefire continues through November 2?** — Yes 93.4% (▲ 2.1% in 24h) · $125k traded · resolves 2026-11-03
+  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-november-2
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 42.5% (▲ 0.5% in 24h) · $373k traded · resolves 2026-10-28
   https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
-- **Will the U.S. invade Iran before 2027?** — Yes 17.5% (▼ 0.5% in 24h) · $128k traded · resolves 2027-01-01
-  https://polymarket.com/event/will-the-us-invade-iran-before-2027
 
 ## 📈 Politics & Elections
 
-- **Will Iliana Iotova win the next Bulgarian presidential election?** — Yes 65.0% (▼ 16.0% in 24h) · $214k traded · resolves 2026-11-02
-  https://polymarket.com/event/will-iliana-iotova-win-the-next-bulgarian-presidential-election
-- **Will the Republicans win the Kansas Senate race in 2026?** — Yes 47.5% (▼ 4.0% in 24h) · $138k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-kansas-senate-race-in-2026
-- **Will the Republican Party control the Senate after the 2026 Midterm elections?** — Yes 29.5% (▼ 2.0% in 24h) · $1.5M traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections
-- **2026 Balance of Power: D Senate, D House** — Yes 69.5% (▲ 2.0% in 24h) · $1.2M traded · resolves 2026-11-04
-  https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949
-- **Will the Democrats win the Texas Senate race in 2026?** — Yes 71.5% (▲ 2.0% in 24h) · $238k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-democrats-win-the-texas-senate-race-in-2026
-
-## 📈 Crypto
-
-- **Will Bitcoin dip to $75,000 in October?** — Yes 8.0% (▼ 48.9% in 24h) · $359k traded · resolves 2026-11-01
-  https://polymarket.com/event/will-bitcoin-dip-to-75k-in-october-2026
-
-## 📈 Business & Markets
-
-- **Will there be no change in Fed interest rates after the December 2026 meeting?** — Yes 27.5% (▲ 1.5% in 24h) · $351k traded · resolves 2026-12-09
-  https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635
+- **Will the Republicans win the Nebraska Senate race in 2026?** — Yes 73.5% (▲ 5.0% in 24h) · $477k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-republicans-win-the-nebraska-senate-race-in-2026
+- **Will the Republicans win the Florida governor race in 2026?** — Yes 65.5% (▼ 3.0% in 24h) · $182k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-republicans-win-the-florida-governor-race-in-2026
+- **Will the Democrats win the Ohio Senate race in 2026?** — Yes 73.5% (▲ 3.0% in 24h) · $139k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democrats-win-the-ohio-senate-race-in-2026
+- **Will the Republicans win the Texas governor race in 2026?** — Yes 66.0% (▲ 2.8% in 24h) · $142k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-republicans-win-the-texas-governor-race-in-2026
+- **Will Christine Lagarde win the 2027 French presidential election?** — Yes 5.6% (▲ 2.4% in 24h) · $226k traded · resolves 2027-04-19
+  https://polymarket.com/event/will-christine-lagarde-win-the-2027-french-presidential-election
 
 ## 🎲 Other movers
 
-- **Harvard vs. Dartmouth** — Harvard 52.5% (▼ 26.0% in 24h) · $203k traded · resolves 2026-10-30
-  https://polymarket.com/event/cfb-harv-dart-2026-10-30
-- **Baylor vs. UCF** — Baylor 72.5% (▲ 20.0% in 24h) · $572k traded · resolves 2026-10-30
-  https://polymarket.com/event/cfb-bayl-ucf-2026-10-30
-- **Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?** — Yes 14.5% (▲ 4.5% in 24h) · $736k traded · resolves 2026-11-03
+- **Will the Democratic Party win the NC-13 House seat?** — Yes 42.5% (▲ 10.0% in 24h) · $149k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democratic-party-win-the-nc-13-house-seat
+- **Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?** — Yes 12.5% (▼ 2.0% in 24h) · $698k traded · resolves 2026-11-03
   https://polymarket.com/event/2026-senate-map-r-ia-ks
+- **Will the Democratic Party control the House after the 2026 Midterm elections?** — Yes 94.5% (▲ 1.0% in 24h) · $1.5M traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections
 
 ---
 
 ## 🏟️ Sports (deliberately last — saturated, low signal)
 
-- Devils vs. Golden Knights — Devils 91.5% (▲ 43.0%) · $520k
-- Queretaro: Nadia Podoroska vs Carole Monnet — Nadia Podoroska 23.7% (▼ 36.8%) · $419k
-- Spread: Celtics (-14.5) — Celtics 78.0% (▲ 26.0%) · $161k
+- Hawks vs. Pelicans — Hawks 36.5% (▼ 22.0%) · $1.1M
+- Spread: Oklahoma State (-10.5) — Oklahoma State 60.0% (▲ 14.5%) · $141k
+- Spread: Ohio State (-6.5) — Ohio State 38.5% (▼ 12.0%) · $218k
 
-_19 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
+_13 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
 
 ---
 

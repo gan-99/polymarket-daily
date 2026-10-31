@@ -1,74 +1,72 @@
-# Odds Shift — Signals (Sat 31 Oct 2026 00:15)
+# Odds Shift — Signals (Sat 31 Oct 2026 23:52)
 
-_76 markets · 36 non-sports · 47 carrying a signal · analytics, not advice_
+_53 markets · 29 non-sports · 13 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Will Bitcoin dip to $75,000 in October?
-price **8.0%** · fair value est. **8.0%** · spread 0.4% · 24h 48.9% · $359k · score 2.61
-- **information move** — 48.9% move on $359k of volume — the market repriced on real money
-- **long-shot premium** — priced 8.0% with $359k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-bitcoin-dip-to-75k-in-october-2026
+### Hawks vs. Pelicans
+price **36.5%** · fair value est. **36.5%** · spread 1.0% · 24h 22.0% · $1.1M · score 1.21
+- **information move** — 22.0% move on $1.1M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-atl-nop-2026-10-31
 
-### Devils vs. Golden Knights
-price **91.5%** · fair value est. **91.5%** · spread 1.0% · 24h 43.0% · $520k · score 2.23
-- **information move** — 43.0% move on $520k of volume — the market repriced on real money
-- **asymmetric favourite** — 91.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/nhl-nj-las-2026-10-30
+### Spread: Ohio State (-6.5)
+price **38.5%** · fair value est. **38.5%** · spread 1.0% · 24h 12.0% · $218k · score 0.58
+- **information move** — 12.0% move on $218k of volume — the market repriced on real money
+  https://polymarket.com/event/cfb-ohiost-usc-2026-10-31-spread-away-6pt5
 
-### Will Ethereum dip to $2,100 in October?
-price **4.0%** · fair value est. **4.0%** · spread 0.3% · 24h 37.5% · $114k · score 1.84
-- **information move** — 37.5% move on $114k of volume — the market repriced on real money
-- **long-shot premium** — priced 4.0% with $114k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-ethereum-dip-to-2100-in-october-2026
+### Spread: Oklahoma State (-10.5)
+price **60.0%** · fair value est. **60.0%** · spread 4.0% · 24h 14.5% · $141k · score 0.53
+- **information move** — 14.5% move on $141k of volume — the market repriced on real money
+  https://polymarket.com/event/cfb-okst-iowast-2026-10-31-spread-away-10pt5
 
-### US x Iran ceasefire continues through October 31?
-price **96.5%** · fair value est. **96.4%** · spread 0.3% · 24h 32.1% · $493k · score 1.78
-- **information move** — 32.1% move on $493k of volume — the market repriced on real money
-- **asymmetric favourite** — 96.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917
+### Ohio State vs. USC: O/U 51.5
+price **60.5%** · fair value est. **60.5%** · spread 1.0% · 24h 11.0% · $125k · score 0.51
+- **information move** — 11.0% move on $125k of volume — the market repriced on real money
+  https://polymarket.com/event/cfb-ohiost-usc-2026-10-31-total-51pt5
 
-### Queretaro: Nadia Podoroska vs Carole Monnet
-price **23.7%** · fair value est. **23.7%** · spread 2.4% · 24h 36.8% · $419k · score 1.67
-- **information move** — 36.8% move on $419k of volume — the market repriced on real money
-  https://polymarket.com/event/wta-podoros-monnet-2026-10-30
+### Will the Democratic Party win the NC-13 House seat?
+price **42.5%** · fair value est. **42.5%** · spread 1.0% · 24h 10.0% · $149k · score 0.47
+- **information move** — 10.0% move on $149k of volume — the market repriced on real money
+  https://polymarket.com/event/will-the-democratic-party-win-the-nc-13-house-seat
 
-### US x Iran ceasefire continues through November 2?
-price **91.3%** · fair value est. **91.3%** · spread 0.6% · 24h 31.7% · $136k · score 1.54
-- **information move** — 31.7% move on $136k of volume — the market repriced on real money
-- **asymmetric favourite** — 91.3% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-november-2
+### Penguins vs. Canadiens
+price **47.5%** · fair value est. **47.5%** · spread 1.0% · 24h 6.0% · $233k · score 0.29
+- **information move** — 6.0% move on $233k of volume — the market repriced on real money
+- **genuine disagreement** — 47.5% with $233k traded — two sides with conviction
+- **trend divergence** — 24h moved up 6.0% against a down week — something changed
+  https://polymarket.com/event/nhl-pit-mon-2026-10-31
 
-### Harvard vs. Dartmouth
-price **52.5%** · fair value est. **52.5%** · spread 1.0% · 24h 26.0% · $203k · score 1.25
-- **information move** — 26.0% move on $203k of volume — the market repriced on real money
-- **genuine disagreement** — 52.5% with $203k traded — two sides with conviction
-  https://polymarket.com/event/cfb-harv-dart-2026-10-30
+### Will an independent win the Nebraska Senate race in 2026?
+price **25.5%** · fair value est. **25.5%** · spread 1.0% · 24h 5.5% · $302k · score 0.27
+- **information move** — 5.5% move on $302k of volume — the market repriced on real money
+  https://polymarket.com/event/will-an-independent-win-the-nebraska-senate-race-in-2026
 
-### US-Iran ceasefire continues through the midterms?
-price **89.0%** · fair value est. **89.0%** · spread 2.0% · 24h 27.5% · $132k · score 1.17
-- **information move** — 27.5% move on $132k of volume — the market repriced on real money
-  https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms
+### Will the Republicans win the Nebraska Senate race in 2026?
+price **73.5%** · fair value est. **73.5%** · spread 1.0% · 24h 5.0% · $477k · score 0.26
+- **information move** — 5.0% move on $477k of volume — the market repriced on real money
+- **trend divergence** — 24h moved up 5.0% against a down week — something changed
+  https://polymarket.com/event/will-the-republicans-win-the-nebraska-senate-race-in-2026
 
-### Baylor vs. UCF
-price **72.5%** · fair value est. **72.5%** · spread 1.0% · 24h 20.0% · $572k · score 1.05
-- **information move** — 20.0% move on $572k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-bayl-ucf-2026-10-30
+### 76ers vs. Hornets
+price **47.0%** · fair value est. **47.0%** · spread 2.0% · 24h 4.5% · $3.8M · score 0.25
+- **information move** — 4.5% move on $3.8M of volume — the market repriced on real money
+- **genuine disagreement** — 47.0% with $3.8M traded — two sides with conviction
+  https://polymarket.com/event/nba-phi-cha-2026-10-31
 
-### US x Iran ceasefire continues through November 8?
-price **72.5%** · fair value est. **72.5%** · spread 1.0% · 24h 20.5% · $277k · score 1.01
-- **information move** — 20.5% move on $277k of volume — the market repriced on real money
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-november-8
+### Timberwolves vs. Spurs
+price **16.5%** · fair value est. **16.5%** · spread 1.0% · 24h 4.0% · $339k · score 0.20
+- **information move** — 4.0% move on $339k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-min-sas-2026-10-31
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 10 markets, $3.8M traded
-- **10–25%** band: 5 markets, $2.6M traded
-- **25–45%** band: 20 markets, $11.3M traded
-- **45–55%** band: 17 markets, $2.9M traded
-- **55–75%** band: 15 markets, $7.7M traded
-- **75–90%** band: 4 markets, $1.3M traded
-- **90–100%** band: 5 markets, $1.8M traded
+- **0–10%** band: 7 markets, $1.5M traded
+- **10–25%** band: 9 markets, $3.7M traded
+- **25–45%** band: 14 markets, $5.6M traded
+- **45–55%** band: 8 markets, $5.6M traded
+- **55–75%** band: 11 markets, $2.5M traded
+- **75–90%** band: 2 markets, $1.5M traded
+- **90–100%** band: 2 markets, $1.6M traded
 
 <!-- Gan: signals above, voice below. -->
 
