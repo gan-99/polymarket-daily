@@ -1,68 +1,65 @@
-# Odds Shift — Sat 31 Oct 2026
+# Odds Shift — Mon 02 Nov 2026
 
-_29 markets screened · 16 non-sports · 23:52 local_
+_29 markets screened · 18 non-sports · 00:02 local_
 
 ## 🔍 Insights of the day
 
-- **Biggest non-sports swing:** Will the Democratic Party win the NC-13 House seat? moved ▲ 10.0% in 24h (now Yes 42.5%, $149k traded).
-- **Where the money is:** Will the Democratic Party control the House after the 2026 Midterm elections? — $1.5M in a day (Other), priced 94.5%.
-- **Genuine coin flip:** Will Benjamin Netanyahu be the next Prime Minister of Israel? at 42.5% with $373k behind it — nobody knows.
-- **Long shot with believers:** Will Christine Lagarde win the 2027 French presidential election? priced 5.6% ($226k wagered).
-- **Busiest category:** Politics & Elections (9 markets). Sports excluded from all of the above — 13 sports markets were screened and sit at the bottom.
+- **Biggest non-sports swing:** Will Benjamin Netanyahu be the next Prime Minister of Israel? moved ▼ 6.5% in 24h (now Yes 35.5%, $949k traded).
+- **Where the money is:** Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? — $1.8M in a day (Politics & Elections), priced 25.5%.
+- **Genuine coin flip:** Will the Democrats win the Iowa Senate race in 2026? at 42.5% with $273k behind it — nobody knows.
+- **Busiest category:** Politics & Elections (12 markets). Sports excluded from all of the above — 11 sports markets were screened and sit at the bottom.
 
 <!-- Gan: facts above, humour here. The voice is yours. -->
 
 ## 💰 Where the money is (sports excluded)
 
-- **Will the Democratic Party control the House after the 2026 Midterm elections?** — Yes 94.5% · $1.5M traded · resolves 2026-11-04
+- **Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?** — Yes 25.5% · $1.8M traded · resolves 2026-11-03
+  https://polymarket.com/event/2026-senate-map-r-none
+- **Will the Democratic Party control the House after the 2026 Midterm elections?** — Yes 94.5% · $1.7M traded · resolves 2026-11-04
   https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections
-- **Will the Democrats win the Michigan Senate race in 2026?** — Yes 78.0% · $954k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-democrats-win-the-michigan-senate-race-in-2026
-- **Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?** — Yes 12.5% · $698k traded · resolves 2026-11-03
-  https://polymarket.com/event/2026-senate-map-r-ia-ks
-- **2026 Balance of Power: D Senate, D House** — Yes 70.5% · $523k traded · resolves 2026-11-04
+- **2026 Balance of Power: D Senate, D House** — Yes 70.5% · $950k traded · resolves 2026-11-04
   https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949
-- **Will the Republicans win the Nebraska Senate race in 2026?** — Yes 73.5% · $477k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-nebraska-senate-race-in-2026
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 35.5% · $949k traded · resolves 2026-10-28
+  https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
+- **Will the Republicans win the Texas Senate race in 2026?** — Yes 29.5% · $873k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-republicans-win-the-texas-senate-race-in-2026
 
 ## 📈 Geopolitics
 
-- **US x Iran ceasefire continues through November 2?** — Yes 93.4% (▲ 2.1% in 24h) · $125k traded · resolves 2026-11-03
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-november-2
-- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 42.5% (▲ 0.5% in 24h) · $373k traded · resolves 2026-10-28
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 35.5% (▼ 6.5% in 24h) · $949k traded · resolves 2026-10-28
   https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
+- **US announces end of Iranian blockade by November 30, 2026?** — Yes 27.5% (▼ 3.0% in 24h) · $122k traded · resolves 2026-12-01
+  https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-30-2026
 
 ## 📈 Politics & Elections
 
-- **Will the Republicans win the Nebraska Senate race in 2026?** — Yes 73.5% (▲ 5.0% in 24h) · $477k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-nebraska-senate-race-in-2026
-- **Will the Republicans win the Florida governor race in 2026?** — Yes 65.5% (▼ 3.0% in 24h) · $182k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-florida-governor-race-in-2026
-- **Will the Democrats win the Ohio Senate race in 2026?** — Yes 73.5% (▲ 3.0% in 24h) · $139k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-democrats-win-the-ohio-senate-race-in-2026
-- **Will the Republicans win the Texas governor race in 2026?** — Yes 66.0% (▲ 2.8% in 24h) · $142k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-texas-governor-race-in-2026
-- **Will Christine Lagarde win the 2027 French presidential election?** — Yes 5.6% (▲ 2.4% in 24h) · $226k traded · resolves 2027-04-19
-  https://polymarket.com/event/will-christine-lagarde-win-the-2027-french-presidential-election
+- **Will the Democrats win the Michigan Senate race in 2026?** — Yes 74.5% (▼ 3.5% in 24h) · $563k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democrats-win-the-michigan-senate-race-in-2026
+- **Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?** — Yes 25.5% (▲ 3.0% in 24h) · $1.8M traded · resolves 2026-11-03
+  https://polymarket.com/event/2026-senate-map-r-none
+- **Will David Lisnard win the 2027 French presidential election?** — Yes 15.3% (▼ 2.1% in 24h) · $303k traded · resolves 2027-04-19
+  https://polymarket.com/event/will-david-lisnard-win-the-2027-french-presidential-election
+- **Will the Democrats win the Iowa Senate race in 2026?** — Yes 42.5% (▼ 2.0% in 24h) · $273k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democrats-win-the-iowa-senate-race-in-2026
+- **Will the Democrats win the Kansas Senate race in 2026?** — Yes 52.5% (▲ 1.0% in 24h) · $114k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democrats-win-the-kansas-senate-race-in-2026
 
 ## 🎲 Other movers
 
-- **Will the Democratic Party win the NC-13 House seat?** — Yes 42.5% (▲ 10.0% in 24h) · $149k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-democratic-party-win-the-nc-13-house-seat
-- **Will Republicans win Iowa and Kansas, and lose Alaska, Maine, Michigan, Ohio, and Texas?** — Yes 12.5% (▼ 2.0% in 24h) · $698k traded · resolves 2026-11-03
-  https://polymarket.com/event/2026-senate-map-r-ia-ks
-- **Will the Democratic Party control the House after the 2026 Midterm elections?** — Yes 94.5% (▲ 1.0% in 24h) · $1.5M traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections
+- **Will T1 win Worlds 2026?** — Yes 22.5% (▲ 3.0% in 24h) · $134k traded · resolves 2026-11-29
+  https://polymarket.com/event/will-t1-win-worlds-2026
+- **Will Inter Miami CF win on 2026-11-01?** — Yes 43.5% (▲ 1.0% in 24h) · $218k traded · resolves 2026-11-02
+  https://polymarket.com/event/mls-ner-mia-2026-11-01-mia
 
 ---
 
 ## 🏟️ Sports (deliberately last — saturated, low signal)
 
-- Hawks vs. Pelicans — Hawks 36.5% (▼ 22.0%) · $1.1M
-- Spread: Oklahoma State (-10.5) — Oklahoma State 60.0% (▲ 14.5%) · $141k
-- Spread: Ohio State (-6.5) — Ohio State 38.5% (▼ 12.0%) · $218k
+- Chiefs vs. Broncos — Chiefs 89.5% (▲ 37.0%) · $3.3M
+- Nets vs. Pacers — Nets 75.5% (▲ 34.0%) · $463k
+- Oilers vs. Rangers — Oilers 78.5% (▲ 32.0%) · $142k
 
-_13 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
+_11 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
 
 ---
 
