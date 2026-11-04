@@ -1,61 +1,70 @@
-# Odds Shift — Tue 03 Nov 2026
+# Odds Shift — Wed 04 Nov 2026
 
-_31 markets screened · 13 non-sports · 02:43 local_
+_31 markets screened · 23 non-sports · 00:58 local_
 
 ## 🔍 Insights of the day
 
-- **Biggest non-sports swing:** US x Iran ceasefire continues through November 2? moved ▼ 60.2% in 24h (now Yes 37.0%, $785k traded).
-- **Where the money is:** 2026 Balance of Power: R Senate, R House — $5.1M in a day (Politics & Elections), priced 5.5%.
-- **Genuine coin flip:** Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections? at 56.5% with $316k behind it — nobody knows.
-- **Long shot with believers:** 2026 Balance of Power: R Senate, R House priced 5.5% ($5.1M wagered).
-- **Busiest category:** Politics & Elections (9 markets). Sports excluded from all of the above — 18 sports markets were screened and sit at the bottom.
+- **Biggest non-sports swing:** Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw? moved ▲ 80.9% in 24h (now Yes 89.9%, $433k traded).
+- **Where the money is:** Will the Democratic Party control the Senate after the 2026 Midterm elections? — $4.6M in a day (Politics & Elections), priced 90.5%.
+- **Genuine coin flip:** Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats? at 60.0% with $2.5M behind it — nobody knows.
+- **Long shot with believers:** US announces end of Iranian blockade by November 15, 2026? priced 9.5% ($318k wagered).
+- **Busiest category:** Politics & Elections (17 markets). Sports excluded from all of the above — 8 sports markets were screened and sit at the bottom.
 
 <!-- Gan: facts above, humour here. The voice is yours. -->
 
 ## 💰 Where the money is (sports excluded)
 
-- **2026 Balance of Power: R Senate, R House** — Yes 5.5% · $5.1M traded · resolves 2026-11-04
-  https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537
-- **Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?** — Yes 36.5% · $2.8M traded · resolves 2026-11-03
+- **Will the Democratic Party control the Senate after the 2026 Midterm elections?** — Yes 90.5% · $4.6M traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections
+- **Will the Democrats win the Texas Senate race in 2026?** — Yes 84.5% · $2.8M traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democrats-win-the-texas-senate-race-in-2026
+- **Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?** — Yes 60.0% · $2.5M traded · resolves 2026-11-03
   https://polymarket.com/event/2026-senate-map-r-none
-- **Will the Democratic Party control the House after the 2026 Midterm elections?** — Yes 94.5% · $2.7M traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections
-- **Will the Republican Party control the Senate after the 2026 Midterm elections?** — Yes 24.5% · $2.1M traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections
-- **Will the Republicans win the Texas Senate race in 2026?** — Yes 25.5% · $1.4M traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-texas-senate-race-in-2026
+- **2026 Balance of Power: D Senate, D House** — Yes 91.5% · $2.2M traded · resolves 2026-11-04
+  https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949
+- **Will the Democrats win the Michigan Senate race in 2026?** — Yes 88.5% · $1.5M traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democrats-win-the-michigan-senate-race-in-2026
 
 ## 📈 Geopolitics
 
-- **US x Iran ceasefire continues through November 2?** — Yes 37.0% (▼ 60.2% in 24h) · $785k traded · resolves 2026-11-03
-  https://polymarket.com/event/us-x-iran-ceasefire-continues-through-november-2
-- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 32.5% (▼ 3.0% in 24h) · $491k traded · resolves 2026-10-28
-  https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
-- **Will the U.S. invade Iran before 2027?** — Yes 16.5% (▼ 1.0% in 24h) · $548k traded · resolves 2027-01-01
+- **US announces end of Iranian blockade by November 15, 2026?** — Yes 9.5% (▼ 5.0% in 24h) · $318k traded · resolves 2026-11-16
+  https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-15-2026
+- **Will the U.S. invade Iran before 2027?** — Yes 18.5% (▲ 1.0% in 24h) · $281k traded · resolves 2027-01-01
   https://polymarket.com/event/will-the-us-invade-iran-before-2027
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 33.8% (▲ 0.8% in 24h) · $430k traded · resolves 2026-10-28
+  https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
 
 ## 📈 Politics & Elections
 
-- **Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?** — Yes 56.5% (▲ 8.0% in 24h) · $316k traded · resolves TBD
+- **Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?** — Yes 80.0% (▲ 24.5% in 24h) · $353k traded · resolves TBD
   https://polymarket.com/event/will-the-republican-party-hold-47-or-fewer-senate-seats-after-the-2026-midterm-elections
-- **Will the Republican Party control the Senate after the 2026 Midterm elections?** — Yes 24.5% (▼ 5.0% in 24h) · $2.1M traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections
-- **Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?** — Yes 36.5% (▲ 3.0% in 24h) · $2.8M traded · resolves 2026-11-03
+- **Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?** — Yes 60.0% (▲ 22.5% in 24h) · $2.5M traded · resolves 2026-11-03
   https://polymarket.com/event/2026-senate-map-r-none
-- **Will the Republicans win the Texas Senate race in 2026?** — Yes 25.5% (▼ 3.0% in 24h) · $1.4M traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-texas-senate-race-in-2026
-- **Will the Republicans win the Texas governor race in 2026?** — Yes 60.4% (▼ 1.8% in 24h) · $342k traded · resolves 2026-11-04
-  https://polymarket.com/event/will-the-republicans-win-the-texas-governor-race-in-2026
+- **Will the Democrats win the South Carolina Senate race in 2026?** — Yes 53.5% (▲ 22.0% in 24h) · $381k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democrats-win-the-south-carolina-senate-race-in-2026
+- **Will the Republicans win the Iowa Senate race in 2026?** — Yes 30.0% (▼ 19.5% in 24h) · $189k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-republicans-win-the-iowa-senate-race-in-2026
+- **Will the Democrats win the Ohio Senate race in 2026?** — Yes 89.5% (▲ 18.0% in 24h) · $202k traded · resolves 2026-11-04
+  https://polymarket.com/event/will-the-democrats-win-the-ohio-senate-race-in-2026
+
+## 🎲 Other movers
+
+- **Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?** — Yes 89.9% (▲ 80.9% in 24h) · $433k traded · resolves 2026-11-05
+  https://polymarket.com/event/spl-qad-fay-2026-11-05-draw
+- **Ohio vs. Akron** — Ohio 84.5% (▲ 1.0% in 24h) · $933k traded · resolves 2026-11-04
+  https://polymarket.com/event/cfb-ohio-akron-2026-11-03
+- **Strait of Hormuz traffic returns to normal by December 31?** — Yes 10.5% (▼ 1.0% in 24h) · $256k traded · resolves 2027-01-01
+  https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31
 
 ---
 
 ## 🏟️ Sports (deliberately last — saturated, low signal)
 
-- Wizards vs. Magic — Wizards 84.5% (▲ 41.0%) · $568k
-- Hawks vs. Pacers — Hawks 94.5% (▲ 31.0%) · $1.4M
-- Spread: Grizzlies (-5.5) — Grizzlies 26.0% (▼ 24.5%) · $647k
+- LoL: Top Esports vs Invictus Gaming (BO5) - Worlds Playoffs — Top Esports 20.5% (▼ 26.0%) · $2.4M
+- Jets vs. Canadiens — Jets 13.5% (▼ 23.0%) · $746k
+- Red Wings vs. Lightning — Red Wings 8.5% (▼ 21.0%) · $224k
 
-_18 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
+_8 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
 
 ---
 
