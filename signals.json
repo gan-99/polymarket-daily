@@ -1,398 +1,328 @@
 [
   {
-    "q": "Will Al Hazem SC vs. Al Nassr Saudi Club end in a draw?",
-    "score": 3.6529726550169586,
+    "q": "Will the Democratic Party candidate win the 2026 Texas Senate election by 12% or more?",
+    "score": 4.347127067510204,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
-    "price": 0.9625,
-    "fair": 0.9624999999999999,
-    "vol24": 186449.972026
+    "price": 0.956,
+    "fair": 0.956,
+    "vol24": 201330.16908000005
   },
   {
-    "q": "Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?",
-    "score": 3.0811057592935005,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.899,
-    "fair": 0.899,
-    "vol24": 433144.22142600006
-  },
-  {
-    "q": "Will the Democrats win the Florida governor race in 2026?",
-    "score": 1.8928211329396178,
+    "q": "Will the Republicans win the Mississippi Senate race in 2026?",
+    "score": 4.2989789039818955,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.029,
-    "fair": 0.028999999999999998,
-    "vol24": 1287474.8753230006
+    "price": 0.0255,
+    "fair": 0.025500000000000002,
+    "vol24": 1928568.5400089999
   },
   {
-    "q": "Will the Republicans win the Florida governor race in 2026?",
-    "score": 1.8074944911507984,
+    "q": "Will the Democrats win the Mississippi Senate race in 2026?",
+    "score": 4.216203164286306,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
-    "price": 0.9665,
-    "fair": 0.9664999999999999,
-    "vol24": 2112418.07943
+    "price": 0.9755,
+    "fair": 0.9755,
+    "vol24": 1582753.8255079996
   },
   {
-    "q": "LoL: Top Esports vs Invictus Gaming (BO5) - Worlds Playoffs",
-    "score": 1.506980914773849,
+    "q": "Will the Republican Party hold exactly 44 Senate seats after the 2026 midterm elections?",
+    "score": 2.5693962264577004,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.918,
+    "fair": 0.918,
+    "vol24": 245295.81181099993
+  },
+  {
+    "q": "Will the price of Ethereum be above $2,400 on November 5?",
+    "score": 2.474737101891379,
     "tags": [
       "information move"
     ],
-    "price": 0.205,
-    "fair": 0.20500000000000002,
-    "vol24": 2375135.017825
+    "price": 0.662,
+    "fair": 0.662,
+    "vol24": 167132.393068
   },
   {
-    "q": "Jets vs. Canadiens",
-    "score": 1.2279635939939904,
+    "q": "76ers vs. Pistons",
+    "score": 2.036837233789763,
     "tags": [
       "information move"
     ],
-    "price": 0.135,
-    "fair": 0.135,
-    "vol24": 746223.257572
+    "price": 0.825,
+    "fair": 0.825,
+    "vol24": 1136217.9975719997
+  },
+  {
+    "q": "Spread: Celtics (-11.5)",
+    "score": 1.2107601281642044,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.785,
+    "fair": 0.785,
+    "vol24": 267635.537179
+  },
+  {
+    "q": "Central Michigan vs. Eastern Michigan",
+    "score": 1.1928815827011074,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.725,
+    "fair": 0.725,
+    "vol24": 507089.915557
+  },
+  {
+    "q": "Hawks vs. Wizards",
+    "score": 1.0655870968275998,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.765,
+    "fair": 0.765,
+    "vol24": 725652.0626360002
+  },
+  {
+    "q": "Hawks vs. Wizards: O/U 230.5",
+    "score": 0.9986004566896959,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.785,
+    "fair": 0.785,
+    "vol24": 155854.58686199997
   },
   {
     "q": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-    "score": 1.1986645885278575,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.6,
-    "fair": 0.6,
-    "vol24": 2471027.790442
-  },
-  {
-    "q": "Will the Democrats win the South Carolina Senate race in 2026?",
-    "score": 1.116248946221017,
+    "score": 0.7464137335477964,
     "tags": [
       "information move",
-      "genuine disagreement"
+      "asymmetric favourite"
     ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 381279.619909
+    "price": 0.9305,
+    "fair": 0.9305000000000001,
+    "vol24": 1804046.179956
   },
   {
-    "q": "Red Wings vs. Lightning",
-    "score": 1.0215087902260938,
+    "q": "Spread: Central Michigan (-2.5)",
+    "score": 0.7103859273353157,
+    "tags": [
+      "information move",
+      "wide spread"
+    ],
+    "price": 0.675,
+    "fair": 0.675,
+    "vol24": 178105.017721
+  },
+  {
+    "q": "Bucks vs. Celtics",
+    "score": 0.6974048548028261,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.085,
-    "fair": 0.08499999999999999,
-    "vol24": 224263.395419
+    "price": 0.045,
+    "fair": 0.045,
+    "vol24": 796374.7043100001
   },
   {
-    "q": "Will the Republicans win the South Carolina Senate race in 2026?",
-    "score": 0.963422899795738,
+    "q": "Will the Republican Party hold exactly 45 Senate seats after the 2026 midterm elections?",
+    "score": 0.580670123895522,
+    "tags": [
+      "information move",
+      "long-shot premium",
+      "trend divergence"
+    ],
+    "price": 0.059,
+    "fair": 0.059,
+    "vol24": 210284.568568
+  },
+  {
+    "q": "Will Mary Peltola win the Alaska Senate race in 2026?",
+    "score": 0.5111218117794546,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.9425,
+    "fair": 0.9424999999999999,
+    "vol24": 1808713.662983
+  },
+  {
+    "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+    "score": 0.49387009134383203,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.567,
+    "fair": 0.567,
+    "vol24": 298892.33449700003
+  },
+  {
+    "q": "Israel x Iran ceasefire continues through November 5?",
+    "score": 0.4613764840250202,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.979,
+    "fair": 0.979,
+    "vol24": 165809.77475799999
+  },
+  {
+    "q": "Will Dan Sullivan win the Alaska Senate race in 2026?",
+    "score": 0.4612692649807627,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0605,
+    "fair": 0.0605,
+    "vol24": 946656.7459679999
+  },
+  {
+    "q": "Will the U.S. invade Iran before 2027?",
+    "score": 0.4285215880883886,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.105,
+    "fair": 0.10500000000000001,
+    "vol24": 780137.7250100002
+  },
+  {
+    "q": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+    "score": 0.4123060457183956,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.2635,
+    "fair": 0.2635,
+    "vol24": 424052.2086739999
+  },
+  {
+    "q": "Hornets vs. Nets",
+    "score": 0.3808174863117342,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.665,
+    "fair": 0.665,
+    "vol24": 172281.21104
+  },
+  {
+    "q": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
+    "score": 0.34717984945863994,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.1145,
+    "fair": 0.11449999999999999,
+    "vol24": 225088.90220800007
+  },
+  {
+    "q": "Spread: UMass (-2.5)",
+    "score": 0.34063104068465133,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
     "price": 0.485,
     "fair": 0.485,
-    "vol24": 378190.292267
+    "vol24": 225305.38345500003
   },
   {
-    "q": "2026 Balance of Power: D Senate, D House",
-    "score": 0.9224078968087155,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.915,
-    "fair": 0.915,
-    "vol24": 2195604.401617
-  },
-  {
-    "q": "Will the Democrats win the Ohio Senate race in 2026?",
-    "score": 0.8682846093719699,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.895,
-    "fair": 0.895,
-    "vol24": 202386.517777
-  },
-  {
-    "q": "Will the Republicans win the Iowa Senate race in 2026?",
-    "score": 0.8572498195120428,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.3,
-    "fair": 0.3,
-    "vol24": 188530.318456
-  },
-  {
-    "q": "Will the Democrats win the Iowa Senate race in 2026?",
-    "score": 0.8533675138845261,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.7,
-    "fair": 0.7,
-    "vol24": 178439.073368
-  },
-  {
-    "q": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
-    "score": 0.8494518879530162,
-    "tags": [
-      "information move",
-      "wide spread"
-    ],
-    "price": 0.8,
-    "fair": 0.8,
-    "vol24": 352727.78378500004
-  },
-  {
-    "q": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
-    "score": 0.8474504341507977,
+    "q": "Israel x Iran ceasefire continues through November 7?",
+    "score": 0.3376867604956782,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
     "price": 0.905,
     "fair": 0.905,
-    "vol24": 4555531.2498200005
+    "vol24": 202536.86905500002
   },
   {
-    "q": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
-    "score": 0.81581773649544,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.105,
-    "fair": 0.10500000000000001,
-    "vol24": 2570374.0740390006
-  },
-  {
-    "q": "Avalanche vs. Blue Jackets",
-    "score": 0.7285881956452664,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.395,
-    "fair": 0.395,
-    "vol24": 220281.553119
-  },
-  {
-    "q": "Will the Democrats win the Kansas Senate race in 2026?",
-    "score": 0.7081153840205087,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.755,
-    "fair": 0.755,
-    "vol24": 366237.27652
-  },
-  {
-    "q": "Will the Democrats win the Texas Senate race in 2026?",
-    "score": 0.7029868300496074,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.845,
-    "fair": 0.845,
-    "vol24": 2780006.337071
-  },
-  {
-    "q": "Will the Republicans win the Texas Senate race in 2026?",
-    "score": 0.6871481890452077,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.155,
-    "fair": 0.155,
-    "vol24": 1990023.391689
-  },
-  {
-    "q": "2026 Balance of Power: R Senate, D House",
-    "score": 0.6259605803244493,
+    "q": "Ball State vs. UMass: O/U 47.5",
+    "score": 0.3079744003821861,
     "tags": [
       "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.49,
+    "fair": 0.49,
+    "vol24": 190352.623988
+  },
+  {
+    "q": "US announces end of Iranian blockade by December 31, 2026?",
+    "score": 0.2580506036219615,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.433,
+    "fair": 0.433,
+    "vol24": 182896.760422
+  },
+  {
+    "q": "Ball State vs. UMass",
+    "score": 0.23842711497235983,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.455,
+    "fair": 0.455,
+    "vol24": 175951.94061899997
+  },
+  {
+    "q": "Jazz vs. Pelicans",
+    "score": 0.19448175874722715,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.365,
+    "fair": 0.365,
+    "vol24": 222969.9917499999
+  },
+  {
+    "q": "Will Samuel Alito announce his retirement by December 31, 2026?",
+    "score": 0.18950441107230917,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.145,
+    "fair": 0.14500000000000002,
+    "vol24": 162692.91294799998
+  },
+  {
+    "q": "Iran leadership change by November 30?",
+    "score": 0.12823978118767299,
+    "tags": [
       "long-shot premium"
     ],
-    "price": 0.075,
-    "fair": 0.07500000000000001,
-    "vol24": 1818048.9172389996
+    "price": 0.0335,
+    "fair": 0.0335,
+    "vol24": 150654.02357999998
   },
   {
-    "q": "Will the Republicans win the Kansas Senate race in 2026?",
-    "score": 0.6096588684816242,
+    "q": "Spread: Lakers (-12.5)",
+    "score": 0.09482004111122337,
     "tags": [
-      "information move"
+      "genuine disagreement"
     ],
-    "price": 0.25,
-    "fair": 0.25,
-    "vol24": 262535.651673
-  },
-  {
-    "q": "Will the Democrats win the Ohio governor race in 2026?",
-    "score": 0.5934742332987855,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.945,
-    "fair": 0.945,
-    "vol24": 275536.34662
-  },
-  {
-    "q": "Will the Republicans win the Michigan Senate race in 2026?",
-    "score": 0.5933220624086274,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.105,
-    "fair": 0.10500000000000001,
-    "vol24": 857472.335975
-  },
-  {
-    "q": "Will the Republicans win the Nebraska Senate race in 2026?",
-    "score": 0.5631887332911435,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.59,
-    "fair": 0.59,
-    "vol24": 255041.078807
-  },
-  {
-    "q": "Will the Democrats win the Michigan Senate race in 2026?",
-    "score": 0.5617367546177898,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.885,
-    "fair": 0.885,
-    "vol24": 1510441.8607670006
-  },
-  {
-    "q": "Will the Republicans win the Ohio governor race in 2026?",
-    "score": 0.5059795475811156,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.06,
-    "fair": 0.060000000000000005,
-    "vol24": 190451.45860100002
-  },
-  {
-    "q": "Will an independent win the Nebraska Senate race in 2026?",
-    "score": 0.4878671019704369,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.385,
-    "fair": 0.385,
-    "vol24": 232560.661582
-  },
-  {
-    "q": "Will the Democrats win the Florida Senate race in 2026?",
-    "score": 0.4056325744644019,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.0555,
-    "fair": 0.055499999999999994,
-    "vol24": 364335.95323000004
-  },
-  {
-    "q": "Will the Republicans win the Florida Senate race in 2026?",
-    "score": 0.38262510166383584,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.9455,
-    "fair": 0.9455,
-    "vol24": 389156.673849
-  },
-  {
-    "q": "US announces end of Iranian blockade by November 15, 2026?",
-    "score": 0.2501388031319202,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.095,
-    "fair": 0.095,
-    "vol24": 318458.10403
-  },
-  {
-    "q": "Will the Republicans win the Maine Senate race in 2026?",
-    "score": 0.24629834670509582,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.225,
-    "fair": 0.225,
-    "vol24": 262157.309277
-  },
-  {
-    "q": "Will Mary Peltola win the Alaska Senate race in 2026?",
-    "score": 0.19798107624586783,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.77,
-    "fair": 0.77,
-    "vol24": 190323.79319099998
-  },
-  {
-    "q": "Will Republicans win Iowa, and lose Alaska, Kansas, Maine, Michigan, Ohio, and Texas?",
-    "score": 0.17425003083777554,
-    "tags": [
-      "long-shot premium",
-      "trend divergence"
-    ],
-    "price": 0.0725,
-    "fair": 0.07250000000000001,
-    "vol24": 1329363.0833699997
-  },
-  {
-    "q": "US announces end of Iranian blockade by November 30, 2026?",
-    "score": 0.14313166797674512,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.245,
-    "fair": 0.245,
-    "vol24": 177075.593693
-  },
-  {
-    "q": "Will the Democrats win the Minnesota Senate race in 2026?",
-    "score": 0.11410048394583955,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.95,
-    "fair": 0.95,
-    "vol24": 299793.202023
-  },
-  {
-    "q": "Will the Democrats win the New Hampshire Senate race in 2026?",
-    "score": 0.10444750782410298,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.9775,
-    "fair": 0.9775,
-    "vol24": 176028.699868
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 164096.612003
   }
 ]

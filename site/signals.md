@@ -1,74 +1,72 @@
-# Odds Shift — Signals (Wed 04 Nov 2026 00:58)
+# Odds Shift — Signals (Thu 05 Nov 2026 01:09)
 
-_55 markets · 47 non-sports · 38 carrying a signal · analytics, not advice_
+_55 markets · 38 non-sports · 31 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Will Al Hazem SC vs. Al Nassr Saudi Club end in a draw?
-price **96.2%** · fair value est. **96.2%** · spread 2.3% · 24h 85.2% · $186k · score 3.65
-- **information move** — 85.2% move on $186k of volume — the market repriced on real money
-- **asymmetric favourite** — 96.2% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/spl-haz-nsr-2026-11-06-draw
+### Will the Democratic Party candidate win the 2026 Texas Senate election by 12% or more?
+price **95.6%** · fair value est. **95.6%** · spread 0.2% · 24h 83.6% · $201k · score 4.35
+- **information move** — 83.6% move on $201k of volume — the market repriced on real money
+- **asymmetric favourite** — 95.6% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/will-the-democratic-party-candidate-win-the-2026-texas-senate-election-by-12-or-more
 
-### Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?
-price **89.9%** · fair value est. **89.9%** · spread 4.8% · 24h 80.9% · $433k · score 3.08
-- **information move** — 80.9% move on $433k of volume — the market repriced on real money
-  https://polymarket.com/event/spl-qad-fay-2026-11-05-draw
+### Will the Republicans win the Mississippi Senate race in 2026?
+price **2.5%** · fair value est. **2.6%** · spread 0.3% · 24h 70.5% · $1.9M · score 4.30
+- **information move** — 70.5% move on $1.9M of volume — the market repriced on real money
+- **long-shot premium** — priced 2.5% with $1.9M behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/will-the-republicans-win-the-mississippi-senate-race-in-2026
 
-### Will the Democrats win the Florida governor race in 2026?
-price **2.9%** · fair value est. **2.9%** · spread 0.2% · 24h 31.6% · $1.3M · score 1.89
-- **information move** — 31.6% move on $1.3M of volume — the market repriced on real money
-- **long-shot premium** — priced 2.9% with $1.3M behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-the-democrats-win-the-florida-governor-race-in-2026
+### Will the Democrats win the Mississippi Senate race in 2026?
+price **97.5%** · fair value est. **97.5%** · spread 0.3% · 24h 70.0% · $1.6M · score 4.22
+- **information move** — 70.0% move on $1.6M of volume — the market repriced on real money
+- **asymmetric favourite** — 97.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/will-the-democrats-win-the-mississippi-senate-race-in-2026
 
-### Will the Republicans win the Florida governor race in 2026?
-price **96.7%** · fair value est. **96.6%** · spread 0.9% · 24h 31.1% · $2.1M · score 1.81
-- **information move** — 31.1% move on $2.1M of volume — the market repriced on real money
-- **asymmetric favourite** — 96.7% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/will-the-republicans-win-the-florida-governor-race-in-2026
+### Will the Republican Party hold exactly 44 Senate seats after the 2026 midterm elections?
+price **91.8%** · fair value est. **91.8%** · spread 1.6% · 24h 55.3% · $245k · score 2.57
+- **information move** — 55.3% move on $245k of volume — the market repriced on real money
+- **asymmetric favourite** — 91.8% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/will-the-republicans-hold-exactly-44-senate-seats-after-the-2026-midterm-elections-copy
 
-### LoL: Top Esports vs Invictus Gaming (BO5) - Worlds Playoffs
-price **20.5%** · fair value est. **20.5%** · spread 1.0% · 24h 26.0% · $2.4M · score 1.51
-- **information move** — 26.0% move on $2.4M of volume — the market repriced on real money
-  https://polymarket.com/event/lol-tes-ig1-2026-11-06
+### Will the price of Ethereum be above $2,400 on November 5?
+price **66.2%** · fair value est. **66.2%** · spread 2.6% · 24h 59.7% · $167k · score 2.47
+- **information move** — 59.7% move on $167k of volume — the market repriced on real money
+  https://polymarket.com/event/ethereum-above-2400-on-november-5-2026
 
-### Jets vs. Canadiens
-price **13.5%** · fair value est. **13.5%** · spread 1.0% · 24h 23.0% · $746k · score 1.23
-- **information move** — 23.0% move on $746k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-wpg-mon-2026-11-03
+### 76ers vs. Pistons
+price **82.5%** · fair value est. **82.5%** · spread 1.0% · 24h 37.0% · $1.1M · score 2.04
+- **information move** — 37.0% move on $1.1M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-phi-det-2026-11-04
 
-### Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?
-price **60.0%** · fair value est. **60.0%** · spread 2.0% · 24h 22.5% · $2.5M · score 1.20
-- **information move** — 22.5% move on $2.5M of volume — the market repriced on real money
-  https://polymarket.com/event/2026-senate-map-r-none
+### Spread: Celtics (-11.5)
+price **78.5%** · fair value est. **78.5%** · spread 3.0% · 24h 29.0% · $268k · score 1.21
+- **information move** — 29.0% move on $268k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-mil-bos-2026-11-04-spread-home-11pt5
 
-### Will the Democrats win the South Carolina Senate race in 2026?
-price **53.5%** · fair value est. **53.5%** · spread 1.0% · 24h 22.0% · $381k · score 1.12
-- **information move** — 22.0% move on $381k of volume — the market repriced on real money
-- **genuine disagreement** — 53.5% with $381k traded — two sides with conviction
-  https://polymarket.com/event/will-the-democrats-win-the-south-carolina-senate-race-in-2026
+### Central Michigan vs. Eastern Michigan
+price **72.5%** · fair value est. **72.5%** · spread 1.0% · 24h 23.0% · $507k · score 1.19
+- **information move** — 23.0% move on $507k of volume — the market repriced on real money
+  https://polymarket.com/event/cfb-cmich-emich-2026-11-04
 
-### Red Wings vs. Lightning
-price **8.5%** · fair value est. **8.5%** · spread 1.0% · 24h 21.0% · $224k · score 1.02
-- **information move** — 21.0% move on $224k of volume — the market repriced on real money
-- **long-shot premium** — priced 8.5% with $224k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nhl-det-tb-2026-11-03
+### Hawks vs. Wizards
+price **76.5%** · fair value est. **76.5%** · spread 1.0% · 24h 20.0% · $726k · score 1.07
+- **information move** — 20.0% move on $726k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-atl-was-2026-11-04
 
-### Will the Republicans win the South Carolina Senate race in 2026?
-price **48.5%** · fair value est. **48.5%** · spread 1.0% · 24h 19.0% · $378k · score 0.96
-- **information move** — 19.0% move on $378k of volume — the market repriced on real money
-- **genuine disagreement** — 48.5% with $378k traded — two sides with conviction
-  https://polymarket.com/event/will-the-republicans-win-the-south-carolina-senate-race-in-2026
+### Hawks vs. Wizards: O/U 230.5
+price **78.5%** · fair value est. **78.5%** · spread 3.0% · 24h 25.0% · $156k · score 1.00
+- **information move** — 25.0% move on $156k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-atl-was-2026-11-04-total-230pt5
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 10 markets, $6.5M traded
-- **10–25%** band: 10 markets, $9.8M traded
-- **25–45%** band: 9 markets, $2.6M traded
-- **45–55%** band: 3 markets, $968k traded
-- **55–75%** band: 5 markets, $4.3M traded
-- **75–90%** band: 10 markets, $7.5M traded
-- **90–100%** band: 8 markets, $10.2M traded
+- **0–10%** band: 12 markets, $7.2M traded
+- **10–25%** band: 9 markets, $2.5M traded
+- **25–45%** band: 8 markets, $2.5M traded
+- **45–55%** band: 7 markets, $1.6M traded
+- **55–75%** band: 7 markets, $1.7M traded
+- **75–90%** band: 5 markets, $2.8M traded
+- **90–100%** band: 7 markets, $6.0M traded
 
 <!-- Gan: signals above, voice below. -->
 
