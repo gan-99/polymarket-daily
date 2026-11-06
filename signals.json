@@ -1,328 +1,356 @@
 [
   {
-    "q": "Will the Democratic Party candidate win the 2026 Texas Senate election by 12% or more?",
-    "score": 4.347127067510204,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.956,
-    "fair": 0.956,
-    "vol24": 201330.16908000005
-  },
-  {
-    "q": "Will the Republicans win the Mississippi Senate race in 2026?",
-    "score": 4.2989789039818955,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.0255,
-    "fair": 0.025500000000000002,
-    "vol24": 1928568.5400089999
-  },
-  {
-    "q": "Will the Democrats win the Mississippi Senate race in 2026?",
-    "score": 4.216203164286306,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.9755,
-    "fair": 0.9755,
-    "vol24": 1582753.8255079996
-  },
-  {
-    "q": "Will the Republican Party hold exactly 44 Senate seats after the 2026 midterm elections?",
-    "score": 2.5693962264577004,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.918,
-    "fair": 0.918,
-    "vol24": 245295.81181099993
-  },
-  {
-    "q": "Will the price of Ethereum be above $2,400 on November 5?",
-    "score": 2.474737101891379,
+    "q": "Will the price of Bitcoin be above $78,000 on November 6?",
+    "score": 3.248901652663433,
     "tags": [
       "information move"
     ],
-    "price": 0.662,
-    "fair": 0.662,
-    "vol24": 167132.393068
+    "price": 0.155,
+    "fair": 0.155,
+    "vol24": 108020.35053000001
   },
   {
-    "q": "76ers vs. Pistons",
-    "score": 2.036837233789763,
+    "q": "Charlottesville: Andres Andrade vs James Kent Trotter",
+    "score": 2.0374372777194347,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.975,
+    "fair": 0.975,
+    "vol24": 216841.92216000005
+  },
+  {
+    "q": "Will Bitcoin dip to $75,000 in November?",
+    "score": 1.731456985754827,
     "tags": [
       "information move"
     ],
-    "price": 0.825,
-    "fair": 0.825,
-    "vol24": 1136217.9975719997
+    "price": 0.835,
+    "fair": 0.835,
+    "vol24": 140466.166688
   },
   {
-    "q": "Spread: Celtics (-11.5)",
-    "score": 1.2107601281642044,
+    "q": "Bruins vs. Penguins",
+    "score": 1.456645234956859,
     "tags": [
       "information move"
     ],
     "price": 0.785,
     "fair": 0.785,
-    "vol24": 267635.537179
+    "vol24": 527878.56679
   },
   {
-    "q": "Central Michigan vs. Eastern Michigan",
-    "score": 1.1928815827011074,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.725,
-    "fair": 0.725,
-    "vol24": 507089.915557
-  },
-  {
-    "q": "Hawks vs. Wizards",
-    "score": 1.0655870968275998,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.765,
-    "fair": 0.765,
-    "vol24": 725652.0626360002
-  },
-  {
-    "q": "Hawks vs. Wizards: O/U 230.5",
-    "score": 0.9986004566896959,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.785,
-    "fair": 0.785,
-    "vol24": 155854.58686199997
-  },
-  {
-    "q": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
-    "score": 0.7464137335477964,
+    "q": "Will Bitcoin dip to $70,000 by December 31, 2026?",
+    "score": 1.1309403701745158,
     "tags": [
       "information move",
-      "asymmetric favourite"
+      "genuine disagreement"
     ],
-    "price": 0.9305,
-    "fair": 0.9305000000000001,
-    "vol24": 1804046.179956
+    "price": 0.545,
+    "fair": 0.545,
+    "vol24": 152571.65252
   },
   {
-    "q": "Spread: Central Michigan (-2.5)",
-    "score": 0.7103859273353157,
+    "q": "Blues vs. Devils",
+    "score": 0.834688202758683,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.205,
+    "fair": 0.20500000000000002,
+    "vol24": 547621.6392230002
+  },
+  {
+    "q": "Flyers vs. Rangers",
+    "score": 0.7591040021404869,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.255,
+    "fair": 0.255,
+    "vol24": 165515.01237100005
+  },
+  {
+    "q": "Canucks vs. Jets",
+    "score": 0.6123664948770297,
     "tags": [
       "information move",
       "wide spread"
     ],
-    "price": 0.675,
-    "fair": 0.675,
-    "vol24": 178105.017721
+    "price": 0.15,
+    "fair": 0.15,
+    "vol24": 197760.91478900003
   },
   {
-    "q": "Bucks vs. Celtics",
-    "score": 0.6974048548028261,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.045,
-    "fair": 0.045,
-    "vol24": 796374.7043100001
-  },
-  {
-    "q": "Will the Republican Party hold exactly 45 Senate seats after the 2026 midterm elections?",
-    "score": 0.580670123895522,
-    "tags": [
-      "information move",
-      "long-shot premium",
-      "trend divergence"
-    ],
-    "price": 0.059,
-    "fair": 0.059,
-    "vol24": 210284.568568
-  },
-  {
-    "q": "Will Mary Peltola win the Alaska Senate race in 2026?",
-    "score": 0.5111218117794546,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.9425,
-    "fair": 0.9424999999999999,
-    "vol24": 1808713.662983
-  },
-  {
-    "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-    "score": 0.49387009134383203,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.567,
-    "fair": 0.567,
-    "vol24": 298892.33449700003
-  },
-  {
-    "q": "Israel x Iran ceasefire continues through November 5?",
-    "score": 0.4613764840250202,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.979,
-    "fair": 0.979,
-    "vol24": 165809.77475799999
-  },
-  {
-    "q": "Will Dan Sullivan win the Alaska Senate race in 2026?",
-    "score": 0.4612692649807627,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.0605,
-    "fair": 0.0605,
-    "vol24": 946656.7459679999
-  },
-  {
-    "q": "Will the U.S. invade Iran before 2027?",
-    "score": 0.4285215880883886,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.105,
-    "fair": 0.10500000000000001,
-    "vol24": 780137.7250100002
-  },
-  {
-    "q": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
-    "score": 0.4123060457183956,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.2635,
-    "fair": 0.2635,
-    "vol24": 424052.2086739999
-  },
-  {
-    "q": "Hornets vs. Nets",
-    "score": 0.3808174863117342,
+    "q": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+    "score": 0.5987715930135454,
     "tags": [
       "information move"
     ],
     "price": 0.665,
     "fair": 0.665,
-    "vol24": 172281.21104
+    "vol24": 972110.1626920002
   },
   {
-    "q": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
-    "score": 0.34717984945863994,
+    "q": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "score": 0.5125187347618244,
     "tags": [
       "information move"
     ],
-    "price": 0.1145,
-    "fair": 0.11449999999999999,
-    "vol24": 225088.90220800007
+    "price": 0.315,
+    "fair": 0.315,
+    "vol24": 434215.26002799993
   },
   {
-    "q": "Spread: UMass (-2.5)",
-    "score": 0.34063104068465133,
+    "q": "Spread: Warriors (-6.5)",
+    "score": 0.49703867605531576,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.405,
+    "fair": 0.405,
+    "vol24": 569093.869155
+  },
+  {
+    "q": "Spread: UTSA (-6.5)",
+    "score": 0.4602853022111565,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.43,
+    "fair": 0.43,
+    "vol24": 182138.212215
+  },
+  {
+    "q": "Will Samuel Alito announce his retirement by December 31, 2026?",
+    "score": 0.44050774479563787,
     "tags": [
       "information move",
-      "genuine disagreement"
+      "long-shot premium"
     ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 225305.38345500003
+    "price": 0.05,
+    "fair": 0.05,
+    "vol24": 126070.23068799997
+  },
+  {
+    "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+    "score": 0.3828299080364093,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.6385,
+    "fair": 0.6385000000000001,
+    "vol24": 234558.41867600006
+  },
+  {
+    "q": "UTSA vs. Florida Atlantic",
+    "score": 0.3690285849465395,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.625,
+    "fair": 0.625,
+    "vol24": 118614.93676200001
+  },
+  {
+    "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "score": 0.3598946295953358,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.2365,
+    "fair": 0.2365,
+    "vol24": 481444.113453
+  },
+  {
+    "q": "Will Bilibili Gaming win Worlds 2026?",
+    "score": 0.332607224654509,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.218,
+    "fair": 0.218,
+    "vol24": 127103.575162
+  },
+  {
+    "q": "Pete Hegseth out as Secretary of Defense by November 30?",
+    "score": 0.293084512902842,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.265,
+    "fair": 0.265,
+    "vol24": 236164.29088400005
+  },
+  {
+    "q": "Spread: Jaguars (-10.5)",
+    "score": 0.24985592959997818,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.415,
+    "fair": 0.415,
+    "vol24": 313927.28768800007
   },
   {
     "q": "Israel x Iran ceasefire continues through November 7?",
-    "score": 0.3376867604956782,
+    "score": 0.2452305838168141,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
-    "price": 0.905,
-    "fair": 0.905,
-    "vol24": 202536.86905500002
+    "price": 0.955,
+    "fair": 0.955,
+    "vol24": 248353.96347499997
   },
   {
-    "q": "Ball State vs. UMass: O/U 47.5",
-    "score": 0.3079744003821861,
+    "q": "Jaguars vs. Ravens",
+    "score": 0.2190134423281248,
     "tags": [
       "information move",
-      "genuine disagreement"
+      "trend divergence"
     ],
-    "price": 0.49,
-    "fair": 0.49,
-    "vol24": 190352.623988
+    "price": 0.775,
+    "fair": 0.775,
+    "vol24": 1054069.512158
   },
   {
-    "q": "US announces end of Iranian blockade by December 31, 2026?",
-    "score": 0.2580506036219615,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.433,
-    "fair": 0.433,
-    "vol24": 182896.760422
-  },
-  {
-    "q": "Ball State vs. UMass",
-    "score": 0.23842711497235983,
+    "q": "Spread: Jaguars (-9.5)",
+    "score": 0.21129659862700031,
     "tags": [
       "information move",
-      "genuine disagreement"
+      "genuine disagreement",
+      "trend divergence"
     ],
-    "price": 0.455,
-    "fair": 0.455,
-    "vol24": 175951.94061899997
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 646629.9122250001
   },
   {
-    "q": "Jazz vs. Pelicans",
-    "score": 0.19448175874722715,
+    "q": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+    "score": 0.20733437174036204,
     "tags": [
-      "information move"
+      "trend divergence"
     ],
-    "price": 0.365,
-    "fair": 0.365,
-    "vol24": 222969.9917499999
+    "price": 0.3755,
+    "fair": 0.3755,
+    "vol24": 324136.5567010001
   },
   {
-    "q": "Will Samuel Alito announce his retirement by December 31, 2026?",
-    "score": 0.18950441107230917,
+    "q": "Costa do Sauipe: Thiago Seyboth Wild vs Franco Roncadelli",
+    "score": 0.20517029326595138,
     "tags": [
-      "information move"
+      "information move",
+      "asymmetric favourite"
     ],
-    "price": 0.145,
-    "fair": 0.14500000000000002,
-    "vol24": 162692.91294799998
+    "price": 0.923,
+    "fair": 0.923,
+    "vol24": 134664.80503299998
   },
   {
-    "q": "Iran leadership change by November 30?",
-    "score": 0.12823978118767299,
+    "q": "Will Mary Peltola win the Alaska Senate race in 2026?",
+    "score": 0.20407066872282614,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.974,
+    "fair": 0.974,
+    "vol24": 730194.130336
+  },
+  {
+    "q": "Will Dan Sullivan win the Alaska Senate race in 2026?",
+    "score": 0.20154117820085318,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.0335,
-    "fair": 0.0335,
-    "vol24": 150654.02357999998
+    "price": 0.0275,
+    "fair": 0.0275,
+    "vol24": 268024.264259
   },
   {
-    "q": "Spread: Lakers (-12.5)",
-    "score": 0.09482004111122337,
+    "q": "Pete Hegseth out as Secretary of Defense by December 31?",
+    "score": 0.1751344465592977,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.415,
+    "fair": 0.415,
+    "vol24": 319318.5167079999
+  },
+  {
+    "q": "Will Republicans lose the Alaska, Iowa, Kansas, Maine, Michigan, Ohio, and Texas Senate seats?",
+    "score": 0.1560498936257387,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.965,
+    "fair": 0.965,
+    "vol24": 384540.80574
+  },
+  {
+    "q": "James Madison vs. Southern Miss: O/U 57.5",
+    "score": 0.1500700019169527,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.545,
+    "fair": 0.545,
+    "vol24": 318101.24706
+  },
+  {
+    "q": "Jaguars vs. Ravens: O/U 38.5",
+    "score": 0.1476450636553813,
+    "tags": [
+      "genuine disagreement",
+      "trend divergence"
+    ],
+    "price": 0.555,
+    "fair": 0.555,
+    "vol24": 259209.34734899996
+  },
+  {
+    "q": "LoL: Dplus KIA vs Bilibili Gaming - Game 4 Winner",
+    "score": 0.14698252246336635,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.495,
     "fair": 0.495,
-    "vol24": 164096.612003
+    "vol24": 245107.942921
+  },
+  {
+    "q": "Jaguars vs. Ravens: O/U 40.5",
+    "score": 0.1436444242893708,
+    "tags": [
+      "genuine disagreement",
+      "trend divergence"
+    ],
+    "price": 0.485,
+    "fair": 0.485,
+    "vol24": 184909.77718099998
+  },
+  {
+    "q": "Will Marine Le Pen win the 2027 French presidential election?",
+    "score": 0.13924639767957422,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.4425,
+    "fair": 0.4425,
+    "vol24": 105393.145656
+  },
+  {
+    "q": "US-Iran Final Nuclear Deal by December 31, 2026?",
+    "score": 0.13840839430089313,
+    "tags": [
+      "long-shot premium",
+      "trend divergence"
+    ],
+    "price": 0.095,
+    "fair": 0.095,
+    "vol24": 118842.232973
   }
 ]
