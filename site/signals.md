@@ -1,73 +1,70 @@
-# Odds Shift — Signals (Sun 08 Nov 2026 00:04)
+# Odds Shift — Signals (Mon 09 Nov 2026 00:19)
 
-_65 markets · 29 non-sports · 30 carrying a signal · analytics, not advice_
+_65 markets · 34 non-sports · 31 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Vanderbilt vs. Mississippi State
-price **87.5%** · fair value est. **87.5%** · spread 1.0% · 24h 44.0% · $240k · score 2.15
-- **information move** — 44.0% move on $240k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-vand-mspst-2026-11-07
+### Spread: Packers (-6.5)
+price **97.8%** · fair value est. **97.8%** · spread 2.0% · 24h 77.3% · $93k · score 3.20
+- **asymmetric favourite** — 97.8% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nfl-gb-ne-2026-11-08-spread-away-6pt5
 
-### Rangers vs. Kraken
-price **97.7%** · fair value est. **97.6%** · spread 0.7% · 24h 44.1% · $158k · score 2.14
-- **information move** — 44.1% move on $158k of volume — the market repriced on real money
-- **asymmetric favourite** — 97.7% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/nhl-nyr-sea-2026-11-07
+### Will Vitesse Arnhem vs. De Graafschap end in a draw?
+price **97.0%** · fair value est. **97.0%** · spread 1.8% · 24h 73.5% · $134k · score 3.19
+- **information move** — 73.5% move on $134k of volume — the market repriced on real money
+- **asymmetric favourite** — 97.0% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/ned2-vit-gra-2026-11-08-draw
 
-### Western Kentucky vs. Middle Tennessee
-price **21.9%** · fair value est. **21.9%** · spread 0.3% · 24h 33.7% · $294k · score 1.79
-- **information move** — 33.7% move on $294k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-wkent-mtnst-2026-11-07
+### Spread: Packers (-10.5)
+price **92.0%** · fair value est. **92.0%** · spread 4.0% · 24h 81.0% · $96k · score 2.88
+- **asymmetric favourite** — 92.0% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nfl-gb-ne-2026-11-08-spread-away-10pt5
 
-### Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?
-price **2.2%** · fair value est. **2.2%** · spread 1.5% · 24h 38.2% · $207k · score 1.77
-- **information move** — 38.2% move on $207k of volume — the market repriced on real money
-- **long-shot premium** — priced 2.2% with $207k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election
+### Lakers vs. Pistons
+price **67.5%** · fair value est. **67.5%** · spread 1.0% · 24h 29.0% · $2.2M · score 1.67
+- **information move** — 29.0% move on $2.2M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-lal-det-2026-11-08
 
-### Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?
-price **97.4%** · fair value est. **97.4%** · spread 1.7% · 24h 37.9% · $288k · score 1.77
-- **information move** — 37.9% move on $288k of volume — the market repriced on real money
-- **asymmetric favourite** — 97.4% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election
+### WTA Finals, Group A: Coco Gauff vs Jessica Pegula
+price **87.5%** · fair value est. **87.5%** · spread 1.0% · 24h 29.0% · $597k · score 1.52
+- **information move** — 29.0% move on $597k of volume — the market repriced on real money
+  https://polymarket.com/event/wta-gauff-pegula-2026-11-08
 
-### Game Handicap: GEN (-2.5) vs Invictus Gaming (+2.5)
-price **71.0%** · fair value est. **71.0%** · spread 2.0% · 24h 33.5% · $624k · score 1.62
-- **information move** — 33.5% move on $624k of volume — the market repriced on real money
-  https://polymarket.com/event/lol-ig1-gen-2026-11-07-game-handicap-home-2pt5
+### Spread: Pistons (-5.5)
+price **16.5%** · fair value est. **16.5%** · spread 1.0% · 24h 30.5% · $143k · score 1.43
+- **information move** — 30.5% move on $143k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-lal-det-2026-11-08-spread-home-5pt5
 
-### Games Total: O/U 3.5
-price **29.5%** · fair value est. **29.5%** · spread 1.0% · 24h 31.0% · $156k · score 1.46
-- **information move** — 31.0% move on $156k of volume — the market repriced on real money
-  https://polymarket.com/event/lol-ig1-gen-2026-11-07-total-games-3pt5
+### Spread: Pistons (-6.5)
+price **13.5%** · fair value est. **13.5%** · spread 1.0% · 24h 30.5% · $131k · score 1.42
+- **information move** — 30.5% move on $131k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-lal-det-2026-11-08-spread-home-6pt5
 
-### Spread: Houston (-10.5)
-price **9.3%** · fair value est. **9.3%** · spread 5.2% · 24h 41.2% · $99k · score 1.35
-- **wide spread** — 5.2% bid-ask — price is a guess, not a level
-- **long-shot premium** — priced 9.3% with $99k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/cfb-cin-hou-2026-11-07-spread-home-10pt5
+### Lightning vs. Jets
+price **36.5%** · fair value est. **36.5%** · spread 1.0% · 24h 22.0% · $141k · score 1.03
+- **information move** — 22.0% move on $141k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-tb-wpg-2026-11-08
 
-### Nuggets vs. Pacers
-price **94.2%** · fair value est. **94.2%** · spread 0.7% · 24h 24.8% · $542k · score 1.33
-- **information move** — 24.8% move on $542k of volume — the market repriced on real money
-- **asymmetric favourite** — 94.2% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/nba-den-ind-2026-11-07
+### LoL: Bilibili Gaming vs T1 - Game 3 Winner
+price **71.5%** · fair value est. **71.5%** · spread 1.0% · 24h 17.0% · $1.6M · score 0.96
+- **information move** — 17.0% move on $1.6M of volume — the market repriced on real money
+  https://polymarket.com/event/lol-blg-t1-2026-11-08-game3
 
-### Will EC Juventude win on 2026-11-06?
-price **72.5%** · fair value est. **72.5%** · spread 1.0% · 24h 25.0% · $160k · score 1.18
-- **information move** — 25.0% move on $160k of volume — the market repriced on real money
-  https://polymarket.com/event/bra2-cui-juv-2026-11-06-juv
+### Pete Hegseth out as Secretary of Defense by December 31?
+price **44.5%** · fair value est. **44.5%** · spread 1.0% · 24h 12.0% · $209k · score 0.58
+- **information move** — 12.0% move on $209k of volume — the market repriced on real money
+- **genuine disagreement** — 44.5% with $209k traded — two sides with conviction
+  https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 7 markets, $3.9M traded
-- **10–25%** band: 14 markets, $2.8M traded
-- **25–45%** band: 9 markets, $1.6M traded
-- **45–55%** band: 12 markets, $1.9M traded
-- **55–75%** band: 15 markets, $2.8M traded
-- **75–90%** band: 4 markets, $1.2M traded
-- **90–100%** band: 4 markets, $1.4M traded
+- **0–10%** band: 13 markets, $1.8M traded
+- **10–25%** band: 14 markets, $2.9M traded
+- **25–45%** band: 10 markets, $3.0M traded
+- **45–55%** band: 8 markets, $1.7M traded
+- **55–75%** band: 10 markets, $8.0M traded
+- **75–90%** band: 3 markets, $812k traded
+- **90–100%** band: 7 markets, $927k traded
 
 <!-- Gan: signals above, voice below. -->
 
