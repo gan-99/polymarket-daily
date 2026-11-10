@@ -1,320 +1,419 @@
 [
   {
-    "q": "Spread: Packers (-6.5)",
-    "score": 3.199513416838464,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.978,
-    "fair": 0.978,
-    "vol24": 92661.30625
-  },
-  {
-    "q": "Will Vitesse Arnhem vs. De Graafschap end in a draw?",
-    "score": 3.1931767349024733,
+    "q": "Matsuyama: Billy Harris vs Liam Broady",
+    "score": 1.902189091589393,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
-    "price": 0.97,
-    "fair": 0.97,
-    "vol24": 133800.38484800005
+    "price": 0.9095,
+    "fair": 0.9095,
+    "vol24": 262720.136482
   },
   {
-    "q": "Spread: Packers (-10.5)",
-    "score": 2.8826796147604052,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.92,
-    "fair": 0.9199999999999999,
-    "vol24": 96029.504554
-  },
-  {
-    "q": "Lakers vs. Pistons",
-    "score": 1.6743833090118547,
+    "q": "Spread: Spurs (-9.5)",
+    "score": 1.5941962213259384,
     "tags": [
       "information move"
     ],
-    "price": 0.675,
-    "fair": 0.675,
-    "vol24": 2244444.701004001
+    "price": 0.78,
+    "fair": 0.78,
+    "vol24": 769595.2999630001
   },
   {
-    "q": "WTA Finals, Group A: Coco Gauff vs Jessica Pegula",
-    "score": 1.5227000876368646,
+    "q": "Bills vs. Vikings: O/U 44.5",
+    "score": 1.471617645189007,
     "tags": [
       "information move"
     ],
-    "price": 0.875,
-    "fair": 0.875,
-    "vol24": 596703.0054439999
+    "price": 0.205,
+    "fair": 0.20500000000000002,
+    "vol24": 604441.557761
   },
   {
-    "q": "Spread: Pistons (-5.5)",
-    "score": 1.4296277878567658,
+    "q": "Bills vs. Vikings: O/U 46.5",
+    "score": 1.3298772463576654,
     "tags": [
       "information move"
     ],
-    "price": 0.165,
-    "fair": 0.165,
-    "vol24": 143229.215295
+    "price": 0.155,
+    "fair": 0.155,
+    "vol24": 261828.400345
   },
   {
-    "q": "Spread: Pistons (-6.5)",
-    "score": 1.4188006957520025,
+    "q": "Spread: Spurs (-8.5)",
+    "score": 1.1811894100020477,
     "tags": [
       "information move"
     ],
-    "price": 0.135,
-    "fair": 0.135,
-    "vol24": 130913.00697900001
+    "price": 0.805,
+    "fair": 0.8049999999999999,
+    "vol24": 108286.37176799997
   },
   {
-    "q": "Lightning vs. Jets",
-    "score": 1.0296860669334638,
+    "q": "Rangers vs. Oilers",
+    "score": 1.0388485687669025,
     "tags": [
       "information move"
     ],
-    "price": 0.365,
-    "fair": 0.365,
-    "vol24": 140743.144207
+    "price": 0.205,
+    "fair": 0.20500000000000002,
+    "vol24": 276430.63417000003
   },
   {
-    "q": "LoL: Bilibili Gaming vs T1 - Game 3 Winner",
-    "score": 0.9575698014844831,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.715,
-    "fair": 0.715,
-    "vol24": 1570506.056051001
-  },
-  {
-    "q": "Pete Hegseth out as Secretary of Defense by December 31?",
-    "score": 0.5803860716857511,
+    "q": "Spurs vs. Suns",
+    "score": 0.9824348634338834,
     "tags": [
       "information move",
-      "genuine disagreement"
+      "asymmetric favourite"
     ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 209027.57367399998
+    "price": 0.935,
+    "fair": 0.935,
+    "vol24": 1008714.3039489998
   },
   {
-    "q": "Jazz vs. Timberwolves: O/U 222.5",
-    "score": 0.5589820143550007,
+    "q": "Bills vs. Vikings: O/U 52.5",
+    "score": 0.8909088823018324,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0525,
+    "fair": 0.0525,
+    "vol24": 114677.641996
+  },
+  {
+    "q": "Will Kai Cenat finish his GTA marathon by November 10?",
+    "score": 0.8252716571231081,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.0325,
+    "fair": 0.0325,
+    "vol24": 579312.8941489999
+  },
+  {
+    "q": "Bills vs. Vikings",
+    "score": 0.5227717761303211,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.705,
+    "fair": 0.705,
+    "vol24": 2451504.203305
+  },
+  {
+    "q": "Spread: Rockets (-8.5)",
+    "score": 0.5151708439248606,
     "tags": [
       "information move"
     ],
     "price": 0.38,
     "fair": 0.38,
-    "vol24": 388883.06122599996
+    "vol24": 220044.48175300003
   },
   {
-    "q": "Pete Hegseth out as Secretary of Defense by November 30?",
-    "score": 0.4441683079212837,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.295,
-    "fair": 0.295,
-    "vol24": 138994.730438
-  },
-  {
-    "q": "Spread: Mavericks (-9.5)",
-    "score": 0.3592710034739554,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.425,
-    "fair": 0.425,
-    "vol24": 185911.268839
-  },
-  {
-    "q": "Spread: Heat (-9.5)",
-    "score": 0.3405908314124891,
+    "q": "Spread: Bills (-3.5)",
+    "score": 0.4997371618338049,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
     "price": 0.555,
     "fair": 0.555,
-    "vol24": 224977.820975
+    "vol24": 1282030.3480950003
   },
   {
-    "q": "Will Gen.G win Worlds 2026?",
-    "score": 0.3082754936608831,
+    "q": "Will Anthropic IPO by December 31, 2026?",
+    "score": 0.4706763439548608,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.97,
+    "fair": 0.97,
+    "vol24": 153830.55254300003
+  },
+  {
+    "q": "Spread: Bills (-2.5)",
+    "score": 0.4647793141632695,
     "tags": [
       "information move"
     ],
     "price": 0.645,
     "fair": 0.645,
-    "vol24": 164803.81373400002
+    "vol24": 479330.60125599994
   },
   {
-    "q": "LoL: Bilibili Gaming vs T1 (BO5) - Worlds Playoffs",
-    "score": 0.29601938738187294,
+    "q": "Israel x Iran ceasefire continues through December 31?",
+    "score": 0.45783535670822373,
     "tags": [
       "information move"
     ],
-    "price": 0.615,
-    "fair": 0.615,
-    "vol24": 3254066.237898001
+    "price": 0.665,
+    "fair": 0.665,
+    "vol24": 108688.83358099998
   },
   {
-    "q": "Spread: Timberwolves (-11.5)",
-    "score": 0.2919126924226865,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.55,
-    "fair": 0.55,
-    "vol24": 100974.865509
-  },
-  {
-    "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
-    "score": 0.28172597328665944,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.621,
-    "fair": 0.621,
-    "vol24": 167777.470845
-  },
-  {
-    "q": "Will Bitcoin dip to $72,500 in November?",
-    "score": 0.27608002460187214,
+    "q": "Spread: Vikings (-3.5)",
+    "score": 0.45633210116131584,
     "tags": [
       "information move"
     ],
-    "price": 0.67,
-    "fair": 0.67,
-    "vol24": 124985.17939399998
+    "price": 0.145,
+    "fair": 0.14500000000000002,
+    "vol24": 104628.25013
   },
   {
-    "q": "Spread: Mavericks (-8.5)",
-    "score": 0.2682420885549781,
+    "q": "Spread: Rockets (-4.5)",
+    "score": 0.39115634924761833,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.57,
+    "fair": 0.5700000000000001,
+    "vol24": 332817.365566
+  },
+  {
+    "q": "Pete Hegseth impeached by December 31, 2026?",
+    "score": 0.3785144859777783,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.814,
+    "fair": 0.8140000000000001,
+    "vol24": 103727.353162
+  },
+  {
+    "q": "Spread: Rockets (-9.5)",
+    "score": 0.3720811808527551,
     "tags": [
       "information move",
+      "wide spread"
+    ],
+    "price": 0.335,
+    "fair": 0.33499999999999996,
+    "vol24": 112116.438928
+  },
+  {
+    "q": "Spread: Rockets (-5.5)",
+    "score": 0.36931211884031323,
+    "tags": [
+      "information move",
+      "wide spread",
       "genuine disagreement"
     ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 231654.04946000004
+    "price": 0.5,
+    "fair": 0.5,
+    "vol24": 137484.078659
+  },
+  {
+    "q": "Pete Hegseth out as Secretary of Defense by December 31?",
+    "score": 0.3360546815541324,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.355,
+    "fair": 0.355,
+    "vol24": 190922.45354700004
   },
   {
     "q": "Israel x Iran ceasefire continues through November 15?",
-    "score": 0.201571896568819,
+    "score": 0.330496742132466,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
-    "price": 0.905,
-    "fair": 0.905,
-    "vol24": 349321.97941
+    "price": 0.969,
+    "fair": 0.969,
+    "vol24": 297749.357479
   },
   {
-    "q": "Will Jeremiah Smith win the 2026 Heisman Trophy?",
-    "score": 0.19881327655885667,
+    "q": "Another Fed rate hike in 2026?",
+    "score": 0.32128988831393157,
     "tags": [
       "information move"
     ],
-    "price": 0.21,
-    "fair": 0.21000000000000002,
-    "vol24": 200301.963563
+    "price": 0.825,
+    "fair": 0.825,
+    "vol24": 111901.83829400002
   },
   {
-    "q": "Jazz vs. Timberwolves",
-    "score": 0.19849549748767048,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.135,
-    "fair": 0.135,
-    "vol24": 287491.27589100006
-  },
-  {
-    "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-    "score": 0.1828164815986007,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.201,
-    "fair": 0.201,
-    "vol24": 287570.37087000004
-  },
-  {
-    "q": "Pelicans vs. Clippers",
-    "score": 0.18232414660223087,
+    "q": "Spread: Warriors (-11.5)",
+    "score": 0.31421798390875405,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 103254.699124
+    "price": 0.48,
+    "fair": 0.48,
+    "vol24": 243552.29522700014
   },
   {
-    "q": "Spread: Celtics (-12.5)",
-    "score": 0.1772880926622986,
+    "q": "Pacers vs. Mavericks",
+    "score": 0.2702691514884522,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.355,
+    "fair": 0.355,
+    "vol24": 882918.955537
+  },
+  {
+    "q": "Next US-Iran senior diplomatic meeting by November 30, 2026?",
+    "score": 0.2649347497611496,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.205,
+    "fair": 0.20500000000000002,
+    "vol24": 198926.5781
+  },
+  {
+    "q": "Spread: Warriors (-9.5)",
+    "score": 0.2517357542904714,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.56,
+    "fair": 0.56,
+    "vol24": 310752.8065859999
+  },
+  {
+    "q": "Spread: Bills (-4.5)",
+    "score": 0.2140382785634373,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 769222.70706
+  },
+  {
+    "q": "US announces end of Iranian blockade by November 30, 2026?",
+    "score": 0.20865023774753927,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.155,
+    "fair": 0.155,
+    "vol24": 546865.774407
+  },
+  {
+    "q": "India Tour of New Zealand ODIs: New Zealand vs India",
+    "score": 0.20112011922654477,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 75061.41763699999
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 82463.984388
   },
   {
-    "q": "Nets vs. Mavericks",
-    "score": 0.14912120629240638,
+    "q": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "score": 0.20014070401626355,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.185,
+    "fair": 0.185,
+    "vol24": 319056.795717
+  },
+  {
+    "q": "Will Chuck Schumer be the next Senate Majority Leader?",
+    "score": 0.19171994314739413,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.895,
+    "fair": 0.895,
+    "vol24": 187195.80691899997
+  },
+  {
+    "q": "Will the U.S. invade Iran before 2027?",
+    "score": 0.173683900853715,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.085,
+    "fair": 0.08499999999999999,
+    "vol24": 287498.36114299996
+  },
+  {
+    "q": "Spread: Mavericks (-2.5)",
+    "score": 0.17070705435340808,
+    "tags": [
+      "wide spread"
+    ],
+    "price": 0.565,
+    "fair": 0.565,
+    "vol24": 97699.88819000001
+  },
+  {
+    "q": "Nuggets vs. Rockets",
+    "score": 0.1655540141224563,
     "tags": [
       "trend divergence"
     ],
     "price": 0.285,
     "fair": 0.28500000000000003,
-    "vol24": 293613.54385899997
+    "vol24": 1175745.9238439999
   },
   {
-    "q": "Will Alberto N\u00fa\u00f1ez Feij\u00f3o be the next Prime Minister of Spain?",
-    "score": 0.13387760080942415,
+    "q": "Spread: Mavericks (-3.5)",
+    "score": 0.16011979409010896,
     "tags": [
-      "asymmetric favourite"
+      "information move",
+      "genuine disagreement"
     ],
-    "price": 0.925,
-    "fair": 0.925,
-    "vol24": 81066.23545499999
-  },
-  {
-    "q": "Will Nicol\u00e1s Maduro be the leader of Venezuela end of 2026?",
-    "score": 0.11115331851784682,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.94,
-    "fair": 0.94,
-    "vol24": 76211.83332199998
+    "price": 0.51,
+    "fair": 0.51,
+    "vol24": 401968.2144830001
   },
   {
     "q": "Strait of Hormuz traffic returns to normal by December 31?",
-    "score": 0.09109931725570303,
+    "score": 0.15548086861077254,
+    "tags": [
+      "long-shot premium",
+      "trend divergence"
+    ],
+    "price": 0.095,
+    "fair": 0.095,
+    "vol24": 502301.318081
+  },
+  {
+    "q": "US-Iran Final Nuclear Deal by December 31, 2026?",
+    "score": 0.14540791124405317,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.125,
+    "fair": 0.125,
+    "vol24": 214595.884331
+  },
+  {
+    "q": "Will Avengers: Doomsday be the top grossing movie of 2026?",
+    "score": 0.12038191907481303,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.065,
-    "fair": 0.065,
-    "vol24": 102437.32039800001
+    "price": 0.0995,
+    "fair": 0.0995,
+    "vol24": 116431.01880800002
   },
   {
-    "q": "Israel x Iran ceasefire continues through December 31?",
-    "score": 0.08999378564069162,
+    "q": "Spread: Warriors (-10.5)",
+    "score": 0.10574165907067784,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.545,
-    "fair": 0.545,
-    "vol24": 89053.97995700002
+    "price": 0.52,
+    "fair": 0.52,
+    "vol24": 119013.433953
   }
 ]
