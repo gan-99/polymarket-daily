@@ -1,72 +1,74 @@
-# Odds Shift — Signals (Tue 10 Nov 2026 03:03)
+# Odds Shift — Signals (Wed 11 Nov 2026 00:56)
 
-_74 markets · 42 non-sports · 40 carrying a signal · analytics, not advice_
+_76 markets · 40 non-sports · 39 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Matsuyama: Billy Harris vs Liam Broady
-price **91.0%** · fair value est. **91.0%** · spread 0.1% · 24h 35.4% · $263k · score 1.90
-- **information move** — 35.4% move on $263k of volume — the market repriced on real money
-- **asymmetric favourite** — 91.0% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/atp-harris-broady-2026-11-08
+### Pete Hegseth impeached by December 31, 2026?
+price **3.0%** · fair value est. **3.0%** · spread 0.5% · 24h 78.3% · $258k · score 4.04
+- **information move** — 78.3% move on $258k of volume — the market repriced on real money
+- **long-shot premium** — priced 3.0% with $258k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/pete-hegseth-impeached-by-december-31-2026-20260628214100529
 
-### Spread: Spurs (-9.5)
-price **78.0%** · fair value est. **78.0%** · spread 2.0% · 24h 32.5% · $770k · score 1.59
-- **information move** — 32.5% move on $770k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-sas-phx-2026-11-09-spread-away-9pt5
+### Will Kai Cenat finish his GTA marathon by November 11, 7:59 AM ET?
+price **91.5%** · fair value est. **91.5%** · spread 3.0% · 24h 62.5% · $193k · score 2.54
+- **information move** — 62.5% move on $193k of volume — the market repriced on real money
+- **asymmetric favourite** — 91.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/will-kai-cenat-finish-his-gta-marathon-by-november-11-759-am-et
 
-### Bills vs. Vikings: O/U 44.5
-price **20.5%** · fair value est. **20.5%** · spread 1.0% · 24h 28.0% · $604k · score 1.47
-- **information move** — 28.0% move on $604k of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-buf-min-2026-11-10-total-44pt5
+### Devils vs. Jets
+price **24.5%** · fair value est. **24.5%** · spread 1.0% · 24h 34.0% · $242k · score 1.66
+- **information move** — 34.0% move on $242k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-nj-wpg-2026-11-10
 
-### Bills vs. Vikings: O/U 46.5
-price **15.5%** · fair value est. **15.5%** · spread 1.0% · 24h 27.0% · $262k · score 1.33
-- **information move** — 27.0% move on $262k of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-buf-min-2026-11-10-total-46pt5
+### Will the Fed increase interest rates by 25 bps after the January 2027 meeting?
+price **47.5%** · fair value est. **47.5%** · spread 1.0% · 24h 30.0% · $180k · score 1.43
+- **information move** — 30.0% move on $180k of volume — the market repriced on real money
+- **genuine disagreement** — 47.5% with $180k traded — two sides with conviction
+  https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506
 
-### Spread: Spurs (-8.5)
-price **80.5%** · fair value est. **80.5%** · spread 3.0% · 24h 30.5% · $108k · score 1.18
-- **information move** — 30.5% move on $108k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-sas-phx-2026-11-09-spread-away-8pt5
+### Will there be no change in Fed interest rates after the January 2027 meeting?
+price **50.5%** · fair value est. **50.5%** · spread 1.0% · 24h 28.0% · $174k · score 1.33
+- **information move** — 28.0% move on $174k of volume — the market repriced on real money
+- **genuine disagreement** — 50.5% with $174k traded — two sides with conviction
+  https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-january-2027-meeting-20260729233815505
 
-### Rangers vs. Oilers
-price **20.5%** · fair value est. **20.5%** · spread 1.0% · 24h 21.0% · $276k · score 1.04
-- **information move** — 21.0% move on $276k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-nyr-edm-2026-11-09
+### Pete Hegseth out as Secretary of Defense by December 31?
+price **12.5%** · fair value est. **12.5%** · spread 1.0% · 24h 24.0% · $342k · score 1.21
+- **information move** — 24.0% move on $342k of volume — the market repriced on real money
+  https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-december-31
 
-### Spurs vs. Suns
-price **93.5%** · fair value est. **93.5%** · spread 1.0% · 24h 18.0% · $1.0M · score 0.98
-- **information move** — 18.0% move on $1.0M of volume — the market repriced on real money
-- **asymmetric favourite** — 93.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/nba-sas-phx-2026-11-09
+### Capitals vs. Senators
+price **68.5%** · fair value est. **68.5%** · spread 1.0% · 24h 23.0% · $426k · score 1.18
+- **information move** — 23.0% move on $426k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-wsh-ott-2026-11-10
 
-### Bills vs. Vikings: O/U 52.5
-price **5.2%** · fair value est. **5.2%** · spread 1.5% · 24h 20.2% · $115k · score 0.89
-- **information move** — 20.2% move on $115k of volume — the market repriced on real money
-- **long-shot premium** — priced 5.2% with $115k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nfl-buf-min-2026-11-10-total-52pt5
+### Will there be no change in Fed interest rates after the December 2026 meeting?
+price **3.6%** · fair value est. **3.6%** · spread 0.1% · 24h 14.8% · $2.3M · score 0.94
+- **information move** — 14.8% move on $2.3M of volume — the market repriced on real money
+- **long-shot premium** — priced 3.6% with $2.3M behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635
 
-### Will Kai Cenat finish his GTA marathon by November 10?
-price **3.2%** · fair value est. **3.2%** · spread 0.3% · 24h 14.8% · $579k · score 0.83
-- **information move** — 14.8% move on $579k of volume — the market repriced on real money
-- **long-shot premium** — priced 3.2% with $579k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-kai-cenat-finish-his-gta-marathon-by-november-10-20261105
+### Avalanche vs. Maple Leafs
+price **75.5%** · fair value est. **75.5%** · spread 1.0% · 24h 17.0% · $250k · score 0.83
+- **information move** — 17.0% move on $250k of volume — the market repriced on real money
+  https://polymarket.com/event/nhl-col-tor-2026-11-10
 
-### Bills vs. Vikings
-price **70.5%** · fair value est. **70.5%** · spread 1.0% · 24h 9.0% · $2.5M · score 0.52
-- **information move** — 9.0% move on $2.5M of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-buf-min-2026-11-10
+### Pete Hegseth out as Secretary of Defense by November 30?
+price **3.5%** · fair value est. **3.5%** · spread 0.8% · 24h 16.0% · $142k · score 0.76
+- **information move** — 16.0% move on $142k of volume — the market repriced on real money
+- **long-shot premium** — priced 3.5% with $142k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 16 markets, $3.7M traded
-- **10–25%** band: 17 markets, $4.8M traded
-- **25–45%** band: 13 markets, $3.7M traded
-- **45–55%** band: 7 markets, $1.8M traded
-- **55–75%** band: 10 markets, $5.4M traded
-- **75–90%** band: 7 markets, $1.5M traded
-- **90–100%** band: 4 markets, $1.7M traded
+- **0–10%** band: 9 markets, $3.7M traded
+- **10–25%** band: 10 markets, $4.0M traded
+- **25–45%** band: 23 markets, $4.0M traded
+- **45–55%** band: 17 markets, $4.5M traded
+- **55–75%** band: 6 markets, $2.3M traded
+- **75–90%** band: 6 markets, $2.7M traded
+- **90–100%** band: 5 markets, $865k traded
 
 <!-- Gan: signals above, voice below. -->
 
