@@ -1,407 +1,347 @@
 [
   {
-    "q": "Pete Hegseth impeached by December 31, 2026?",
-    "score": 4.035965009134165,
+    "q": "Jensen Huang announced resignation or removal by December 31, 2026?",
+    "score": 3.8691005344341143,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.835,
+    "fair": 0.835,
+    "vol24": 2808670.1332530007
+  },
+  {
+    "q": "Jensen Huang announced resignation or removal by March 31, 2027?",
+    "score": 2.876194795598185,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.87,
+    "fair": 0.87,
+    "vol24": 409342.0357609999
+  },
+  {
+    "q": "Spurs vs. Bulls",
+    "score": 2.4468603196349337,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.425,
+    "fair": 0.425,
+    "vol24": 709883.5444730002
+  },
+  {
+    "q": "Jensen Huang announced resignation or removal by December 31, 2027?",
+    "score": 2.291582253180283,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.88,
+    "fair": 0.88,
+    "vol24": 278831.869381
+  },
+  {
+    "q": "Spread: Spurs (-15.5)",
+    "score": 2.269370852673457,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.0305,
-    "fair": 0.0305,
-    "vol24": 258352.06236400007
+    "price": 0.055,
+    "fair": 0.055,
+    "vol24": 547820.329792
   },
   {
-    "q": "Will Kai Cenat finish his GTA marathon by November 11, 7:59 AM ET?",
-    "score": 2.541365864545409,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.915,
-    "fair": 0.915,
-    "vol24": 193214.07072400005
-  },
-  {
-    "q": "Devils vs. Jets",
-    "score": 1.6638370601158745,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.245,
-    "fair": 0.245,
-    "vol24": 241546.33669799997
-  },
-  {
-    "q": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-    "score": 1.4333333148112892,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 180116.324667
-  },
-  {
-    "q": "Will there be no change in Fed interest rates after the January 2027 meeting?",
-    "score": 1.333947827395372,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.505,
-    "fair": 0.505,
-    "vol24": 173983.004242
-  },
-  {
-    "q": "Pete Hegseth out as Secretary of Defense by December 31?",
-    "score": 1.2073123996017878,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.125,
-    "fair": 0.125,
-    "vol24": 341596.878508
-  },
-  {
-    "q": "Capitals vs. Senators",
-    "score": 1.1770776732135397,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.685,
-    "fair": 0.685,
-    "vol24": 426089.562766
-  },
-  {
-    "q": "Will there be no change in Fed interest rates after the December 2026 meeting?",
-    "score": 0.9353297010311257,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.0365,
-    "fair": 0.0365,
-    "vol24": 2298801.550527
-  },
-  {
-    "q": "Avalanche vs. Maple Leafs",
-    "score": 0.8342666657793449,
+    "q": "Nets vs. Pelicans",
+    "score": 2.1085823330652853,
     "tags": [
       "information move"
     ],
     "price": 0.755,
     "fair": 0.755,
-    "vol24": 250146.44576099998
+    "vol24": 885692.5939420001
   },
   {
-    "q": "Pete Hegseth out as Secretary of Defense by November 30?",
-    "score": 0.7633635627774006,
+    "q": "Wizards vs. Pacers: O/U 228.5",
+    "score": 1.897717173963359,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.03,
+    "fair": 0.03,
+    "vol24": 171822.22224399998
+  },
+  {
+    "q": "Lightning vs. Sabres: O/U 6.5",
+    "score": 1.8874938652178779,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.95,
+    "fair": 0.95,
+    "vol24": 161018.928028
+  },
+  {
+    "q": "Lightning vs. Sabres",
+    "score": 1.8747622317767973,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.9115,
+    "fair": 0.9115,
+    "vol24": 106964.232714
+  },
+  {
+    "q": "Wizards vs. Pacers: O/U 227.5",
+    "score": 1.8084050384444303,
     "tags": [
       "information move",
       "long-shot premium"
     ],
     "price": 0.035,
     "fair": 0.035,
-    "vol24": 142134.98671599998
+    "vol24": 167601.781639
   },
   {
-    "q": "Wild vs. Canadiens: O/U 6.5",
-    "score": 0.7039417885341002,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.27,
-    "fair": 0.27,
-    "vol24": 113223.665387
-  },
-  {
-    "q": "Lima: Juan Pablo Varillas vs Tomas Barrios",
-    "score": 0.6587529140185104,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.48,
-    "fair": 0.48,
-    "vol24": 186217.709284
-  },
-  {
-    "q": "Another Fed rate hike in 2026?",
-    "score": 0.6422563652146918,
+    "q": "Spread: Toledo (-14.5)",
+    "score": 1.7928392994921598,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
-    "price": 0.9555,
-    "fair": 0.9555,
-    "vol24": 231439.91550700003
+    "price": 0.9,
+    "fair": 0.9,
+    "vol24": 115380.05155199999
   },
   {
-    "q": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-    "score": 0.6351818371148343,
+    "q": "Wizards vs. Pacers",
+    "score": 1.6685426378610047,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.065,
+    "fair": 0.065,
+    "vol24": 832980.136536
+  },
+  {
+    "q": "Spread: Pacers (-3.5)",
+    "score": 1.4656118847984074,
     "tags": [
       "information move"
     ],
-    "price": 0.1075,
-    "fair": 0.1075,
-    "vol24": 1947804.7431170002
+    "price": 0.87,
+    "fair": 0.87,
+    "vol24": 105913.405681
   },
   {
-    "q": "Counter-Strike: Spirit vs FUT Esports (BO3) - BLAST Rivals Group B",
-    "score": 0.5216144663138164,
+    "q": "Nuggets vs. Grizzlies",
+    "score": 1.3448659738002802,
     "tags": [
       "information move"
     ],
     "price": 0.835,
     "fair": 0.835,
-    "vol24": 546711.65832
+    "vol24": 826817.689148
   },
   {
-    "q": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
-    "score": 0.4569740576852565,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.555,
-    "fair": 0.555,
-    "vol24": 384802.029767
-  },
-  {
-    "q": "Spread: Bowling Green (-5.5)",
-    "score": 0.42337001230430626,
+    "q": "Rangers vs. Flames",
+    "score": 0.8618924484006488,
     "tags": [
       "information move"
     ],
-    "price": 0.375,
-    "fair": 0.375,
-    "vol24": 120347.352013
+    "price": 0.745,
+    "fair": 0.745,
+    "vol24": 377528.71195699996
   },
   {
-    "q": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
-    "score": 0.4115936758311834,
+    "q": "Cavaliers vs. Knicks: O/U 209.5",
+    "score": 0.8566495131475937,
     "tags": [
       "information move"
     ],
-    "price": 0.215,
-    "fair": 0.215,
-    "vol24": 122684.86734100002
+    "price": 0.755,
+    "fair": 0.755,
+    "vol24": 109423.553511
   },
   {
-    "q": "Dota 2: Rottweilas Latam vs Mena Warriors - Game 2 Winner",
-    "score": 0.4105902983129656,
+    "q": "Cavaliers vs. Knicks: O/U 221.5",
+    "score": 0.6778068732131267,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.325,
+    "fair": 0.325,
+    "vol24": 108425.83290800003
+  },
+  {
+    "q": "Thunder vs. Trail Blazers",
+    "score": 0.6471708096955163,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.425,
+    "fair": 0.425,
+    "vol24": 299267.28676799993
+  },
+  {
+    "q": "Cavaliers vs. Knicks",
+    "score": 0.5020508994006329,
     "tags": [
       "information move",
-      "wide spread"
+      "genuine disagreement",
+      "trend divergence"
     ],
-    "price": 0.3455,
-    "fair": 0.34550000000000003,
-    "vol24": 134602.638927
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 1368287.444747
   },
   {
-    "q": "Will Sport Lisboa e Benfica vs. FK Austria Wien end in a draw?",
-    "score": 0.38935485218452964,
+    "q": "Jensen Huang divorce by December 31, 2026?",
+    "score": 0.47452708243617275,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.195,
+    "fair": 0.195,
+    "vol24": 165880.48202400003
+  },
+  {
+    "q": "Raptors vs. 76ers",
+    "score": 0.4547759874675021,
     "tags": [
       "information move",
       "trend divergence"
     ],
-    "price": 0.305,
-    "fair": 0.305,
-    "vol24": 420739.706192
+    "price": 0.255,
+    "fair": 0.255,
+    "vol24": 100584.61187799998
   },
   {
-    "q": "Heat vs. Jazz",
-    "score": 0.3857775957244363,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.705,
-    "fair": 0.705,
-    "vol24": 1154035.012208
-  },
-  {
-    "q": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-    "score": 0.33807822495544193,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.855,
-    "fair": 0.855,
-    "vol24": 1577976.4434360003
-  },
-  {
-    "q": "Heat vs. Jazz: O/U 228.5",
-    "score": 0.3242433169123184,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.435,
-    "fair": 0.435,
-    "vol24": 124522.73051300002
-  },
-  {
-    "q": "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?",
-    "score": 0.3121152438295185,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.2555,
-    "fair": 0.2555,
-    "vol24": 92781.90482299996
-  },
-  {
-    "q": "Spread: Heat (-8.5)",
-    "score": 0.26741031523233877,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 763882.1584370001
-  },
-  {
-    "q": "Will SpaceX have the highest IPO Market Cap 2026?",
-    "score": 0.25499284032560043,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.947,
-    "fair": 0.9470000000000001,
-    "vol24": 86166.85788800001
-  },
-  {
-    "q": "Spread: Knicks (-15.5)",
-    "score": 0.24532837905195407,
+    "q": "Buffalo vs. Ball State",
+    "score": 0.4496853065530516,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
     "price": 0.455,
     "fair": 0.455,
-    "vol24": 992922.826726
+    "vol24": 1524658.854405
   },
   {
-    "q": "Spread: Knicks (-16.5)",
-    "score": 0.20705080541369125,
+    "q": "Spread: Knicks (-3.5)",
+    "score": 0.4326762957925667,
     "tags": [
       "information move"
     ],
-    "price": 0.425,
-    "fair": 0.425,
-    "vol24": 115143.158475
+    "price": 0.38,
+    "fair": 0.38,
+    "vol24": 111657.07019099998
   },
   {
-    "q": "Israel x Iran ceasefire continues through November 15?",
-    "score": 0.18554062600794455,
+    "q": "Spread: Knicks (-4.5)",
+    "score": 0.4197385712922747,
     "tags": [
-      "asymmetric favourite"
+      "information move",
+      "wide spread"
     ],
-    "price": 0.9695,
-    "fair": 0.9695,
-    "vol24": 270251.083767
+    "price": 0.36,
+    "fair": 0.36,
+    "vol24": 249251.070006
   },
   {
-    "q": "Israel x Iran ceasefire continues through December 31?",
-    "score": 0.1855288371909034,
+    "q": "Celtics vs. Raptors",
+    "score": 0.2886751961028402,
     "tags": [
       "information move"
     ],
-    "price": 0.685,
-    "fair": 0.685,
-    "vol24": 126485.16429400003
+    "price": 0.695,
+    "fair": 0.695,
+    "vol24": 2243128.331285
   },
   {
-    "q": "Spread: Celtics (-1.5)",
-    "score": 0.18228032648355164,
+    "q": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
+    "score": 0.2815875724608526,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
-    "price": 0.525,
-    "fair": 0.525,
-    "vol24": 102968.58876899998
+    "price": 0.535,
+    "fair": 0.535,
+    "vol24": 145356.963057
   },
   {
-    "q": "Israel x Iran ceasefire continues through November 22?",
-    "score": 0.17900244481554844,
+    "q": "Will there be no change in Fed interest rates after the January 2027 meeting?",
+    "score": 0.2773840943642807,
     "tags": [
-      "asymmetric favourite"
+      "information move",
+      "genuine disagreement"
     ],
-    "price": 0.905,
-    "fair": 0.905,
-    "vol24": 83668.511315
+    "price": 0.455,
+    "fair": 0.455,
+    "vol24": 121722.67711099998
   },
   {
-    "q": "Spread: Western Michigan (-14.5)",
-    "score": 0.15639828847187826,
+    "q": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
+    "score": 0.21308670269938595,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.2025,
+    "fair": 0.2025,
+    "vol24": 206068.666062
+  },
+  {
+    "q": "US announces end of Iranian blockade by November 30, 2026?",
+    "score": 0.19510795941842682,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.105,
+    "fair": 0.10500000000000001,
+    "vol24": 231988.79653699993
+  },
+  {
+    "q": "Will France win on 2026-11-12?",
+    "score": 0.18606240534468363,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.515,
+    "fair": 0.515,
+    "vol24": 130831.65268500001
+  },
+  {
+    "q": "Spread: Rockets (-6.5)",
+    "score": 0.13482109209933305,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.52,
-    "fair": 0.52,
-    "vol24": 230263.52418100002
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 87787.988198
+  },
+  {
+    "q": "Cavaliers vs. Knicks: O/U 222.5",
+    "score": 0.11939621162298512,
+    "tags": [
+      "wide spread"
+    ],
+    "price": 0.39,
+    "fair": 0.38999999999999996,
+    "vol24": 98384.81466200002
   },
   {
     "q": "Will the U.S. invade Iran before 2027?",
-    "score": 0.15051357559158124,
+    "score": 0.09964277861547526,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.065,
-    "fair": 0.065,
-    "vol24": 330240.08693600004
-  },
-  {
-    "q": "Magic vs. Kings",
-    "score": 0.1426449279415405,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.655,
-    "fair": 0.655,
-    "vol24": 169946.20424700002
-  },
-  {
-    "q": "Celtics vs. 76ers",
-    "score": 0.10515358000031962,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 607359.9979780002
-  },
-  {
-    "q": "Spread: Knicks (-14.5)",
-    "score": 0.1048565707979255,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.51,
-    "fair": 0.51,
-    "vol24": 107922.34520100002
-  },
-  {
-    "q": "Panthers vs. Blue Jackets",
-    "score": 0.10379980143873192,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 511667.96883200004
-  },
-  {
-    "q": "Wild vs. Canadiens",
-    "score": 0.10292283500631819,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 457883.4820949965
+    "price": 0.095,
+    "fair": 0.095,
+    "vol24": 302239.6147
   }
 ]
