@@ -1,397 +1,310 @@
 [
   {
-    "q": "Raptors vs. 76ers: O/U 224.5",
-    "score": 2.82395188638564,
+    "q": "Bucks vs. Magic: O/U 224.5",
+    "score": 1.7350448669010319,
     "tags": [
       "information move",
-      "asymmetric favourite"
+      "long-shot premium"
     ],
-    "price": 0.91,
-    "fair": 0.91,
-    "vol24": 292221.282402
+    "price": 0.04,
+    "fair": 0.04,
+    "vol24": 103990.34744
   },
   {
-    "q": "Avalanche vs. Senators",
-    "score": 1.9785277851172827,
+    "q": "Will Bitcoin dip to $67,500 in November?",
+    "score": 1.7344450466547772,
     "tags": [
       "information move"
     ],
-    "price": 0.135,
-    "fair": 0.135,
-    "vol24": 380593.9168719999
+    "price": 0.845,
+    "fair": 0.845,
+    "vol24": 408732.144872
   },
   {
-    "q": "Louisiana-Lafayette Ragin' Cajuns vs. UNCW Seahawks",
-    "score": 1.5412015709844071,
+    "q": "Spread: Pittsburgh (-3.5)",
+    "score": 1.1772539828442903,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.255,
+    "fair": 0.255,
+    "vol24": 151326.38401200005
+  },
+  {
+    "q": "Florida State vs. Pittsburgh",
+    "score": 1.0242429743350963,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.585,
+    "fair": 0.585,
+    "vol24": 429868.229379
+  },
+  {
+    "q": "Will Bitcoin dip to $65,000 by December 31, 2026?",
+    "score": 1.0096049313072353,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.735,
+    "fair": 0.735,
+    "vol24": 194269.466497
+  },
+  {
+    "q": "Spread: Knicks (-8.5)",
+    "score": 0.9198841671332313,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.255,
+    "fair": 0.255,
+    "vol24": 211662.11250699995
+  },
+  {
+    "q": "Spread: Knicks (-6.5)",
+    "score": 0.879064685987646,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.335,
+    "fair": 0.335,
+    "vol24": 122833.92535199999
+  },
+  {
+    "q": "Bucks vs. Magic",
+    "score": 0.8598890147568061,
     "tags": [
       "information move",
-      "genuine disagreement"
+      "long-shot premium"
     ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 164578.048799
+    "price": 0.065,
+    "fair": 0.065,
+    "vol24": 366426.2325199999
   },
   {
-    "q": "Will Bitcoin dip to $70,000 in November?",
-    "score": 1.2972302347974929,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.815,
-    "fair": 0.815,
-    "vol24": 192756.84738599998
-  },
-  {
-    "q": "Sabres vs. Blackhawks",
-    "score": 0.7546104252579933,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.745,
-    "fair": 0.745,
-    "vol24": 341828.69320299994
-  },
-  {
-    "q": "Red Wings vs. Panthers",
-    "score": 0.732685951318899,
+    "q": "Knicks vs. Pacers",
+    "score": 0.8380021132620369,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
     "price": 0.555,
     "fair": 0.555,
-    "vol24": 108946.160411
+    "vol24": 577116.8787350005
   },
   {
-    "q": "Jets vs. Stars",
-    "score": 0.707312725587811,
+    "q": "Will Bitcoin dip to $66,000 November 9-15?",
+    "score": 0.6167339714763682,
     "tags": [
       "information move"
     ],
-    "price": 0.255,
-    "fair": 0.255,
-    "vol24": 965947.187457
+    "price": 0.206,
+    "fair": 0.20600000000000002,
+    "vol24": 127057.955596
   },
   {
-    "q": "Spread: Pistons (-10.5)",
-    "score": 0.6057878916963306,
+    "q": "Dota 2: potn9ki vs oveA - Game 2 Winner",
+    "score": 0.6095369829709816,
     "tags": [
-      "information move",
-      "genuine disagreement"
+      "information move"
     ],
-    "price": 0.525,
-    "fair": 0.525,
-    "vol24": 623005.92935
+    "price": 0.57,
+    "fair": 0.5700000000000001,
+    "vol24": 261881.52239400003
   },
   {
-    "q": "Spread: 76ers (-8.5)",
-    "score": 0.5797316626292071,
+    "q": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+    "score": 0.567379324591748,
     "tags": [
       "information move"
     ],
     "price": 0.395,
     "fair": 0.395,
-    "vol24": 350960.4225069999
+    "vol24": 158845.31419599996
   },
   {
-    "q": "Spread: 76ers (-9.5)",
-    "score": 0.5619138036278758,
+    "q": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+    "score": 0.34727777582057046,
     "tags": [
-      "information move"
+      "information move",
+      "long-shot premium"
     ],
-    "price": 0.365,
-    "fair": 0.365,
-    "vol24": 141538.133735
+    "price": 0.094,
+    "fair": 0.094,
+    "vol24": 124949.667463
   },
   {
-    "q": "Spread: 76ers (-7.5)",
-    "score": 0.5296665903372634,
+    "q": "Knoxville: Stefan Kozlov vs Michael Zheng",
+    "score": 0.3382278823823262,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.47,
+    "fair": 0.47,
+    "vol24": 258014.69106499982
+  },
+  {
+    "q": "Spread: Trail Blazers (-10.5)",
+    "score": 0.29275268855218023,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 90005.99610799999
+  },
+  {
+    "q": "Spread: Rockets (-15.5)",
+    "score": 0.2910149669494426,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 216407.539501
+  },
+  {
+    "q": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
+    "score": 0.28552750377865826,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
     "price": 0.445,
     "fair": 0.445,
-    "vol24": 670396.6661360001
-  },
-  {
-    "q": "US x Iran Effective Ceasefire by November 8?",
-    "score": 0.46099348327861783,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.215,
-    "fair": 0.215,
-    "vol24": 117740.16158499998
-  },
-  {
-    "q": "Will Colette Kress be the next CEO of NVIDIA?",
-    "score": 0.44565551924117375,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.1685,
-    "fair": 0.1685,
-    "vol24": 171340.01316600005
-  },
-  {
-    "q": "Commanders vs. Giants: O/U 40.5",
-    "score": 0.42321127988286167,
-    "tags": [
-      "information move",
-      "wide spread"
-    ],
-    "price": 0.38,
-    "fair": 0.38,
-    "vol24": 179330.783433
+    "vol24": 171659.709267
   },
   {
     "q": "Will Ian Buck be the next CEO of NVIDIA?",
-    "score": 0.4216041590949848,
+    "score": 0.277534107876097,
     "tags": [
       "information move"
     ],
-    "price": 0.295,
-    "fair": 0.295,
-    "vol24": 142212.138927
+    "price": 0.235,
+    "fair": 0.235,
+    "vol24": 122495.960025
   },
   {
-    "q": "Blues vs. Utah",
-    "score": 0.3908963478252845,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 237040.71608500005
-  },
-  {
-    "q": "Spread: 76ers (-6.5)",
-    "score": 0.3671682610056142,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.505,
-    "fair": 0.505,
-    "vol24": 242735.169767
-  },
-  {
-    "q": "Mavericks vs. Timberwolves",
-    "score": 0.34729709290718647,
+    "q": "Will Bitcoin dip to $57,500 in November?",
+    "score": 0.2562965646075173,
     "tags": [
       "information move"
     ],
-    "price": 0.435,
-    "fair": 0.435,
-    "vol24": 286763.73693500005
-  },
-  {
-    "q": "Spread: Timberwolves (-5.5)",
-    "score": 0.34320126912436727,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.405,
-    "fair": 0.405,
-    "vol24": 177401.847573
-  },
-  {
-    "q": "Canadiens vs. Bruins: O/U 6.5",
-    "score": 0.3230573311913523,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 119292.06702399997
-  },
-  {
-    "q": "Israel x Iran ceasefire continues through November 30?",
-    "score": 0.315041258448642,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.785,
-    "fair": 0.785,
-    "vol24": 89257.245736
-  },
-  {
-    "q": "US announces end of Iranian blockade by December 31, 2026?",
-    "score": 0.31452871983477493,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.2735,
-    "fair": 0.2735,
-    "vol24": 110265.745355
-  },
-  {
-    "q": "Israel x Iran ceasefire continues through November 22?",
-    "score": 0.2827755709437071,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.855,
-    "fair": 0.855,
-    "vol24": 152832.585073
+    "price": 0.102,
+    "fair": 0.10200000000000001,
+    "vol24": 119428.85331299999
   },
   {
     "q": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-    "score": 0.26892534081369696,
+    "score": 0.24677502659601205,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.044,
-    "fair": 0.044,
-    "vol24": 239058.94556300004
+    "price": 0.09,
+    "fair": 0.09,
+    "vol24": 296460.28113099997
   },
   {
-    "q": "Pistons vs. Wizards",
-    "score": 0.25452399790107644,
+    "q": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+    "score": 0.23550831667427383,
     "tags": [
       "information move"
     ],
-    "price": 0.865,
-    "fair": 0.865,
-    "vol24": 397673.692403
+    "price": 0.185,
+    "fair": 0.185,
+    "vol24": 151767.963043
   },
   {
-    "q": "Lightning vs. Blue Jackets",
-    "score": 0.2404629694812688,
+    "q": "Will Elon Musk post 90-114 tweets from November 12 to November 14, 2026?",
+    "score": 0.19189687630677835,
     "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.485,
-    "fair": 0.485,
-    "vol24": 195066.68439499996
-  },
-  {
-    "q": "Will JD Vance win the 2028 US Presidential Election?",
-    "score": 0.23639674077541936,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.1285,
-    "fair": 0.1285,
-    "vol24": 266918.14893
-  },
-  {
-    "q": "Will Alberto N\u00fa\u00f1ez Feij\u00f3o be the next Prime Minister of Spain?",
-    "score": 0.2324231422247749,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.825,
-    "fair": 0.825,
-    "vol24": 129809.29263
-  },
-  {
-    "q": "Israel x Iran ceasefire continues through December 31?",
-    "score": 0.22876642555703963,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.645,
-    "fair": 0.645,
-    "vol24": 107859.235021
-  },
-  {
-    "q": "AI bubble burst in 2026?",
-    "score": 0.22001587099335398,
-    "tags": [
-      "information move",
       "long-shot premium"
     ],
-    "price": 0.065,
-    "fair": 0.065,
-    "vol24": 110422.22166100002
+    "price": 0.0535,
+    "fair": 0.053500000000000006,
+    "vol24": 88653.86931099999
   },
   {
-    "q": "US-Iran Final Nuclear Deal by December 31, 2026?",
-    "score": 0.19047989327293918,
+    "q": "Will Bitcoin reach $90,000 by December 31, 2026?",
+    "score": 0.18014575650263287,
     "tags": [
-      "information move",
       "long-shot premium"
     ],
     "price": 0.075,
     "fair": 0.07500000000000001,
-    "vol24": 173059.145697
+    "vol24": 89950.478032
   },
   {
-    "q": "Spread: Giants (-1.5)",
-    "score": 0.16294232677073348,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.495,
-    "fair": 0.495,
-    "vol24": 943086.4847720009
-  },
-  {
-    "q": "Spread: Giants (-2.5)",
-    "score": 0.15772656760373147,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.515,
-    "fair": 0.515,
-    "vol24": 607165.048651
-  },
-  {
-    "q": "Spread: Giants (-3.5)",
-    "score": 0.14653964791172358,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.385,
-    "fair": 0.385,
-    "vol24": 236112.28495999996
-  },
-  {
-    "q": "Russia x Ukraine ceasefire by December 31, 2026?",
-    "score": 0.11019570652065042,
+    "q": "Will Bitcoin dip to $64,000 November 9-15?",
+    "score": 0.1566920860956014,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.083,
-    "fair": 0.083,
-    "vol24": 225092.465812
+    "price": 0.0515,
+    "fair": 0.0515,
+    "vol24": 127387.21631000002
   },
   {
     "q": "Israel x Iran ceasefire continues through November 15?",
-    "score": 0.10608153944016424,
+    "score": 0.14467644951594788,
     "tags": [
       "asymmetric favourite"
     ],
-    "price": 0.949,
-    "fair": 0.949,
-    "vol24": 387868.8125269999
+    "price": 0.9765,
+    "fair": 0.9764999999999999,
+    "vol24": 330474.014021
   },
   {
-    "q": "Strait of Hormuz traffic returns to normal by December 31?",
-    "score": 0.09298731640593587,
+    "q": "Fourth Jensen Huang affair reported by December 31?",
+    "score": 0.14172098863103177,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 157193.10299100002
+  },
+  {
+    "q": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
+    "score": 0.13914038828989386,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.065,
-    "fair": 0.065,
-    "vol24": 130106.521059
+    "price": 0.0445,
+    "fair": 0.0445,
+    "vol24": 160279.68564700003
   },
   {
-    "q": "US announces end of Iranian blockade by November 30, 2026?",
-    "score": 0.09262416792388767,
+    "q": "Will Bitcoin reach $100,000 by December 31, 2026?",
+    "score": 0.10228590858751577,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.085,
-    "fair": 0.08499999999999999,
-    "vol24": 124258.39529900003
+    "price": 0.0345,
+    "fair": 0.0345,
+    "vol24": 109508.57200800002
+  },
+  {
+    "q": "Jazz vs. Rockets",
+    "score": 0.09826335313574938,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.095,
+    "fair": 0.095,
+    "vol24": 253794.795134
+  },
+  {
+    "q": "Spread: Grizzlies (-3.5)",
+    "score": 0.09348301252072792,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.505,
+    "fair": 0.505,
+    "vol24": 138535.971235
   }
 ]
