@@ -1,68 +1,73 @@
-# Odds Shift — Signals (Sun 15 Nov 2026 00:31)
+# Odds Shift — Signals (Mon 16 Nov 2026 00:31)
 
-_62 markets · 38 non-sports · 34 carrying a signal · analytics, not advice_
+_67 markets · 44 non-sports · 29 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Will Bitcoin dip to $62,500 in November?
-price **86.5%** · fair value est. **86.5%** · spread 1.0% · 24h 56.0% · $179k · score 2.67
-- **information move** — 56.0% move on $179k of volume — the market repriced on real money
-  https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-november-2026
-
 ### Will Bitcoin dip to $62,000 November 9-15?
-price **49.9%** · fair value est. **49.9%** · spread 0.1% · 24h 47.9% · $197k · score 2.51
-- **information move** — 47.9% move on $197k of volume — the market repriced on real money
-- **genuine disagreement** — 49.9% with $197k traded — two sides with conviction
+price **2.6%** · fair value est. **2.6%** · spread 0.2% · 24h 47.2% · $159k · score 2.41
+- **information move** — 47.2% move on $159k of volume — the market repriced on real money
+- **long-shot premium** — priced 2.6% with $159k behind it — historically this band resolves less often than its price implies
   https://polymarket.com/event/will-bitcoin-dip-to-62k-november-9-15-2026
 
-### Mavericks vs. Cavaliers
-price **76.5%** · fair value est. **76.5%** · spread 1.0% · 24h 35.0% · $1.1M · score 1.92
-- **information move** — 35.0% move on $1.1M of volume — the market repriced on real money
-  https://polymarket.com/event/nba-dal-cle-2026-11-14
+### Spread: 49ers (-4.5)
+price **97.9%** · fair value est. **97.9%** · spread 1.8% · 24h 50.4% · $231k · score 2.29
+- **information move** — 50.4% move on $231k of volume — the market repriced on real money
+- **asymmetric favourite** — 97.9% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nfl-sf-dal-2026-11-15-spread-away-4pt5
 
-### Will Bitcoin dip to $60,000 by December 31, 2026?
-price **67.5%** · fair value est. **67.5%** · spread 1.0% · 24h 28.0% · $316k · score 1.40
-- **information move** — 28.0% move on $316k of volume — the market repriced on real money
-  https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21
+### Pepperdine Waves vs. Oregon Ducks
+price **48.1%** · fair value est. **48.1%** · spread 1.6% · 24h 43.6% · $668k · score 2.19
+- **information move** — 43.6% move on $668k of volume — the market repriced on real money
+- **genuine disagreement** — 48.1% with $668k traded — two sides with conviction
+  https://polymarket.com/event/cbb-pepp-ore-2026-11-15
 
-### Will Bitcoin dip to $57,500 in November?
-price **38.0%** · fair value est. **38.0%** · spread 0.3% · 24h 28.1% · $100k · score 1.36
-- **information move** — 28.1% move on $100k of volume — the market repriced on real money
-  https://polymarket.com/event/will-bitcoin-dip-to-57pt5k-in-november-2026
+### Spread: 49ers (-6.5)
+price **87.5%** · fair value est. **87.5%** · spread 1.0% · 24h 45.0% · $111k · score 2.06
+- **information move** — 45.0% move on $111k of volume — the market repriced on real money
+  https://polymarket.com/event/nfl-sf-dal-2026-11-15-spread-away-6pt5
 
-### Spread: Mavericks (-2.5)
-price **69.0%** · fair value est. **69.0%** · spread 4.0% · 24h 28.5% · $170k · score 1.06
-- **information move** — 28.5% move on $170k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-dal-cle-2026-11-14-spread-away-2pt5
+### Will Magdalena Andersson be the next Prime Minister of Sweden?
+price **71.5%** · fair value est. **71.5%** · spread 1.0% · 24h 41.0% · $134k · score 1.91
+- **information move** — 41.0% move on $134k of volume — the market repriced on real money
+  https://polymarket.com/event/will-magdalena-andersson-be-the-next-prime-minister-of-sweden
 
-### Will Bitcoin dip to $55,000 by December 31, 2026?
-price **37.5%** · fair value est. **37.5%** · spread 1.0% · 24h 19.0% · $238k · score 0.93
-- **information move** — 19.0% move on $238k of volume — the market repriced on real money
-  https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516
+### Will Ulf Kristersson be the next Prime Minister of Sweden?
+price **23.8%** · fair value est. **23.8%** · spread 2.8% · 24h 41.6% · $144k · score 1.68
+- **information move** — 41.6% move on $144k of volume — the market repriced on real money
+  https://polymarket.com/event/will-ulf-kristersson-be-the-next-prime-minister-of-sweden
 
-### Will Bitcoin dip to $55,000 in November?
-price **23.6%** · fair value est. **23.6%** · spread 0.1% · 24h 17.6% · $196k · score 0.92
-- **information move** — 17.6% move on $196k of volume — the market repriced on real money
-  https://polymarket.com/event/will-bitcoin-dip-to-55k-in-november-2026
+### Spread: 49ers (-2.5)
+price **97.8%** · fair value est. **97.8%** · spread 1.6% · 24h 38.3% · $102k · score 1.65
+- **information move** — 38.3% move on $102k of volume — the market repriced on real money
+- **asymmetric favourite** — 97.8% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nfl-sf-dal-2026-11-15-spread-away-2pt5
 
-### Appalachian State vs. Marshall
-price **29.5%** · fair value est. **29.5%** · spread 3.0% · 24h 22.5% · $130k · score 0.88
-- **information move** — 22.5% move on $130k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-applst-marsh-2026-11-14
+### Spread: Knicks (-4.5)
+price **55.5%** · fair value est. **55.5%** · spread 1.0% · 24h 21.0% · $275k · score 1.04
+- **information move** — 21.0% move on $275k of volume — the market repriced on real money
+- **genuine disagreement** — 55.5% with $275k traded — two sides with conviction
+  https://polymarket.com/event/nba-nyk-tor-2026-11-15-spread-away-4pt5
 
-### Florida vs. Kentucky
-price **22.5%** · fair value est. **22.5%** · spread 1.0% · 24h 19.0% · $123k · score 0.88
-- **information move** — 19.0% move on $123k of volume — the market repriced on real money
-  https://polymarket.com/event/cfb-fl-uk-2026-11-14
+### Mavericks vs. Celtics: O/U 217.5
+price **70.5%** · fair value est. **70.5%** · spread 11.0% · 24h 41.0% · $71k · score 0.95
+- **wide spread** — 11.0% bid-ask — price is a guess, not a level
+  https://polymarket.com/event/nba-dal-bos-2026-11-15-total-217pt5
+
+### Spread: 49ers (-16.5)
+price **2.7%** · fair value est. **2.7%** · spread 1.4% · 24h 18.3% · $68k · score 0.78
+- **long-shot premium** — priced 2.7% with $68k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nfl-sf-dal-2026-11-15-spread-away-16pt5
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 12 markets, $2.1M traded
-- **10–25%** band: 11 markets, $2.4M traded
-- **25–45%** band: 11 markets, $2.8M traded
-- **45–55%** band: 10 markets, $1.5M traded
-- **55–75%** band: 14 markets, $3.1M traded
-- **75–90%** band: 4 markets, $1.9M traded
+- **0–10%** band: 15 markets, $1.7M traded
+- **10–25%** band: 14 markets, $2.1M traded
+- **25–45%** band: 7 markets, $880k traded
+- **45–55%** band: 9 markets, $2.3M traded
+- **55–75%** band: 11 markets, $2.0M traded
+- **75–90%** band: 6 markets, $891k traded
+- **90–100%** band: 5 markets, $663k traded
 
 <!-- Gan: signals above, voice below. -->
 
