@@ -1,302 +1,241 @@
 [
   {
-    "q": "Will Bitcoin dip to $62,000 November 9-15?",
-    "score": 2.409719777334803,
+    "q": "Canadiens vs. Rangers",
+    "score": 2.5861735462414885,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.026,
-    "fair": 0.026000000000000002,
-    "vol24": 159195.95529300004
+    "price": 0.0225,
+    "fair": 0.0225,
+    "vol24": 259145.06894199995
   },
   {
-    "q": "Spread: 49ers (-4.5)",
-    "score": 2.2907697709495225,
+    "q": "Spread: Timberwolves (-7.5)",
+    "score": 2.48575784611458,
     "tags": [
-      "information move",
       "asymmetric favourite"
     ],
-    "price": 0.979,
-    "fair": 0.979,
-    "vol24": 230838.528205
+    "price": 0.96,
+    "fair": 0.96,
+    "vol24": 59244.458461
   },
   {
-    "q": "Pepperdine Waves vs. Oregon Ducks",
-    "score": 2.1917158106893955,
+    "q": "Chargers vs. Ravens",
+    "score": 2.375371917487755,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.735,
+    "fair": 0.735,
+    "vol24": 2360200.309135001
+  },
+  {
+    "q": "Spread: Ravens (-4.5)",
+    "score": 2.1647154443532624,
+    "tags": [
+      "information move",
+      "long-shot premium"
+    ],
+    "price": 0.065,
+    "fair": 0.065,
+    "vol24": 258099.36034600003
+  },
+  {
+    "q": "Spread: Ravens (-1.5)",
+    "score": 2.089600939503142,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.195,
+    "fair": 0.195,
+    "vol24": 146319.674061
+  },
+  {
+    "q": "Spread: Chargers (-3.5)",
+    "score": 1.8381640519539735,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.585,
+    "fair": 0.585,
+    "vol24": 209410.82566899998
+  },
+  {
+    "q": "Spread: Chargers (-5.5)",
+    "score": 1.6672641814485734,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
-    "price": 0.481,
-    "fair": 0.481,
-    "vol24": 667560.1333299996
+    "price": 0.525,
+    "fair": 0.525,
+    "vol24": 247792.55067700005
   },
   {
-    "q": "Spread: 49ers (-6.5)",
-    "score": 2.063948861081112,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.875,
-    "fair": 0.875,
-    "vol24": 110969.70038999998
-  },
-  {
-    "q": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
-    "score": 1.910661622119084,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.715,
-    "fair": 0.715,
-    "vol24": 133709.44298599992
-  },
-  {
-    "q": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
-    "score": 1.6762741873850597,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.238,
-    "fair": 0.238,
-    "vol24": 143801.59738599995
-  },
-  {
-    "q": "Spread: 49ers (-2.5)",
-    "score": 1.653592075087368,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.978,
-    "fair": 0.978,
-    "vol24": 101921.114686
-  },
-  {
-    "q": "Spread: Knicks (-4.5)",
-    "score": 1.0384237932775664,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.555,
-    "fair": 0.555,
-    "vol24": 275018.017793
-  },
-  {
-    "q": "Mavericks vs. Celtics: O/U 217.5",
-    "score": 0.946896778663162,
-    "tags": [
-      "wide spread"
-    ],
-    "price": 0.705,
-    "fair": 0.7050000000000001,
-    "vol24": 70786.91328800001
-  },
-  {
-    "q": "Spread: 49ers (-16.5)",
-    "score": 0.7760719379099343,
+    "q": "Spread: Ravens (-7.5)",
+    "score": 1.3631643734638603,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.027,
-    "fair": 0.027000000000000003,
-    "vol24": 68318.786177
+    "price": 0.03,
+    "fair": 0.03,
+    "vol24": 63326.728775
   },
   {
-    "q": "Spread: Knicks (-5.5)",
-    "score": 0.7632616382973083,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.505,
-    "fair": 0.505,
-    "vol24": 176775.187492
-  },
-  {
-    "q": "Will Bitcoin dip to $60,000 in November?",
-    "score": 0.7522384987569853,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.405,
-    "fair": 0.405,
-    "vol24": 148469.33175400004
-  },
-  {
-    "q": "Will Bitcoin dip to $57,500 in November?",
-    "score": 0.6647444510965443,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.2425,
-    "fair": 0.2425,
-    "vol24": 82911.86952000001
-  },
-  {
-    "q": "Rockets vs. Wizards: O/U 223.5",
-    "score": 0.5531240324443635,
+    "q": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
+    "score": 0.6778999052451287,
     "tags": [
       "information move"
     ],
-    "price": 0.65,
-    "fair": 0.65,
-    "vol24": 204168.42771799996
+    "price": 0.3435,
+    "fair": 0.3435,
+    "vol24": 332355.41588800005
   },
   {
-    "q": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-    "score": 0.45575267976426087,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.175,
-    "fair": 0.175,
-    "vol24": 536366.259204
-  },
-  {
-    "q": "Will Bitcoin dip to $55,000 in November?",
-    "score": 0.39561399748867954,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.1525,
-    "fair": 0.1525,
-    "vol24": 70953.69861299999
-  },
-  {
-    "q": "Spread: Rockets (-8.5)",
-    "score": 0.37775142154413494,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.545,
-    "fair": 0.545,
-    "vol24": 863163.8907999998
-  },
-  {
-    "q": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-    "score": 0.35043049573847623,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.595,
-    "fair": 0.595,
-    "vol24": 65828.31203300001
-  },
-  {
-    "q": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-    "score": 0.2864322080597017,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.315,
-    "fair": 0.315,
-    "vol24": 178342.443462
-  },
-  {
-    "q": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-    "score": 0.26420973659452524,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.162,
-    "fair": 0.162,
-    "vol24": 152255.415935
-  },
-  {
-    "q": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-    "score": 0.24092151399892783,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.1765,
-    "fair": 0.1765,
-    "vol24": 418312.60860700003
-  },
-  {
-    "q": "Spread: Rockets (-9.5)",
-    "score": 0.22218864219245174,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.51,
-    "fair": 0.51,
-    "vol24": 70428.108859
-  },
-  {
-    "q": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
-    "score": 0.1782833912048827,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0855,
-    "fair": 0.08549999999999999,
-    "vol24": 286121.67473699996
-  },
-  {
-    "q": "Jensen Huang divorce by December 31, 2026?",
-    "score": 0.13372146643500268,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.105,
-    "fair": 0.10500000000000001,
-    "vol24": 80004.609102
-  },
-  {
-    "q": "Will Bitcoin reach $80,000 in November?",
-    "score": 0.10215669767463839,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.052,
-    "fair": 0.052000000000000005,
-    "vol24": 87403.397381
-  },
-  {
-    "q": "Spread: Bengals (-3.5)",
-    "score": 0.09522050054270952,
+    "q": "US x Iran Effective Ceasefire by November 8?",
+    "score": 0.619879881344571,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.515,
     "fair": 0.515,
-    "vol24": 172633.47558199996
+    "vol24": 74212.81922000002
   },
   {
-    "q": "Oilers vs. Flyers",
-    "score": 0.09211325034132924,
+    "q": "Suns vs. Nuggets",
+    "score": 0.5802693063724459,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.345,
+    "fair": 0.345,
+    "vol24": 355141.020313
+  },
+  {
+    "q": "Spread: Utah (-1.5)",
+    "score": 0.5178937321322629,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.455,
+    "fair": 0.455,
+    "vol24": 150985.22306100003
+  },
+  {
+    "q": "Fourth Jensen Huang affair reported by December 31?",
+    "score": 0.4508269703830215,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.555,
-    "fair": 0.555,
-    "vol24": 116472.94054700002
+    "price": 0.495,
+    "fair": 0.495,
+    "vol24": 91010.58424200001
   },
   {
-    "q": "Will Chuck Schumer be the next Senate Majority Leader?",
-    "score": 0.08802048422187182,
+    "q": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
+    "score": 0.3489795310903325,
     "tags": [
+      "information move"
+    ],
+    "price": 0.102,
+    "fair": 0.10200000000000001,
+    "vol24": 796969.9234769999
+  },
+  {
+    "q": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+    "score": 0.2700137101221101,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.1075,
+    "fair": 0.1075,
+    "vol24": 732509.608652
+  },
+  {
+    "q": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+    "score": 0.238203069320786,
+    "tags": [
+      "information move",
+      "long-shot premium",
+      "trend divergence"
+    ],
+    "price": 0.0465,
+    "fair": 0.0465,
+    "vol24": 293657.909789
+  },
+  {
+    "q": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+    "score": 0.20618064127593821,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.4005,
+    "fair": 0.4005,
+    "vol24": 90813.148745
+  },
+  {
+    "q": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+    "score": 0.189019846677588,
+    "tags": [
+      "information move",
       "asymmetric favourite"
     ],
     "price": 0.915,
     "fair": 0.915,
-    "vol24": 69361.80255800001
+    "vol24": 157776.759137
   },
   {
-    "q": "Spread: Oregon Ducks (-16.5)",
-    "score": 0.08041810523234319,
+    "q": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
+    "score": 0.18556786733873631,
     "tags": [
-      "genuine disagreement"
+      "information move",
+      "genuine disagreement",
+      "trend divergence"
     ],
-    "price": 0.48,
-    "fair": 0.48,
-    "vol24": 66846.67609100002
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 126798.152791
+  },
+  {
+    "q": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+    "score": 0.1306888132495905,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.275,
+    "fair": 0.275,
+    "vol24": 61932.147594999995
+  },
+  {
+    "q": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
+    "score": 0.12570579269524496,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0435,
+    "fair": 0.0435,
+    "vol24": 734970.2072439999
+  },
+  {
+    "q": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
+    "score": 0.10981818701899632,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.0695,
+    "fair": 0.0695,
+    "vol24": 80679.77444400001
+  },
+  {
+    "q": "Israel x Iran ceasefire continues through November 22?",
+    "score": 0.0905231307563256,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.945,
+    "fair": 0.945,
+    "vol24": 95228.650754
   }
 ]
