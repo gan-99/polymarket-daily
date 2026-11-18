@@ -1,241 +1,341 @@
 [
   {
-    "q": "Canadiens vs. Rangers",
-    "score": 2.5861735462414885,
+    "q": "Will Predict.fun launch a token by November 30, 2026?",
+    "score": 3.5140449384827286,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.129,
+    "fair": 0.129,
+    "vol24": 140463.73527600002
+  },
+  {
+    "q": "Will South Shields vs. Harborough Town FC end in a draw?",
+    "score": 3.177972750783065,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.978,
+    "fair": 0.978,
+    "vol24": 729632.570315
+  },
+  {
+    "q": "Spread: Miami (OH) (-9.5)",
+    "score": 2.0655703149851905,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.9565,
+    "fair": 0.9564999999999999,
+    "vol24": 119713.371364
+  },
+  {
+    "q": "Will South Shields win on 2026-11-17?",
+    "score": 2.02262312136888,
     "tags": [
       "information move",
       "long-shot premium"
     ],
     "price": 0.0225,
     "fair": 0.0225,
-    "vol24": 259145.06894199995
+    "vol24": 202234.71861499996
   },
   {
-    "q": "Spread: Timberwolves (-7.5)",
-    "score": 2.48575784611458,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.96,
-    "fair": 0.96,
-    "vol24": 59244.458461
-  },
-  {
-    "q": "Chargers vs. Ravens",
-    "score": 2.375371917487755,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.735,
-    "fair": 0.735,
-    "vol24": 2360200.309135001
-  },
-  {
-    "q": "Spread: Ravens (-4.5)",
-    "score": 2.1647154443532624,
+    "q": "Trail Blazers vs. Timberwolves: O/U 225.5",
+    "score": 1.6202111986267518,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.065,
-    "fair": 0.065,
-    "vol24": 258099.36034600003
+    "price": 0.075,
+    "fair": 0.075,
+    "vol24": 103498.779444
   },
   {
-    "q": "Spread: Ravens (-1.5)",
-    "score": 2.089600939503142,
+    "q": "Ducks vs. Blues",
+    "score": 1.594555336819347,
     "tags": [
       "information move"
     ],
-    "price": 0.195,
-    "fair": 0.195,
-    "vol24": 146319.674061
+    "price": 0.125,
+    "fair": 0.125,
+    "vol24": 302888.3270530001
   },
   {
-    "q": "Spread: Chargers (-3.5)",
-    "score": 1.8381640519539735,
+    "q": "Maple Leafs vs. Blackhawks",
+    "score": 1.3434459884758179,
     "tags": [
       "information move"
     ],
-    "price": 0.585,
-    "fair": 0.585,
-    "vol24": 209410.82566899998
+    "price": 0.285,
+    "fair": 0.28500000000000003,
+    "vol24": 189592.535883
   },
   {
-    "q": "Spread: Chargers (-5.5)",
-    "score": 1.6672641814485734,
+    "q": "Trail Blazers vs. Timberwolves",
+    "score": 1.2433549174934422,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.655,
+    "fair": 0.655,
+    "vol24": 884055.5377620001
+  },
+  {
+    "q": "Spread: Timberwolves (-3.5)",
+    "score": 1.2244432722103817,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.245,
+    "fair": 0.245,
+    "vol24": 191385.87648900002
+  },
+  {
+    "q": "Spread: Timberwolves (-4.5)",
+    "score": 1.1915525326149718,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.22,
+    "fair": 0.22,
+    "vol24": 158306.671305
+  },
+  {
+    "q": "Drummondville: Hynek Barton vs Alexis Galarneau",
+    "score": 1.1711190819320463,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.165,
+    "fair": 0.165,
+    "vol24": 112689.22234599997
+  },
+  {
+    "q": "Spread: Timberwolves (-2.5)",
+    "score": 1.007839217992916,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.28,
+    "fair": 0.28,
+    "vol24": 314270.374816
+  },
+  {
+    "q": "Knicks vs. Raptors: O/U 214.5",
+    "score": 0.9956679543889684,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.3,
+    "fair": 0.3,
+    "vol24": 156598.12361
+  },
+  {
+    "q": "Pistons vs. Spurs: O/U 217.5",
+    "score": 0.9662952222349503,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.31,
+    "fair": 0.31,
+    "vol24": 102427.23067099998
+  },
+  {
+    "q": "Spread: Timberwolves (-1.5)",
+    "score": 0.7846157127579921,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.32,
+    "fair": 0.32,
+    "vol24": 170125.284939
+  },
+  {
+    "q": "Spread: Knicks (-5.5)",
+    "score": 0.3980558796373118,
+    "tags": [
+      "information move",
+      "wide spread"
+    ],
+    "price": 0.29,
+    "fair": 0.29000000000000004,
+    "vol24": 124483.494291
+  },
+  {
+    "q": "Jazz vs. Clippers: O/U 225.5",
+    "score": 0.3671738555488291,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.545,
+    "fair": 0.545,
+    "vol24": 111850.16548699995
+  },
+  {
+    "q": "Knicks vs. Raptors",
+    "score": 0.3483306878811148,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.635,
+    "fair": 0.635,
+    "vol24": 2432553.6791449995
+  },
+  {
+    "q": "Spread: Lakers (-7.5)",
+    "score": 0.3447536881133504,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.475,
+    "fair": 0.475,
+    "vol24": 261550.94627200003
+  },
+  {
+    "q": "Spread: Lakers (-8.5)",
+    "score": 0.32040865077294683,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.435,
+    "fair": 0.435,
+    "vol24": 108389.96519100002
+  },
+  {
+    "q": "Spread: Spurs (-9.5)",
+    "score": 0.3175419596792432,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.385,
+    "fair": 0.385,
+    "vol24": 236474.96694100002
+  },
+  {
+    "q": "Spread: Ohio (-1.5)",
+    "score": 0.2664350214416388,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.72,
+    "fair": 0.72,
+    "vol24": 82945.945113
+  },
+  {
+    "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "score": 0.25696642328922775,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.2495,
+    "fair": 0.2495,
+    "vol24": 123265.264441
+  },
+  {
+    "q": "Spread: Lakers (-6.5)",
+    "score": 0.2363259831040254,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
     "price": 0.525,
     "fair": 0.525,
-    "vol24": 247792.55067700005
+    "vol24": 158186.30541800003
   },
   {
-    "q": "Spread: Ravens (-7.5)",
-    "score": 1.3631643734638603,
+    "q": "Spread: Knicks (-4.5)",
+    "score": 0.2240742035012457,
     "tags": [
-      "long-shot premium"
+      "information move",
+      "wide spread"
     ],
-    "price": 0.03,
-    "fair": 0.03,
-    "vol24": 63326.728775
+    "price": 0.36,
+    "fair": 0.36,
+    "vol24": 187211.22292
   },
   {
-    "q": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
-    "score": 0.6778999052451287,
+    "q": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
+    "score": 0.22075278529864836,
     "tags": [
       "information move"
     ],
-    "price": 0.3435,
-    "fair": 0.3435,
-    "vol24": 332355.41588800005
+    "price": 0.426,
+    "fair": 0.426,
+    "vol24": 114801.53638900003
   },
   {
-    "q": "US x Iran Effective Ceasefire by November 8?",
-    "score": 0.619879881344571,
+    "q": "Hornets vs. Lakers",
+    "score": 0.1928899186459837,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.275,
+    "fair": 0.275,
+    "vol24": 201590.75363100003
+  },
+  {
+    "q": "Spread: Spurs (-8.5)",
+    "score": 0.18128721107229154,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.455,
+    "fair": 0.455,
+    "vol24": 96692.72796199999
+  },
+  {
+    "q": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
+    "score": 0.1623839727079451,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.3305,
+    "fair": 0.3305,
+    "vol24": 363429.09167000005
+  },
+  {
+    "q": "Montevideo: Valerio Aboian vs Zdenek Kolar",
+    "score": 0.1570331745237097,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.515,
     "fair": 0.515,
-    "vol24": 74212.81922000002
+    "vol24": 86163.494041
   },
   {
-    "q": "Suns vs. Nuggets",
-    "score": 0.5802693063724459,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.345,
-    "fair": 0.345,
-    "vol24": 355141.020313
-  },
-  {
-    "q": "Spread: Utah (-1.5)",
-    "score": 0.5178937321322629,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.455,
-    "fair": 0.455,
-    "vol24": 150985.22306100003
-  },
-  {
-    "q": "Fourth Jensen Huang affair reported by December 31?",
-    "score": 0.4508269703830215,
+    "q": "Will Marine Le Pen win the 2027 French presidential election?",
+    "score": 0.14529212534614733,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.495,
-    "fair": 0.495,
-    "vol24": 91010.58424200001
-  },
-  {
-    "q": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-    "score": 0.3489795310903325,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.102,
-    "fair": 0.10200000000000001,
-    "vol24": 796969.9234769999
-  },
-  {
-    "q": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
-    "score": 0.2700137101221101,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.1075,
-    "fair": 0.1075,
-    "vol24": 732509.608652
-  },
-  {
-    "q": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-    "score": 0.238203069320786,
-    "tags": [
-      "information move",
-      "long-shot premium",
-      "trend divergence"
-    ],
-    "price": 0.0465,
-    "fair": 0.0465,
-    "vol24": 293657.909789
-  },
-  {
-    "q": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
-    "score": 0.20618064127593821,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.4005,
-    "fair": 0.4005,
-    "vol24": 90813.148745
+    "price": 0.4935,
+    "fair": 0.4935,
+    "vol24": 114860.377587
   },
   {
     "q": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-    "score": 0.189019846677588,
+    "score": 0.10107821643062688,
     "tags": [
-      "information move",
       "asymmetric favourite"
     ],
-    "price": 0.915,
-    "fair": 0.915,
-    "vol24": 157776.759137
-  },
-  {
-    "q": "Will Anthropic's valuation hit (HIGH) $1.75T by December 31?",
-    "score": 0.18556786733873631,
-    "tags": [
-      "information move",
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 126798.152791
-  },
-  {
-    "q": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-    "score": 0.1306888132495905,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.275,
-    "fair": 0.275,
-    "vol24": 61932.147594999995
-  },
-  {
-    "q": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
-    "score": 0.12570579269524496,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0435,
-    "fair": 0.0435,
-    "vol24": 734970.2072439999
-  },
-  {
-    "q": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
-    "score": 0.10981818701899632,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0695,
-    "fair": 0.0695,
-    "vol24": 80679.77444400001
+    "price": 0.935,
+    "fair": 0.935,
+    "vol24": 362493.902416
   },
   {
     "q": "Israel x Iran ceasefire continues through November 22?",
-    "score": 0.0905231307563256,
+    "score": 0.09639704166598038,
     "tags": [
       "asymmetric favourite"
     ],
-    "price": 0.945,
-    "fair": 0.945,
-    "vol24": 95228.650754
+    "price": 0.925,
+    "fair": 0.925,
+    "vol24": 200371.11928400001
   }
 ]
