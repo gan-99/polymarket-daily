@@ -1,72 +1,72 @@
-# Odds Shift — Signals (Wed 18 Nov 2026 02:39)
+# Odds Shift — Signals (Thu 19 Nov 2026 02:07)
 
-_59 markets · 32 non-sports · 33 carrying a signal · analytics, not advice_
+_62 markets · 31 non-sports · 37 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Will Predict.fun launch a token by November 30, 2026?
-price **12.9%** · fair value est. **12.9%** · spread 2.4% · 24h 84.7% · $140k · score 3.51
-- **information move** — 84.7% move on $140k of volume — the market repriced on real money
-  https://polymarket.com/event/will-predictfun-launch-a-token-by-november-30-2026
+### Spread: Rockets (-8.5)
+price **93.5%** · fair value est. **93.5%** · spread 3.0% · 24h 50.0% · $217k · score 2.05
+- **information move** — 50.0% move on $217k of volume — the market repriced on real money
+- **asymmetric favourite** — 93.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nba-hou-ind-2026-11-18-spread-away-8pt5
 
-### Will South Shields vs. Harborough Town FC end in a draw?
-price **97.8%** · fair value est. **97.8%** · spread 3.8% · 24h 74.8% · $730k · score 3.18
-- **information move** — 74.8% move on $730k of volume — the market repriced on real money
-- **asymmetric favourite** — 97.8% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/nln-sos-har-2026-11-17-draw
+### Spread: Heat (-11.5)
+price **95.5%** · fair value est. **95.5%** · spread 1.0% · 24h 41.0% · $105k · score 1.87
+- **information move** — 41.0% move on $105k of volume — the market repriced on real money
+- **asymmetric favourite** — 95.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nba-mil-mia-2026-11-18-spread-home-11pt5
 
-### Spread: Miami (OH) (-9.5)
-price **95.7%** · fair value est. **95.6%** · spread 1.1% · 24h 45.1% · $120k · score 2.07
-- **information move** — 45.1% move on $120k of volume — the market repriced on real money
-- **asymmetric favourite** — 95.7% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/cfb-miaoh-kentst-2026-11-17-spread-away-9pt5
+### Hawks vs. Thunder
+price **66.5%** · fair value est. **66.5%** · spread 1.0% · 24h 38.0% · $216k · score 1.84
+- **information move** — 38.0% move on $216k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-atl-okc-2026-11-18
 
-### Will South Shields win on 2026-11-17?
-price **2.2%** · fair value est. **2.2%** · spread 4.1% · 24h 53.8% · $202k · score 2.02
-- **information move** — 53.8% move on $202k of volume — the market repriced on real money
-- **long-shot premium** — priced 2.2% with $202k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nln-sos-har-2026-11-17-sos
+### 76ers vs. Magic
+price **23.5%** · fair value est. **23.5%** · spread 1.0% · 24h 30.0% · $2.8M · score 1.76
+- **information move** — 30.0% move on $2.8M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-phi-orl-2026-11-18
 
-### Trail Blazers vs. Timberwolves: O/U 225.5
-price **7.5%** · fair value est. **7.5%** · spread 3.0% · 24h 42.0% · $103k · score 1.62
-- **information move** — 42.0% move on $103k of volume — the market repriced on real money
-- **long-shot premium** — priced 7.5% with $103k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nba-por-min-2026-11-17-total-225pt5
+### 76ers vs. Magic: O/U 221.5
+price **97.5%** · fair value est. **97.5%** · spread 3.0% · 24h 44.0% · $108k · score 1.70
+- **information move** — 44.0% move on $108k of volume — the market repriced on real money
+- **asymmetric favourite** — 97.5% — small remaining upside, large downside if the tail lands
+  https://polymarket.com/event/nba-phi-orl-2026-11-18-total-221pt5
 
-### Ducks vs. Blues
-price **12.5%** · fair value est. **12.5%** · spread 1.0% · 24h 32.0% · $303k · score 1.59
-- **information move** — 32.0% move on $303k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-ana-stl-2026-11-17
+### Spread: Thunder (-6.5)
+price **15.5%** · fair value est. **15.5%** · spread 1.0% · 24h 37.0% · $105k · score 1.69
+- **information move** — 37.0% move on $105k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-atl-okc-2026-11-18-spread-home-6pt5
 
-### Maple Leafs vs. Blackhawks
-price **28.5%** · fair value est. **28.5%** · spread 1.0% · 24h 28.0% · $190k · score 1.34
-- **information move** — 28.0% move on $190k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-tor-chi-2026-11-17
+### Spread: Raptors (-6.5)
+price **22.5%** · fair value est. **22.5%** · spread 1.0% · 24h 26.5% · $186k · score 1.27
+- **information move** — 26.5% move on $186k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-was-tor-2026-11-18-spread-home-6pt5
 
-### Trail Blazers vs. Timberwolves
-price **65.5%** · fair value est. **65.5%** · spread 1.0% · 24h 23.0% · $884k · score 1.24
-- **information move** — 23.0% move on $884k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-por-min-2026-11-17
+### Variational FDV above $1B one day after launch?
+price **68.5%** · fair value est. **68.5%** · spread 1.0% · 24h 23.5% · $121k · score 1.09
+- **information move** — 23.5% move on $121k of volume — the market repriced on real money
+  https://polymarket.com/event/variational-fdv-above-1b-one-day-after-launch-636-229-681
 
-### Spread: Timberwolves (-3.5)
-price **24.5%** · fair value est. **24.5%** · spread 1.0% · 24h 25.5% · $191k · score 1.22
-- **information move** — 25.5% move on $191k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-por-min-2026-11-17-spread-home-3pt5
+### Warriors vs. Mavericks
+price **14.5%** · fair value est. **14.5%** · spread 1.0% · 24h 20.0% · $864k · score 1.08
+- **information move** — 20.0% move on $864k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-gsw-dal-2026-11-18
 
-### Spread: Timberwolves (-4.5)
-price **22.0%** · fair value est. **22.0%** · spread 2.0% · 24h 27.5% · $158k · score 1.19
-- **information move** — 27.5% move on $158k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-por-min-2026-11-17-spread-home-4pt5
+### Wizards vs. Raptors
+price **53.5%** · fair value est. **53.5%** · spread 1.0% · 24h 20.0% · $677k · score 1.06
+- **information move** — 20.0% move on $677k of volume — the market repriced on real money
+- **genuine disagreement** — 53.5% with $677k traded — two sides with conviction
+  https://polymarket.com/event/nba-was-tor-2026-11-18
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 13 markets, $3.9M traded
-- **10–25%** band: 13 markets, $3.6M traded
-- **25–45%** band: 15 markets, $2.7M traded
-- **45–55%** band: 6 markets, $829k traded
-- **55–75%** band: 6 markets, $3.7M traded
-- **75–90%** band: 1 markets, $82k traded
-- **90–100%** band: 5 markets, $1.5M traded
+- **0–10%** band: 13 markets, $3.8M traded
+- **10–25%** band: 14 markets, $6.0M traded
+- **25–45%** band: 5 markets, $1.8M traded
+- **45–55%** band: 8 markets, $2.1M traded
+- **55–75%** band: 16 markets, $3.3M traded
+- **75–90%** band: 1 markets, $139k traded
+- **90–100%** band: 5 markets, $1.2M traded
 
 <!-- Gan: signals above, voice below. -->
 
