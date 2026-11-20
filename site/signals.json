@@ -1,387 +1,165 @@
 [
   {
-    "q": "Spread: Rockets (-8.5)",
-    "score": 2.052669070763962,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.935,
-    "fair": 0.935,
-    "vol24": 217238.894888
-  },
-  {
-    "q": "Spread: Heat (-11.5)",
-    "score": 1.8708523560364005,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.955,
-    "fair": 0.955,
-    "vol24": 104557.65297499998
-  },
-  {
-    "q": "Hawks vs. Thunder",
-    "score": 1.8426015562505156,
+    "q": "Knicks vs. Timberwolves",
+    "score": 1.523400930289277,
     "tags": [
       "information move"
     ],
-    "price": 0.665,
-    "fair": 0.665,
-    "vol24": 215697.244335
+    "price": 0.755,
+    "fair": 0.755,
+    "vol24": 1608599.6302080003
   },
   {
-    "q": "76ers vs. Magic",
-    "score": 1.7600649704970308,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.235,
-    "fair": 0.235,
-    "vol24": 2841655.364739001
-  },
-  {
-    "q": "76ers vs. Magic: O/U 221.5",
-    "score": 1.7041292137618942,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.975,
-    "fair": 0.975,
-    "vol24": 108373.528863
-  },
-  {
-    "q": "Spread: Thunder (-6.5)",
-    "score": 1.6883667813232557,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.155,
-    "fair": 0.155,
-    "vol24": 104583.85758099997
-  },
-  {
-    "q": "Spread: Raptors (-6.5)",
-    "score": 1.26942065961257,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.225,
-    "fair": 0.225,
-    "vol24": 185904.95611099995
-  },
-  {
-    "q": "Variational FDV above $1B one day after launch?",
-    "score": 1.0861025827414401,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.685,
-    "fair": 0.685,
-    "vol24": 121305.59984000001
-  },
-  {
-    "q": "Warriors vs. Mavericks",
-    "score": 1.0794067629698538,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.145,
-    "fair": 0.14500000000000002,
-    "vol24": 864443.6609740001
-  },
-  {
-    "q": "Wizards vs. Raptors",
-    "score": 1.0601158374407478,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 677074.510606
-  },
-  {
-    "q": "Akron vs. UMass",
-    "score": 1.0498057176799007,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.175,
-    "fair": 0.175,
-    "vol24": 177429.62747
-  },
-  {
-    "q": "Wizards vs. Raptors: O/U 223.5",
-    "score": 1.0188732477433715,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.145,
-    "fair": 0.14500000000000002,
-    "vol24": 217246.659959
-  },
-  {
-    "q": "Spread: Magic (-1.5)",
-    "score": 0.9885524361059094,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.735,
-    "fair": 0.725,
-    "vol24": 129777.35223399998
-  },
-  {
-    "q": "Central Michigan vs. Buffalo",
-    "score": 0.9809213836220619,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.275,
-    "fair": 0.275,
-    "vol24": 137453.71082299997
-  },
-  {
-    "q": "Spread: Buffalo (-2.5)",
-    "score": 0.9608984908048992,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.655,
-    "fair": 0.655,
-    "vol24": 192725.61757
-  },
-  {
-    "q": "Spread: Magic (-3.5)",
-    "score": 0.865933476635792,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.555,
-    "fair": 0.555,
-    "vol24": 195800.353934
-  },
-  {
-    "q": "Will Anthropic's IPO valuation be between $1.25T and $1.50T?",
-    "score": 0.8610207426970855,
-    "tags": [
-      "information move",
-      "wide spread"
-    ],
-    "price": 0.151,
-    "fair": 0.151,
-    "vol24": 109046.04404099999
-  },
-  {
-    "q": "Spread: 76ers (-2.5)",
-    "score": 0.8411575697607357,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.23,
-    "fair": 0.22999999999999998,
-    "vol24": 102599.973016
-  },
-  {
-    "q": "Will Bitcoin reach $68,000 November 16-22?",
-    "score": 0.8229976209936583,
+    "q": "Warriors vs. Grizzlies",
+    "score": 1.3794181031755974,
     "tags": [
       "information move",
       "long-shot premium"
     ],
     "price": 0.095,
     "fair": 0.095,
-    "vol24": 107010.36555900001
+    "vol24": 1173381.627461
   },
   {
-    "q": "Spread: 76ers (-1.5)",
-    "score": 0.7919775296661102,
-    "tags": [
-      "information move",
-      "wide spread"
-    ],
-    "price": 0.22,
-    "fair": 0.22,
-    "vol24": 152703.881897
-  },
-  {
-    "q": "Spread: Mavericks (-4.5)",
-    "score": 0.7638591908076018,
+    "q": "Oilers vs. Lightning",
+    "score": 0.8375420520609687,
     "tags": [
       "information move"
     ],
-    "price": 0.745,
-    "fair": 0.745,
-    "vol24": 123706.09410399999
+    "price": 0.245,
+    "fair": 0.245,
+    "vol24": 262656.46512799995
   },
   {
-    "q": "Spread: Magic (-2.5)",
-    "score": 0.7505073835613288,
+    "q": "Drummondville: Daniel Milavsky vs Liam Draxl",
+    "score": 0.48029546845099763,
     "tags": [
       "information move",
-      "wide spread"
+      "genuine disagreement"
     ],
-    "price": 0.67,
-    "fair": 0.6699999999999999,
-    "vol24": 198470.96891700002
+    "price": 0.515,
+    "fair": 0.515,
+    "vol24": 191976.42092900004
   },
   {
-    "q": "Will Bitcoin dip to $60,000 by December 31, 2026?",
-    "score": 0.6570826138519208,
+    "q": "Trail Blazers vs. Bucks",
+    "score": 0.4607076423598654,
     "tags": [
       "information move"
     ],
     "price": 0.735,
     "fair": 0.735,
-    "vol24": 145475.20593
+    "vol24": 427435.086007
   },
   {
-    "q": "Spread: Pistons (-3.5)",
-    "score": 0.5291304570279246,
+    "q": "Will Bitcoin dip to $60,000 by December 31, 2026?",
+    "score": 0.3645928493905897,
     "tags": [
       "information move"
     ],
-    "price": 0.62,
-    "fair": 0.62,
-    "vol24": 120129.25182399999
+    "price": 0.815,
+    "fair": 0.815,
+    "vol24": 103073.60498499998
   },
   {
-    "q": "Pistons vs. Pelicans: O/U 224.5",
-    "score": 0.5278907347454103,
+    "q": "Spread: Texans (-13.5)",
+    "score": 0.3291828046027945,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.515,
+    "fair": 0.515,
+    "vol24": 1083971.0505819998
+  },
+  {
+    "q": "Spread: Texans (-10.5)",
+    "score": 0.3092237064411278,
     "tags": [
       "information move"
     ],
-    "price": 0.635,
-    "fair": 0.635,
-    "vol24": 121168.205572
+    "price": 0.605,
+    "fair": 0.605,
+    "vol24": 466767.22579699976
   },
   {
-    "q": "Spread: Pistons (-4.5)",
-    "score": 0.452780591246149,
+    "q": "Clippers vs. Spurs: O/U 223.5",
+    "score": 0.29852410914314503,
     "tags": [
       "information move"
     ],
-    "price": 0.585,
-    "fair": 0.585,
-    "vol24": 341966.63441
+    "price": 0.6,
+    "fair": 0.6,
+    "vol24": 131084.95329799998
   },
   {
-    "q": "Will Anthropic's market cap be between $1.25T and $1.5T at market close on IPO day?",
-    "score": 0.3627176506459794,
+    "q": "US announces end of Iranian blockade by December 31, 2026?",
+    "score": 0.26635402553980325,
     "tags": [
-      "information move",
-      "genuine disagreement"
+      "information move"
     ],
-    "price": 0.4965,
-    "fair": 0.4965,
-    "vol24": 144471.869218
+    "price": 0.116,
+    "fair": 0.11599999999999999,
+    "vol24": 151516.786095
   },
   {
-    "q": "Rockets vs. Pacers: O/U 224.5",
-    "score": 0.3297088225032234,
+    "q": "Colts vs. Texans",
+    "score": 0.2282329807298304,
     "tags": [
-      "information move",
-      "genuine disagreement"
+      "information move"
     ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 151752.47310399998
+    "price": 0.115,
+    "fair": 0.11499999999999999,
+    "vol24": 1889760.3833090006
   },
   {
-    "q": "Spread: Pistons (-5.5)",
-    "score": 0.27747941511532,
+    "q": "Clippers vs. Spurs: O/U 225.5",
+    "score": 0.21968370257638534,
     "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.545,
-    "fair": 0.545,
-    "vol24": 354476.1965249999
-  },
-  {
-    "q": "Spread: Lakers (-11.5)",
-    "score": 0.2344465151177045,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.505,
-    "fair": 0.505,
-    "vol24": 143820.34059000004
-  },
-  {
-    "q": "Spread: Lakers (-10.5)",
-    "score": 0.23316917426390196,
-    "tags": [
-      "information move",
       "genuine disagreement"
     ],
     "price": 0.535,
     "fair": 0.535,
-    "vol24": 134808.91467099998
+    "vol24": 68082.43463599999
   },
   {
-    "q": "Will Anthropic's market cap be between $1.75T and $2.0T at market close on IPO day?",
-    "score": 0.23190915073764878,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.0305,
-    "fair": 0.0305,
-    "vol24": 436121.90167999995
-  },
-  {
-    "q": "Will Anthropic's market cap be between $1.5T and $1.75T at market close on IPO day?",
-    "score": 0.21585915725640228,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0975,
-    "fair": 0.0975,
-    "vol24": 389222.17225299997
-  },
-  {
-    "q": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
-    "score": 0.1483301825652604,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.064,
-    "fair": 0.064,
-    "vol24": 512049.37368699996
-  },
-  {
-    "q": "Israel x Iran ceasefire continues through November 22?",
-    "score": 0.14790941254997497,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.955,
-    "fair": 0.955,
-    "vol24": 265059.56955400005
-  },
-  {
-    "q": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
-    "score": 0.10413925814506284,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.915,
-    "fair": 0.915,
-    "vol24": 534144.037578
-  },
-  {
-    "q": "Celtics vs. Nuggets: O/U 220.5",
-    "score": 0.09133691527685125,
+    "q": "Ducks vs. Avalanche",
+    "score": 0.166009089293772,
     "tags": [
       "genuine disagreement"
     ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 105566.525112
+    "price": 0.465,
+    "fair": 0.46499999999999997,
+    "vol24": 164977.94446500007
+  },
+  {
+    "q": "Rice vs. Temple",
+    "score": 0.1367039601287016,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.395,
+    "fair": 0.395,
+    "vol24": 102913.96674600002
+  },
+  {
+    "q": "Will Marine Le Pen win the 2027 French presidential election?",
+    "score": 0.11317530068382974,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.4555,
+    "fair": 0.4555,
+    "vol24": 156954.00451799997
+  },
+  {
+    "q": "Iran full airspace closure by November 30, 2026?",
+    "score": 0.08861799687548762,
+    "tags": [
+      "long-shot premium"
+    ],
+    "price": 0.085,
+    "fair": 0.08499999999999999,
+    "vol24": 74814.197743
   }
 ]
