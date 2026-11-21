@@ -1,71 +1,73 @@
-# Odds Shift — Signals (Fri 20 Nov 2026 01:57)
+# Odds Shift — Signals (Sat 21 Nov 2026 01:52)
 
-_74 markets · 32 non-sports · 16 carrying a signal · analytics, not advice_
+_72 markets · 37 non-sports · 43 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Knicks vs. Timberwolves
-price **75.5%** · fair value est. **75.5%** · spread 1.0% · 24h 27.0% · $1.6M · score 1.52
-- **information move** — 27.0% move on $1.6M of volume — the market repriced on real money
-  https://polymarket.com/event/nba-nyk-min-2026-11-19
+### AI bubble burst in 2026?
+price **59.4%** · fair value est. **59.4%** · spread 0.8% · 24h 51.4% · $191k · score 2.52
+- **information move** — 51.4% move on $191k of volume — the market repriced on real money
+  https://polymarket.com/event/ai-industry-downturn-by-december-31-2026-857
 
-### Warriors vs. Grizzlies
-price **9.5%** · fair value est. **9.5%** · spread 1.0% · 24h 25.0% · $1.2M · score 1.38
-- **information move** — 25.0% move on $1.2M of volume — the market repriced on real money
-- **long-shot premium** — priced 9.5% with $1.2M behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/nba-gsw-mem-2026-11-19
+### Clemson vs. Duke: O/U 43.5
+price **3.5%** · fair value est. **3.5%** · spread 3.0% · 24h 38.0% · $141k · score 1.50
+- **information move** — 38.0% move on $141k of volume — the market repriced on real money
+- **long-shot premium** — priced 3.5% with $141k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/cfb-clmsn-duke-2026-11-20-total-43pt5
 
-### Oilers vs. Lightning
-price **24.5%** · fair value est. **24.5%** · spread 1.0% · 24h 17.0% · $263k · score 0.84
-- **information move** — 17.0% move on $263k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-edm-tb-2026-11-19
+### Magic vs. Nets: O/U 223.5
+price **75.5%** · fair value est. **75.5%** · spread 1.0% · 24h 29.5% · $300k · score 1.47
+- **information move** — 29.5% move on $300k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-orl-bkn-2026-11-20-total-223pt5
 
-### Drummondville: Daniel Milavsky vs Liam Draxl
-price **51.5%** · fair value est. **51.5%** · spread 1.0% · 24h 10.0% · $192k · score 0.48
-- **information move** — 10.0% move on $192k of volume — the market repriced on real money
-- **genuine disagreement** — 51.5% with $192k traded — two sides with conviction
-  https://polymarket.com/event/atp-milavsk-draxl-2026-11-19
+### Spread: Hawks (-7.5)
+price **69.5%** · fair value est. **69.5%** · spread 1.0% · 24h 27.0% · $568k · score 1.41
+- **information move** — 27.0% move on $568k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-cha-atl-2026-11-20-spread-home-7pt5
 
-### Trail Blazers vs. Bucks
-price **73.5%** · fair value est. **73.5%** · spread 1.0% · 24h 9.0% · $427k · score 0.46
-- **information move** — 9.0% move on $427k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-por-mil-2026-11-19
+### Hornets vs. Hawks
+price **8.5%** · fair value est. **8.5%** · spread 1.0% · 24h 26.0% · $717k · score 1.38
+- **information move** — 26.0% move on $717k of volume — the market repriced on real money
+- **long-shot premium** — priced 8.5% with $717k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nba-cha-atl-2026-11-20
 
-### Will Bitcoin dip to $60,000 by December 31, 2026?
-price **81.5%** · fair value est. **81.5%** · spread 1.0% · 24h 8.0% · $103k · score 0.36
-- **information move** — 8.0% move on $103k of volume — the market repriced on real money
-  https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21
+### Clemson vs. Duke: O/U 41.5
+price **5.5%** · fair value est. **5.5%** · spread 7.0% · 24h 41.0% · $337k · score 1.33
+- **information move** — 41.0% move on $337k of volume — the market repriced on real money
+- **wide spread** — 7.0% bid-ask — price is a guess, not a level
+- **long-shot premium** — priced 5.5% with $337k behind it — historically this band resolves less often than its price implies
+- **trend divergence** — 24h moved down 41.0% against a up week — something changed
+  https://polymarket.com/event/cfb-clmsn-duke-2026-11-20-total-41pt5
 
-### Spread: Texans (-13.5)
-price **51.5%** · fair value est. **51.5%** · spread 1.0% · 24h 6.0% · $1.1M · score 0.33
-- **information move** — 6.0% move on $1.1M of volume — the market repriced on real money
-- **genuine disagreement** — 51.5% with $1.1M traded — two sides with conviction
-  https://polymarket.com/event/nfl-ind-hou-2026-11-20-spread-home-13pt5
+### Hornets vs. Hawks: O/U 219.5
+price **19.0%** · fair value est. **19.0%** · spread 2.0% · 24h 30.5% · $150k · score 1.32
+- **information move** — 30.5% move on $150k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-cha-atl-2026-11-20-total-219pt5
 
-### Spread: Texans (-10.5)
-price **60.5%** · fair value est. **60.5%** · spread 1.0% · 24h 6.0% · $467k · score 0.31
-- **information move** — 6.0% move on $467k of volume — the market repriced on real money
-  https://polymarket.com/event/nfl-ind-hou-2026-11-20-spread-home-10pt5
+### Spread: Nuggets (-1.5)
+price **46.5%** · fair value est. **46.5%** · spread 1.0% · 24h 26.0% · $90k · score 1.17
+- **genuine disagreement** — 46.5% with $90k traded — two sides with conviction
+  https://polymarket.com/event/nba-hou-den-2026-11-20-spread-home-1pt5
 
-### Clippers vs. Spurs: O/U 223.5
-price **60.0%** · fair value est. **60.0%** · spread 2.0% · 24h 7.0% · $131k · score 0.30
-- **information move** — 7.0% move on $131k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-lac-sas-2026-11-19-total-223pt5
+### Wizards vs. Bulls
+price **20.5%** · fair value est. **20.5%** · spread 1.0% · 24h 21.0% · $1.3M · score 1.17
+- **information move** — 21.0% move on $1.3M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-was-chi-2026-11-20
 
-### US announces end of Iranian blockade by December 31, 2026?
-price **11.6%** · fair value est. **11.6%** · spread 0.6% · 24h 5.5% · $152k · score 0.27
-- **information move** — 5.5% move on $152k of volume — the market repriced on real money
-  https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157-255-857
+### Pacers vs. Cavaliers: O/U 234.5
+price **72.5%** · fair value est. **72.5%** · spread 1.0% · 24h 24.0% · $143k · score 1.13
+- **information move** — 24.0% move on $143k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-ind-cle-2026-11-20-total-234pt5
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 16 markets, $4.9M traded
-- **10–25%** band: 10 markets, $3.1M traded
-- **25–45%** band: 16 markets, $3.0M traded
-- **45–55%** band: 11 markets, $2.9M traded
-- **55–75%** band: 11 markets, $1.9M traded
-- **75–90%** band: 7 markets, $4.3M traded
-- **90–100%** band: 3 markets, $553k traded
+- **0–10%** band: 12 markets, $3.3M traded
+- **10–25%** band: 13 markets, $2.9M traded
+- **25–45%** band: 15 markets, $3.5M traded
+- **45–55%** band: 9 markets, $1.3M traded
+- **55–75%** band: 15 markets, $3.1M traded
+- **75–90%** band: 5 markets, $1.3M traded
+- **90–100%** band: 3 markets, $1.0M traded
 
 <!-- Gan: signals above, voice below. -->
 
