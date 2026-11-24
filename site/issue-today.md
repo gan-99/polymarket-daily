@@ -1,87 +1,91 @@
-# Odds Shift — Mon 23 Nov 2026
+# Odds Shift — Tue 24 Nov 2026
 
-_27 markets screened · 17 non-sports · 01:15 local_
+_34 markets screened · 22 non-sports · 05:03 local_
 
 ## 🔍 Insights of the day
 
-- **Biggest non-sports swing:** Will Bitcoin dip to $55,000 in November? moved ▼ 11.1% in 24h (now Yes 22.1%, $69k traded).
-- **Where the money is:** Will there be no new be CEO of NVIDIA by December 31, 2028? — $305k in a day (Tech & AI), priced 14.4%.
-- **Genuine coin flip:** Will Gadi Eizenkot be the next Prime Minister of Israel? at 58.7% with $132k behind it — nobody knows.
-- **Long shot with believers:** Will the U.S. invade Iran before 2027? priced 5.5% ($268k wagered).
-- **Busiest category:** Tech & AI (4 markets). Sports excluded from all of the above — 10 sports markets were screened and sit at the bottom.
+- **Biggest non-sports swing:** Jensen Huang admits to another affair with a woman by December 31? moved ▲ 61.9% in 24h (now Yes 81.3%, $247k traded).
+- **Where the money is:** Will the Fed increase interest rates by 25 bps after the December 2026 meeting? — $1.1M in a day (Business & Markets), priced 93.5%.
+- **Genuine coin flip:** Will Bitcoin dip to $55,000 by December 31, 2026? at 55.5% with $112k behind it — nobody knows.
+- **Long shot with believers:** Will Josh Shapiro win the 2028 Democratic presidential nomination? priced 6.2% ($401k wagered).
+- **Busiest category:** Other (7 markets). Sports excluded from all of the above — 12 sports markets were screened and sit at the bottom.
 
 <!-- Gan: facts above, humour here. The voice is yours. -->
 
 ## 💰 Where the money is (sports excluded)
 
-- **Will there be no new be CEO of NVIDIA by December 31, 2028?** — Yes 14.4% · $305k traded · resolves 2029-01-01
-  https://polymarket.com/event/will-candidate-a-be-the-next-ceo-of-nvidia
-- **Will the U.S. invade Iran before 2027?** — Yes 5.5% · $268k traded · resolves 2027-01-01
+- **Will the Fed increase interest rates by 25 bps after the December 2026 meeting?** — Yes 93.5% · $1.1M traded · resolves 2026-12-09
+  https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636
+- **Will Josh Shapiro win the 2028 Democratic presidential nomination?** — Yes 6.2% · $401k traded · resolves 2028-11-08
+  https://polymarket.com/event/will-josh-shapiro-win-the-2028-democratic-presidential-nomination-977
+- **Will David Lisnard win the 2027 French presidential election?** — Yes 23.6% · $274k traded · resolves 2027-04-19
+  https://polymarket.com/event/will-david-lisnard-win-the-2027-french-presidential-election
+- **Jensen Huang announced resignation or removal again by December 31, 2026?** — Yes 5.9% · $257k traded · resolves 2027-01-01
+  https://polymarket.com/event/jensen-huang-announced-resignation-or-removal-again-by-december-31-2026
+- **Will the U.S. invade Iran before 2027?** — Yes 5.5% · $250k traded · resolves 2027-01-01
   https://polymarket.com/event/will-the-us-invade-iran-before-2027
-- **Will there be no change in Fed interest rates after the December 2026 meeting?** — Yes 6.0% · $198k traded · resolves 2026-12-09
-  https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635
-- **Israel x Iran ceasefire continues through November 30?** — Yes 90.5% · $175k traded · resolves 2026-11-30
-  https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-30
-- **Will Bitcoin reach $62,000 November 16-22?** — Yes 20.9% · $135k traded · resolves 2026-11-23
-  https://polymarket.com/event/will-bitcoin-reach-62k-november-16-22-2026
 
 ## 📈 Geopolitics
 
-- **Israel x Iran ceasefire continues through November 30?** — Yes 90.5% (▲ 7.0% in 24h) · $175k traded · resolves 2026-11-30
-  https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-30
-- **Will Gadi Eizenkot be the next Prime Minister of Israel?** — Yes 58.7% (▼ 2.5% in 24h) · $132k traded · resolves 2026-10-28
-  https://polymarket.com/event/will-gadi-eizenkot-be-the-next-prime-minister-of-israel
-- **Will the U.S. invade Iran before 2027?** — Yes 5.5% (▼ 2.0% in 24h) · $268k traded · resolves 2027-01-01
-  https://polymarket.com/event/will-the-us-invade-iran-before-2027
-- **Iran leadership change by December 31?** — Yes 6.5% (▼ 1.0% in 24h) · $64k traded · resolves 2027-01-01
-  https://polymarket.com/event/iran-leadership-change-by-december-31-974-976-658-482-568-685-996-469-827
+- **Israel x Iran ceasefire continues through December 31?** — Yes 75.5% (▲ 6.0% in 24h) · $127k traded · resolves 2026-12-31
+  https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-december-31-415
+- **Will Benjamin Netanyahu be the next Prime Minister of Israel?** — Yes 24.2% (▼ 5.5% in 24h) · $91k traded · resolves 2026-10-28
+  https://polymarket.com/event/will-benjamin-netanyahu-be-the-next-prime-minister-of-israel
+- **US announces end of Iranian blockade by December 31, 2026?** — Yes 15.3% (▲ 0.8% in 24h) · $84k traded · resolves 2027-01-01
+  https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157-255-857
 
 ## 📈 Politics & Elections
 
-- **Will Puma Shen win the next Taipei Mayor election?** — Yes 29.8% (▼ 5.2% in 24h) · $87k traded · resolves 2026-11-29
+- **Will Ulf Kristersson be the next Prime Minister of Sweden?** — Yes 67.2% (▲ 15.6% in 24h) · $101k traded · resolves 2027-07-01
+  https://polymarket.com/event/will-ulf-kristersson-be-the-next-prime-minister-of-sweden
+- **Will David Lisnard win the 2027 French presidential election?** — Yes 23.6% (▲ 5.8% in 24h) · $274k traded · resolves 2027-04-19
+  https://polymarket.com/event/will-david-lisnard-win-the-2027-french-presidential-election
+- **Will Puma Shen win the next Taipei Mayor election?** — Yes 32.0% (▲ 2.1% in 24h) · $123k traded · resolves 2026-11-29
   https://polymarket.com/event/will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102
+- **Will Alexandria Ocasio-Cortez win the 2028 US Presidential Election?** — Yes 10.3% (▲ 1.1% in 24h) · $248k traded · resolves 2028-11-08
+  https://polymarket.com/event/will-alexandria-ocasio-cortez-win-the-2028-us-presidential-election
 
 ## 📈 Crypto
 
-- **Will Bitcoin dip to $55,000 in November?** — Yes 22.1% (▼ 11.1% in 24h) · $69k traded · resolves 2026-12-01
-  https://polymarket.com/event/will-bitcoin-dip-to-55k-in-november-2026
-- **Will Bitcoin reach $62,000 November 16-22?** — Yes 20.9% (▼ 10.7% in 24h) · $135k traded · resolves 2026-11-23
-  https://polymarket.com/event/will-bitcoin-reach-62k-november-16-22-2026
-- **Will Bitcoin dip to $55,000 by December 31, 2026?** — Yes 51.5% (▼ 9.0% in 24h) · $90k traded · resolves 2027-01-01
+- **Will Bitcoin dip to $55,000 by December 31, 2026?** — Yes 55.5% (▲ 5.0% in 24h) · $112k traded · resolves 2027-01-01
   https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516
+- **Will Bitcoin reach $70,000 in November?** — Yes 6.5% (▼ 3.0% in 24h) · $105k traded · resolves 2026-12-01
+  https://polymarket.com/event/will-bitcoin-reach-70k-in-november-2026
 
 ## 📈 Tech & AI
 
-- **Will AI solve the Riemann Hypothesis in 2026?** — Yes 68.5% (▼ 8.0% in 24h) · $92k traded · resolves 2027-01-01
+- **AI bubble burst in 2026?** — Yes 11.2% (▼ 39.8% in 24h) · $107k traded · resolves 2027-01-01
+  https://polymarket.com/event/ai-industry-downturn-by-december-31-2026-857
+- **Will the Riemann Hypothesis be the next Millennium Prize Problem solved by AI?** — Yes 80.2% (▲ 16.7% in 24h) · $68k traded · resolves 2028-01-01
+  https://polymarket.com/event/will-the-riemann-hypothesis-be-the-next-millennium-prize-problem-solved-by-ai
+- **Will NVIDIA be the largest company in the world by market cap on December 31?** — Yes 15.4% (▲ 12.4% in 24h) · $147k traded · resolves 2027-01-01
+  https://polymarket.com/event/will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-244
+- **Will AI solve the Riemann Hypothesis in 2026?** — Yes 72.0% (▲ 11.5% in 24h) · $117k traded · resolves 2027-01-01
   https://polymarket.com/event/will-ai-solve-the-riemann-hypothesis-in-2026
-- **Will there be no new be CEO of NVIDIA by December 31, 2028?** — Yes 14.4% (▲ 4.2% in 24h) · $305k traded · resolves 2029-01-01
-  https://polymarket.com/event/will-candidate-a-be-the-next-ceo-of-nvidia
-- **Will Jensen Huang rejoin NVIDIA by December 31, 2026?** — Yes 7.2% (▲ 0.6% in 24h) · $88k traded · resolves 2027-01-01
-  https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-december-31-2026
 
 ## 📈 Business & Markets
 
-- **Will the Fed increase interest rates by 25 bps after the January 2027 meeting?** — Yes 53.5% (▲ 6.0% in 24h) · $85k traded · resolves 2027-01-28
-  https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-january-2027-meeting-20260729233815506
-- **Will there be no change in Fed interest rates after the December 2026 meeting?** — Yes 6.0% (▼ 0.9% in 24h) · $198k traded · resolves 2026-12-09
-  https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635
+- **Will the Fed increase interest rates by 25 bps after the December 2026 meeting?** — Yes 93.5% (▲ 3.0% in 24h) · $1.1M traded · resolves 2026-12-09
+  https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636
 
 ## 🎲 Other movers
 
-- **Next White House Press Secretary announced by December 31, 2026?** — Yes 58.5% (▼ 8.0% in 24h) · $82k traded · resolves 2027-01-01
-  https://polymarket.com/event/next-white-house-press-secretary-announced-by-december-31-2026
-- **Will Pete Buttigieg win the 2028 Democratic presidential nomination?** — Yes 5.7% (▲ 0.4% in 24h) · $70k traded · resolves 2028-11-08
-  https://polymarket.com/event/will-pete-buttigieg-win-the-2028-democratic-presidential-nomination-687
+- **Jensen Huang admits to another affair with a woman by December 31?** — Yes 81.3% (▲ 61.9% in 24h) · $247k traded · resolves 2027-01-01
+  https://polymarket.com/event/jensen-huang-admits-to-another-affair-by-december-31
+- **Will the average Ornn B200 rental price in December 2026 be above $9.60?** — Yes 22.5% (▼ 27.5% in 24h) · $114k traded · resolves 2027-01-01
+  https://polymarket.com/event/b200-average-rental-price-in-december-2026-above-9pt60
+- **Will J.D. Vance win the 2028 Republican presidential nomination?** — Yes 33.1% (▲ 4.2% in 24h) · $84k traded · resolves 2028-11-08
+  https://polymarket.com/event/will-jd-vance-win-the-2028-republican-presidential-nomination
 
 ---
 
 ## 🏟️ Sports (deliberately last — saturated, low signal)
 
-- Magic vs. Wizards — Magic 31.5% (▼ 36.0%) · $698k
-- Spread: Chicago Fire FC (-1.5) — Chicago Fire FC 8.5% (▼ 29.5%) · $121k
-- Mavericks vs. Jazz — Mavericks 75.5% (▲ 22.0%) · $932k
+- Ducks vs. Kraken — Ducks 20.5% (▼ 29.0%) · $313k
+- Jazz vs. Lakers — Jazz 27.5% (▲ 14.0%) · $1.3M
+- Wild vs. Sharks — Wild 76.5% (▲ 10.0%) · $468k
 
-_10 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
+_12 sports markets screened and demoted. If you want them gone entirely, that's a one-line change._
 
 ---
 

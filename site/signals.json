@@ -1,311 +1,310 @@
 [
   {
-    "q": "Spread: Heat (-6.5)",
-    "score": 2.803007807772698,
+    "q": "Fourth Jensen Huang affair reported by November 30?",
+    "score": 4.474275470339253,
     "tags": [
       "information move",
       "asymmetric favourite"
     ],
-    "price": 0.955,
-    "fair": 0.955,
-    "vol24": 103158.659522
+    "price": 0.9665,
+    "fair": 0.9664999999999999,
+    "vol24": 162667.15635099998
   },
   {
-    "q": "Nuggets vs. Bulls: O/U 238.5",
-    "score": 2.3707542679269387,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.975,
-    "fair": 0.975,
-    "vol24": 132076.61521199998
-  },
-  {
-    "q": "Spread: Magic (-4.5)",
-    "score": 1.9136268962324623,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.185,
-    "fair": 0.185,
-    "vol24": 584916.689449
-  },
-  {
-    "q": "Magic vs. Wizards",
-    "score": 1.912488475445495,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.315,
-    "fair": 0.315,
-    "vol24": 697773.004929
-  },
-  {
-    "q": "Spread: Heat (-3.5)",
-    "score": 1.7494533372512444,
-    "tags": [
-      "information move",
-      "asymmetric favourite"
-    ],
-    "price": 0.975,
-    "fair": 0.975,
-    "vol24": 139780.916912
-  },
-  {
-    "q": "Spread: Magic (-5.5)",
-    "score": 1.6555578591089135,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.165,
-    "fair": 0.165,
-    "vol24": 227098.72221599997
-  },
-  {
-    "q": "Spread: Chicago Fire FC (-1.5)",
-    "score": 1.2095262201221713,
+    "q": "Will 3 Jensen Huang affairs be reported by December 31?",
+    "score": 3.174238957462175,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.085,
-    "fair": 0.08499999999999999,
-    "vol24": 121368.681817
+    "price": 0.0315,
+    "fair": 0.0315,
+    "vol24": 111580.94993100002
   },
   {
-    "q": "Mavericks vs. Jazz",
-    "score": 1.193854491528843,
+    "q": "Jensen Huang admits to another affair with a woman by December 31?",
+    "score": 2.5855211324717042,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.8135,
+    "fair": 0.8135,
+    "vol24": 246943.0936740001
+  },
+  {
+    "q": "AI bubble burst in 2026?",
+    "score": 1.9813642660916748,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.1125,
+    "fair": 0.1125,
+    "vol24": 106679.53816200003
+  },
+  {
+    "q": "Ducks vs. Kraken",
+    "score": 1.4489777024004173,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.205,
+    "fair": 0.20500000000000002,
+    "vol24": 313415.834148
+  },
+  {
+    "q": "Will the average Ornn B200 rental price in December 2026 be above $9.60?",
+    "score": 1.2638609290548382,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.225,
+    "fair": 0.225,
+    "vol24": 113616.10424100001
+  },
+  {
+    "q": "Spurs vs. Kings",
+    "score": 1.0365614549357822,
+    "tags": [
+      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.9745,
+    "fair": 0.9744999999999999,
+    "vol24": 1501621.8972030003
+  },
+  {
+    "q": "Jazz vs. Lakers",
+    "score": 0.7789669075245557,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.275,
+    "fair": 0.275,
+    "vol24": 1319635.3607100004
+  },
+  {
+    "q": "Spurs vs. Kings: O/U 224.5",
+    "score": 0.7719330805579915,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.32,
+    "fair": 0.32,
+    "vol24": 196450.527293
+  },
+  {
+    "q": "Will Ulf Kristersson be the next Prime Minister of Sweden?",
+    "score": 0.6731534760829769,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.672,
+    "fair": 0.672,
+    "vol24": 101273.52309900001
+  },
+  {
+    "q": "Spread: Spurs (-9.5)",
+    "score": 0.6713601157971048,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.685,
+    "fair": 0.685,
+    "vol24": 123900.55032099999
+  },
+  {
+    "q": "Spurs vs. Kings: O/U 223.5",
+    "score": 0.6479323855421267,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.36,
+    "fair": 0.36,
+    "vol24": 152565.46524299998
+  },
+  {
+    "q": "Will NVIDIA be the largest company in the world by market cap on December 31?",
+    "score": 0.6044920302649689,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.154,
+    "fair": 0.154,
+    "vol24": 147037.77355399998
+  },
+  {
+    "q": "Spread: Spurs (-11.5)",
+    "score": 0.5678103383122268,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.575,
+    "fair": 0.575,
+    "vol24": 160296.999039
+  },
+  {
+    "q": "Wild vs. Sharks",
+    "score": 0.5154967634366319,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.765,
+    "fair": 0.765,
+    "vol24": 468234.565212
+  },
+  {
+    "q": "Will AI solve the Riemann Hypothesis in 2026?",
+    "score": 0.48581641918434754,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.72,
+    "fair": 0.72,
+    "vol24": 117323.50266400001
+  },
+  {
+    "q": "Spread: Spurs (-10.5)",
+    "score": 0.483877968356965,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.635,
+    "fair": 0.635,
+    "vol24": 117271.92671699998
+  },
+  {
+    "q": "Spread: Spurs (-12.5)",
+    "score": 0.3394127381741502,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.515,
+    "fair": 0.515,
+    "vol24": 95071.188942
+  },
+  {
+    "q": "Will David Lisnard win the 2027 French presidential election?",
+    "score": 0.31223586905294903,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.2365,
+    "fair": 0.2365,
+    "vol24": 273658.685277
+  },
+  {
+    "q": "Israel x Iran ceasefire continues through December 31?",
+    "score": 0.27839904049681297,
     "tags": [
       "information move"
     ],
     "price": 0.755,
     "fair": 0.755,
-    "vol24": 931691.1956969999
+    "vol24": 127051.26422500002
   },
   {
-    "q": "Spread: Celtics (-9.5)",
-    "score": 1.1845567652502946,
+    "q": "Counter-Strike: 9z vs Lynn Vision (BO1) - PGL Major Singapore Stage 1",
+    "score": 0.2731032286530449,
     "tags": [
+      "information move",
       "genuine disagreement"
     ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 82608.13642299997
-  },
-  {
-    "q": "Celtics vs. Warriors: O/U 211.5",
-    "score": 0.904951008644018,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.505,
-    "fair": 0.505,
-    "vol24": 94891.206996
-  },
-  {
-    "q": "Celtics vs. Warriors: O/U 213.5",
-    "score": 0.8726989470709424,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 63072.104661
-  },
-  {
-    "q": "Oilers vs. Blues",
-    "score": 0.6715185949351667,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.675,
-    "fair": 0.675,
-    "vol24": 188892.7252700001
-  },
-  {
-    "q": "Will Bitcoin dip to $55,000 in November?",
-    "score": 0.5320203910205682,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.2205,
-    "fair": 0.2205,
-    "vol24": 69326.615116
-  },
-  {
-    "q": "Will Bitcoin reach $62,000 November 16-22?",
-    "score": 0.49914773346309727,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.209,
-    "fair": 0.209,
-    "vol24": 135338.727365
+    "price": 0.555,
+    "fair": 0.555,
+    "vol24": 1019226.2592669998
   },
   {
     "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
-    "score": 0.42911577176733595,
+    "score": 0.2599031571823777,
     "tags": [
-      "information move"
+      "trend divergence"
     ],
-    "price": 0.3035,
-    "fair": 0.3035,
-    "vol24": 122307.04549100001
+    "price": 0.242,
+    "fair": 0.242,
+    "vol24": 91120.29435900002
   },
   {
     "q": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-    "score": 0.405363290385651,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.515,
-    "fair": 0.515,
-    "vol24": 90039.980547
-  },
-  {
-    "q": "Will AI solve the Riemann Hypothesis in 2026?",
-    "score": 0.36111148841156304,
-    "tags": [
-      "trend divergence"
-    ],
-    "price": 0.685,
-    "fair": 0.685,
-    "vol24": 92316.272675
-  },
-  {
-    "q": "Israel x Iran ceasefire continues through November 30?",
-    "score": 0.333585447635527,
+    "score": 0.2295935052048435,
     "tags": [
       "information move",
-      "asymmetric favourite"
+      "genuine disagreement"
     ],
-    "price": 0.905,
-    "fair": 0.905,
-    "vol24": 174604.144028
+    "price": 0.555,
+    "fair": 0.555,
+    "vol24": 112474.288163
   },
   {
-    "q": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-    "score": 0.2689497283897881,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 85258.93956700001
-  },
-  {
-    "q": "Vikings vs. 49ers: O/U 46.5",
-    "score": 0.2651423536944076,
+    "q": "Will FC Porto win on 2026-11-24?",
+    "score": 0.2252368611202551,
     "tags": [
       "genuine disagreement"
     ],
     "price": 0.445,
     "fair": 0.445,
-    "vol24": 72600.09167400001
+    "vol24": 90199.91532999999
   },
   {
-    "q": "Spread: 49ers (-3.5)",
-    "score": 0.24949819546916288,
+    "q": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+    "score": 0.20545416390616242,
     "tags": [
-      "information move",
-      "genuine disagreement"
+      "long-shot premium",
+      "trend divergence"
     ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 308289.61231
+    "price": 0.0325,
+    "fair": 0.0325,
+    "vol24": 1112300.5382070001
   },
   {
-    "q": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-    "score": 0.2247255546100721,
+    "q": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+    "score": 0.2046800997822081,
     "tags": [
       "trend divergence"
     ],
-    "price": 0.2795,
-    "fair": 0.27949999999999997,
-    "vol24": 65394.459967
+    "price": 0.3315,
+    "fair": 0.3315,
+    "vol24": 83572.59154000001
   },
   {
-    "q": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
-    "score": 0.21936684941222778,
+    "q": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+    "score": 0.16479242203333153,
     "tags": [
-      "information move",
+      "asymmetric favourite"
+    ],
+    "price": 0.935,
+    "fair": 0.935,
+    "vol24": 1102524.9187740001
+  },
+  {
+    "q": "Jensen Huang divorce by December 31, 2026?",
+    "score": 0.1467808514001154,
+    "tags": [
+      "long-shot premium",
       "trend divergence"
     ],
-    "price": 0.1445,
-    "fair": 0.1445,
-    "vol24": 304908.696238
+    "price": 0.089,
+    "fair": 0.089,
+    "vol24": 124209.686004
   },
   {
-    "q": "Vikings vs. 49ers",
-    "score": 0.21486769761720043,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.345,
-    "fair": 0.345,
-    "vol24": 810701.8214479999
-  },
-  {
-    "q": "Vikings vs. 49ers: O/U 44.5",
-    "score": 0.2028842116303568,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.515,
-    "fair": 0.515,
-    "vol24": 91072.46074400001
-  },
-  {
-    "q": "Spread: Celtics (-7.5)",
-    "score": 0.16119269123018404,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 116426.61740999999
-  },
-  {
-    "q": "Will the Jacksonville Jaguars win the 2027 NFL league championship?",
-    "score": 0.11385330722705171,
+    "q": "Will Bitcoin reach $70,000 in November?",
+    "score": 0.13698429712352303,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.0995,
-    "fair": 0.0995,
-    "vol24": 60510.637227
+    "price": 0.065,
+    "fair": 0.065,
+    "vol24": 105378.846395
   },
   {
-    "q": "Will Ethereum reach $2,400 in November?",
-    "score": 0.10254216874207002,
+    "q": "Will Ethereum reach $2,300 in November?",
+    "score": 0.12294757153504689,
     "tags": [
       "long-shot premium"
     ],
-    "price": 0.04,
-    "fair": 0.039999999999999994,
-    "vol24": 65315.60088600001
-  },
-  {
-    "q": "Will the U.S. invade Iran before 2027?",
-    "score": 0.09869741006481572,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.055,
-    "fair": 0.055,
-    "vol24": 268136.49856700003
-  },
-  {
-    "q": "Will Ethereum reach $2,600 in November?",
-    "score": 0.09490257909070048,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0285,
-    "fair": 0.028499999999999998,
-    "vol24": 96024.240215
+    "price": 0.029,
+    "fair": 0.028999999999999998,
+    "vol24": 82774.699869
   }
 ]
