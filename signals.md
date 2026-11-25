@@ -1,72 +1,71 @@
-# Odds Shift — Signals (Tue 24 Nov 2026 05:03)
+# Odds Shift — Signals (Wed 25 Nov 2026 03:52)
 
-_72 markets · 52 non-sports · 30 carrying a signal · analytics, not advice_
+_67 markets · 49 non-sports · 23 carrying a signal · analytics, not advice_
 
 ## 🎯 Ranked signals
 
-### Fourth Jensen Huang affair reported by November 30?
-price **96.7%** · fair value est. **96.6%** · spread 0.5% · 24h 90.1% · $163k · score 4.47
-- **information move** — 90.1% move on $163k of volume — the market repriced on real money
-- **asymmetric favourite** — 96.7% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/fourth-jensen-huang-affair-reported-by-november-30
+### Mavericks vs. Nuggets: O/U 234.5
+price **7.5%** · fair value est. **7.5%** · spread 1.0% · 24h 36.5% · $206k · score 1.76
+- **information move** — 36.5% move on $206k of volume — the market repriced on real money
+- **long-shot premium** — priced 7.5% with $206k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nba-dal-den-2026-11-24-total-234pt5
 
-### Will 3 Jensen Huang affairs be reported by December 31?
-price **3.1%** · fair value est. **3.1%** · spread 2.3% · 24h 77.3% · $112k · score 3.17
-- **information move** — 77.3% move on $112k of volume — the market repriced on real money
-- **long-shot premium** — priced 3.1% with $112k behind it — historically this band resolves less often than its price implies
-  https://polymarket.com/event/will-3-jensen-huang-affairs-be-reported-by-december-31
+### Mavericks vs. Nuggets: O/U 231.5
+price **9.0%** · fair value est. **9.0%** · spread 2.0% · 24h 42.5% · $70k · score 1.72
+- **long-shot premium** — priced 9.0% with $70k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nba-dal-den-2026-11-24-total-231pt5
 
-### Jensen Huang admits to another affair with a woman by December 31?
-price **81.3%** · fair value est. **81.3%** · spread 2.9% · 24h 61.9% · $247k · score 2.59
-- **information move** — 61.9% move on $247k of volume — the market repriced on real money
-  https://polymarket.com/event/jensen-huang-admits-to-another-affair-by-december-31
+### Mavericks vs. Nuggets: O/U 232.5
+price **8.5%** · fair value est. **8.5%** · spread 3.0% · 24h 39.5% · $152k · score 1.57
+- **information move** — 39.5% move on $152k of volume — the market repriced on real money
+- **long-shot premium** — priced 8.5% with $152k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nba-dal-den-2026-11-24-total-232pt5
 
-### AI bubble burst in 2026?
-price **11.2%** · fair value est. **11.2%** · spread 0.1% · 24h 39.8% · $107k · score 1.98
-- **information move** — 39.8% move on $107k of volume — the market repriced on real money
-- **trend divergence** — 24h moved down 39.8% against a up week — something changed
-  https://polymarket.com/event/ai-industry-downturn-by-december-31-2026-857
+### Mavericks vs. Nuggets: O/U 235.5
+price **6.0%** · fair value est. **6.0%** · spread 2.0% · 24h 37.0% · $76k · score 1.51
+- **long-shot premium** — priced 6.0% with $76k behind it — historically this band resolves less often than its price implies
+  https://polymarket.com/event/nba-dal-den-2026-11-24-total-235pt5
 
-### Ducks vs. Kraken
-price **20.5%** · fair value est. **20.5%** · spread 1.0% · 24h 29.0% · $313k · score 1.45
-- **information move** — 29.0% move on $313k of volume — the market repriced on real money
-  https://polymarket.com/event/nhl-ana-sea-2026-11-23
+### Will San Jose Earthquakes win on 2026-11-24?
+price **70.5%** · fair value est. **70.5%** · spread 1.0% · 24h 25.0% · $130k · score 1.16
+- **information move** — 25.0% move on $130k of volume — the market repriced on real money
+  https://polymarket.com/event/mls-sje-hou-2026-11-24-sje
 
-### Will the average Ornn B200 rental price in December 2026 be above $9.60?
-price **22.5%** · fair value est. **22.5%** · spread 1.0% · 24h 27.5% · $114k · score 1.26
-- **information move** — 27.5% move on $114k of volume — the market repriced on real money
-  https://polymarket.com/event/b200-average-rental-price-in-december-2026-above-9pt60
+### Spread: Nuggets (-7.5)
+price **33.5%** · fair value est. **33.5%** · spread 1.0% · 24h 19.0% · $134k · score 0.89
+- **information move** — 19.0% move on $134k of volume — the market repriced on real money
+  https://polymarket.com/event/nba-dal-den-2026-11-24-spread-home-7pt5
 
-### Spurs vs. Kings
-price **97.5%** · fair value est. **97.4%** · spread 0.1% · 24h 17.0% · $1.5M · score 1.04
-- **information move** — 17.0% move on $1.5M of volume — the market repriced on real money
-- **asymmetric favourite** — 97.5% — small remaining upside, large downside if the tail lands
-  https://polymarket.com/event/nba-sas-sac-2026-11-23
+### Mavericks vs. Nuggets
+price **42.5%** · fair value est. **42.5%** · spread 1.0% · 24h 16.0% · $1.2M · score 0.88
+- **information move** — 16.0% move on $1.2M of volume — the market repriced on real money
+  https://polymarket.com/event/nba-dal-den-2026-11-24
 
-### Jazz vs. Lakers
-price **27.5%** · fair value est. **27.5%** · spread 1.0% · 24h 14.0% · $1.3M · score 0.78
-- **information move** — 14.0% move on $1.3M of volume — the market repriced on real money
-  https://polymarket.com/event/nba-uta-lal-2026-11-23
+### Baylor Bears vs. Alabama Crimson Tide
+price **68.0%** · fair value est. **68.0%** · spread 2.0% · 24h 21.0% · $107k · score 0.88
+- **information move** — 21.0% move on $107k of volume — the market repriced on real money
+  https://polymarket.com/event/cbb-bayl-ala-2026-11-24
 
-### Spurs vs. Kings: O/U 224.5
-price **32.0%** · fair value est. **32.0%** · spread 2.0% · 24h 17.5% · $196k · score 0.77
-- **information move** — 17.5% move on $196k of volume — the market repriced on real money
-  https://polymarket.com/event/nba-sas-sac-2026-11-23-total-224pt5
+### Will AI solve P versus NP in 2026?
+price **6.7%** · fair value est. **6.7%** · spread 0.8% · 24h 11.5% · $73k · score 0.52
+- **long-shot premium** — priced 6.7% with $73k behind it — historically this band resolves less often than its price implies
+- **trend divergence** — 24h moved down 11.5% against a up week — something changed
+  https://polymarket.com/event/will-ai-solve-p-versus-np-in-2026
 
-### Will Ulf Kristersson be the next Prime Minister of Sweden?
-price **67.2%** · fair value est. **67.2%** · spread 1.6% · 24h 15.6% · $101k · score 0.67
-- **information move** — 15.6% move on $101k of volume — the market repriced on real money
-  https://polymarket.com/event/will-ulf-kristersson-be-the-next-prime-minister-of-sweden
+### Will the average Ornn H100 rental price in January 2027 be above $2.70?
+price **72.5%** · fair value est. **72.5%** · spread 1.0% · 24h 10.0% · $196k · score 0.48
+- **information move** — 10.0% move on $196k of volume — the market repriced on real money
+  https://polymarket.com/event/h100-average-rental-price-in-january-2027-above-2pt70
 
 ## 📊 Crowd quality snapshot
 
-- **0–10%** band: 17 markets, $4.0M traded
-- **10–25%** band: 17 markets, $2.2M traded
-- **25–45%** band: 11 markets, $2.4M traded
-- **45–55%** band: 2 markets, $171k traded
-- **55–75%** band: 14 markets, $3.2M traded
-- **75–90%** band: 7 markets, $1.3M traded
-- **90–100%** band: 4 markets, $2.9M traded
+- **0–10%** band: 19 markets, $2.8M traded
+- **10–25%** band: 9 markets, $886k traded
+- **25–45%** band: 13 markets, $2.5M traded
+- **45–55%** band: 10 markets, $1.3M traded
+- **55–75%** band: 10 markets, $1.3M traded
+- **75–90%** band: 2 markets, $236k traded
+- **90–100%** band: 4 markets, $1.0M traded
 
 <!-- Gan: signals above, voice below. -->
 
