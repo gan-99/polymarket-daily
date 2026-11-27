@@ -1,354 +1,293 @@
 [
   {
-    "q": "Utah vs. Wild",
-    "score": 2.323302505252317,
+    "q": "Spread: Texas Tech (-14.5)",
+    "score": 1.8092844186168,
     "tags": [
-      "information move"
+      "asymmetric favourite"
     ],
-    "price": 0.875,
-    "fair": 0.875,
-    "vol24": 477730.5259499998
+    "price": 0.935,
+    "fair": 0.935,
+    "vol24": 71477.874987
   },
   {
-    "q": "Suns vs. Rockets: O/U 223.5",
-    "score": 1.4302127010336574,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.795,
-    "fair": 0.795,
-    "vol24": 415615.47446399997
-  },
-  {
-    "q": "Packers vs. Rams",
-    "score": 0.743001855897113,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.325,
-    "fair": 0.325,
-    "vol24": 6469195.541880999
-  },
-  {
-    "q": "Will Bitcoin dip to $55,000 in November?",
-    "score": 0.7297716439048254,
+    "q": "Chiefs vs. Bills: O/U 44.5",
+    "score": 1.2266861661385642,
     "tags": [
       "information move",
-      "trend divergence"
+      "wide spread"
     ],
-    "price": 0.1425,
-    "fair": 0.14250000000000002,
-    "vol24": 271936.8681919999
+    "price": 0.18,
+    "fair": 0.18,
+    "vol24": 171339.87306999997
   },
   {
-    "q": "Suns vs. Rockets",
-    "score": 0.7168577763624431,
+    "q": "Will CF Cruz Azul win on 2026-11-26?",
+    "score": 1.1382164141170454,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.685,
+    "fair": 0.685,
+    "vol24": 164748.92720399998
+  },
+  {
+    "q": "Chiefs vs. Bills: O/U 50.5",
+    "score": 0.9510405768763849,
+    "tags": [
+      "wide spread",
+      "long-shot premium"
+    ],
+    "price": 0.081,
+    "fair": 0.081,
+    "vol24": 65730.167078
+  },
+  {
+    "q": "Chiefs vs. Bills: O/U 38.5",
+    "score": 0.8747762771332901,
+    "tags": [
+      "information move",
+      "wide spread",
+      "genuine disagreement"
+    ],
+    "price": 0.47,
+    "fair": 0.47,
+    "vol24": 308170.397001
+  },
+  {
+    "q": "Will the price of Bitcoin be between $60,000 and $62,000 on November 27?",
+    "score": 0.8671850186081986,
+    "tags": [
+      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.54,
+    "fair": 0.54,
+    "vol24": 2026748.783663
+  },
+  {
+    "q": "Will it be confirmed that a software or configuration error caused the FAA's nationwide ground stop on November 13?",
+    "score": 0.7703928125524666,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.246,
+    "fair": 0.246,
+    "vol24": 209540.448806
+  },
+  {
+    "q": "Chiefs vs. Bills: O/U 48.5",
+    "score": 0.736682275990815,
+    "tags": [
+      "wide spread"
+    ],
+    "price": 0.14,
+    "fair": 0.14,
+    "vol24": 66361.135345
+  },
+  {
+    "q": "Will Magdalena Andersson be the next Prime Minister of Sweden?",
+    "score": 0.5341404058140384,
     "tags": [
       "information move",
       "long-shot premium"
     ],
-    "price": 0.085,
-    "fair": 0.08499999999999999,
-    "vol24": 428995.70561899996
+    "price": 0.1,
+    "fair": 0.1,
+    "vol24": 134197.57239000002
   },
   {
-    "q": "Packers vs. Rams: O/U 42.5",
-    "score": 0.6586738647820768,
+    "q": "Will the average Ornn B200 rental price in March 2027 be above $8.00?",
+    "score": 0.4503233711423491,
     "tags": [
-      "information move",
-      "wide spread"
+      "information move"
     ],
-    "price": 0.8,
-    "fair": 0.8,
-    "vol24": 146577.24843500002
+    "price": 0.715,
+    "fair": 0.715,
+    "vol24": 319117.743978
   },
   {
-    "q": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-    "score": 0.653541505134291,
+    "q": "Will Benjamin Netanyahu be the next Prime Minister of Israel?",
+    "score": 0.41910423978976336,
     "tags": [
-      "information move",
-      "genuine disagreement",
-      "trend divergence"
+      "information move"
     ],
-    "price": 0.475,
-    "fair": 0.475,
-    "vol24": 136447.56382599997
+    "price": 0.117,
+    "fair": 0.11699999999999999,
+    "vol24": 257761.24080899995
   },
   {
     "q": "Will Puma Shen win the next Taipei Mayor election?",
-    "score": 0.5690861434726606,
+    "score": 0.41595846212884735,
     "tags": [
       "information move",
-      "genuine disagreement"
+      "trend divergence"
     ],
-    "price": 0.472,
-    "fair": 0.472,
-    "vol24": 284992.47944399994
+    "price": 0.3815,
+    "fair": 0.3815,
+    "vol24": 311737.907627
+  },
+  {
+    "q": "Will Gadi Eizenkot be the next Prime Minister of Israel?",
+    "score": 0.41521374229768115,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.81,
+    "fair": 0.81,
+    "vol24": 188649.06577499997
   },
   {
     "q": "Will Chiang Wan-an win the next Taipei Mayor election?",
-    "score": 0.5509800570899236,
+    "score": 0.4110303419274099,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.625,
+    "fair": 0.625,
+    "vol24": 448400.64947
+  },
+  {
+    "q": "Will AI solve the Riemann Hypothesis in 2026?",
+    "score": 0.37030760113858685,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.675,
+    "fair": 0.675,
+    "vol24": 61973.925694
+  },
+  {
+    "q": "Will the average Ornn B200 rental price in January 2027 be above $9.50?",
+    "score": 0.30965460090612207,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.485,
+    "fair": 0.485,
+    "vol24": 73450.534191
+  },
+  {
+    "q": "Spread: Bills (-4.5)",
+    "score": 0.28627519508988086,
+    "tags": [
+      "wide spread"
+    ],
+    "price": 0.31,
+    "fair": 0.31000000000000005,
+    "vol24": 66293.419168
+  },
+  {
+    "q": "Will the average Ornn B300 rental price in December 2026 be above $11.00?",
+    "score": 0.27591744759850084,
     "tags": [
       "information move",
       "genuine disagreement"
     ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 323444.09603399993
+    "price": 0.555,
+    "fair": 0.555,
+    "vol24": 114414.941674
   },
   {
-    "q": "Spread: Packers (-3.5)",
-    "score": 0.48427570897834304,
+    "q": "Will the average Ornn H100 rental price in January 2027 be above $3.00?",
+    "score": 0.2712553219776254,
+    "tags": [
+      "genuine disagreement"
+    ],
+    "price": 0.545,
+    "fair": 0.545,
+    "vol24": 93974.411538
+  },
+  {
+    "q": "Chiefs vs. Bills: O/U 46.5",
+    "score": 0.2636203764260041,
     "tags": [
       "information move",
       "wide spread"
     ],
-    "price": 0.155,
-    "fair": 0.155,
-    "vol24": 139773.970057
+    "price": 0.27,
+    "fair": 0.27,
+    "vol24": 248324.69355100003
   },
   {
-    "q": "Packers vs. Rams: O/U 46.5",
-    "score": 0.4449610510608905,
+    "q": "Will Lee Shu-chuan win the next New Taipei Mayor election?",
+    "score": 0.23904353505755774,
+    "tags": [
+      "information move",
+      "trend divergence"
+    ],
+    "price": 0.39,
+    "fair": 0.39,
+    "vol24": 164245.19237400003
+  },
+  {
+    "q": "76ers vs. Pacers",
+    "score": 0.2350467586237848,
+    "tags": [
+      "information move"
+    ],
+    "price": 0.585,
+    "fair": 0.585,
+    "vol24": 148260.60243100004
+  },
+  {
+    "q": "Will Lai Jui-lung win the next Kaohsiung Mayor election?",
+    "score": 0.21839127212377735,
+    "tags": [
+      "trend divergence"
+    ],
+    "price": 0.815,
+    "fair": 0.815,
+    "vol24": 63767.762146999994
+  },
+  {
+    "q": "Spread: Bills (-3.5)",
+    "score": 0.19460842536900305,
     "tags": [
       "information move",
       "wide spread"
     ],
-    "price": 0.62,
-    "fair": 0.6200000000000001,
-    "vol24": 104729.55297
+    "price": 0.37,
+    "fair": 0.385,
+    "vol24": 488149.762839
   },
   {
-    "q": "Spread: Rams (-2.5)",
-    "score": 0.41674931910302165,
+    "q": "Will Su Chiao-hui win the next New Taipei Mayor election?",
+    "score": 0.13913671811177478,
     "tags": [
-      "information move",
-      "wide spread"
+      "trend divergence"
     ],
-    "price": 0.64,
-    "fair": 0.64,
-    "vol24": 360293.4630809999
+    "price": 0.625,
+    "fair": 0.625,
+    "vol24": 126379.38210500001
   },
   {
-    "q": "Will the average Ornn B200 rental price in June 2027 be above $8.00?",
-    "score": 0.37813312167063834,
+    "q": "Spread: Broncos (-4.5)",
+    "score": 0.1219743033802806,
     "tags": [
-      "information move",
+      "genuine disagreement"
+    ],
+    "price": 0.505,
+    "fair": 0.505,
+    "vol24": 232738.09901299994
+  },
+  {
+    "q": "Will Alberto N\u00fa\u00f1ez Feij\u00f3o be the next Prime Minister of Spain?",
+    "score": 0.09438103616905757,
+    "tags": [
+      "asymmetric favourite"
+    ],
+    "price": 0.905,
+    "fair": 0.905,
+    "vol24": 155222.32756799998
+  },
+  {
+    "q": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+    "score": 0.0871598778364804,
+    "tags": [
       "genuine disagreement"
     ],
     "price": 0.455,
     "fair": 0.455,
-    "vol24": 158244.15532599998
-  },
-  {
-    "q": "Packers vs. Rams: O/U 44.5",
-    "score": 0.37503092222955664,
-    "tags": [
-      "information move",
-      "wide spread"
-    ],
-    "price": 0.645,
-    "fair": 0.645,
-    "vol24": 246075.14074
-  },
-  {
-    "q": "Spread: Rams (-1.5)",
-    "score": 0.35378894885739504,
-    "tags": [
-      "information move",
-      "wide spread"
-    ],
-    "price": 0.645,
-    "fair": 0.645,
-    "vol24": 148169.436479
-  },
-  {
-    "q": "Will the average Ornn H100 rental price in January 2027 be above $2.80?",
-    "score": 0.3266770308342431,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.615,
-    "fair": 0.615,
-    "vol24": 135985.626096
-  },
-  {
-    "q": "Will Bitcoin dip to $52,500 in November?",
-    "score": 0.31378612330300615,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.045,
-    "fair": 0.045,
-    "vol24": 85294.239848
-  },
-  {
-    "q": "Will AI solve P versus NP in 2026?",
-    "score": 0.2694983662738383,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.1205,
-    "fair": 0.1205,
-    "vol24": 109802.855961
-  },
-  {
-    "q": "Will Bitcoin dip to $50,000 by December 31, 2026?",
-    "score": 0.25389459543164217,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.2685,
-    "fair": 0.2685,
-    "vol24": 107366.883213
-  },
-  {
-    "q": "Will CF Monterrey win on 2026-11-25?",
-    "score": 0.24449802942909046,
-    "tags": [
-      "information move",
-      "genuine disagreement"
-    ],
-    "price": 0.465,
-    "fair": 0.46499999999999997,
-    "vol24": 239306.68604700002
-  },
-  {
-    "q": "Spread: Rams (-3.5)",
-    "score": 0.24106942600978068,
-    "tags": [
-      "information move",
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.48,
-    "fair": 0.48,
-    "vol24": 155690.377168
-  },
-  {
-    "q": "Will Bitcoin dip to $45,000 by December 31, 2026?",
-    "score": 0.20487476642388852,
-    "tags": [
-      "information move",
-      "trend divergence"
-    ],
-    "price": 0.1135,
-    "fair": 0.1135,
-    "vol24": 100635.59271500002
-  },
-  {
-    "q": "Will the average Ornn H100 rental price in February 2027 be above $3.20?",
-    "score": 0.1864124721098063,
-    "tags": [
-      "information move"
-    ],
-    "price": 0.385,
-    "fair": 0.385,
-    "vol24": 133764.15065599998
-  },
-  {
-    "q": "Will the average Ornn B300 rental price in January 2027 be above $14.50?",
-    "score": 0.18228474679476264,
-    "tags": [
-      "information move",
-      "long-shot premium"
-    ],
-    "price": 0.075,
-    "fair": 0.07500000000000001,
-    "vol24": 102997.41388000001
-  },
-  {
-    "q": "Spread: Warriors (-7.5)",
-    "score": 0.17657640376341502,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.49,
-    "fair": 0.49,
-    "vol24": 87929.45195
-  },
-  {
-    "q": "Will Bitcoin dip to $50,000 in November?",
-    "score": 0.16302437037488768,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0245,
-    "fair": 0.0245,
-    "vol24": 97617.86636799999
-  },
-  {
-    "q": "Spread: Rams (-4.5)",
-    "score": 0.15569615342088816,
-    "tags": [
-      "wide spread",
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 85186.954775
-  },
-  {
-    "q": "Sharks vs. Ducks",
-    "score": 0.14407078306087343,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.445,
-    "fair": 0.445,
-    "vol24": 191687.19983600004
-  },
-  {
-    "q": "Spread: Warriors (-8.5)",
-    "score": 0.13876893335066967,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.45,
-    "fair": 0.44999999999999996,
-    "vol24": 71929.431781
-  },
-  {
-    "q": "Will the Fed increase interest rates by 25 bps after the January 2027 meeting?",
-    "score": 0.13358617866339745,
-    "tags": [
-      "genuine disagreement",
-      "trend divergence"
-    ],
-    "price": 0.545,
-    "fair": 0.545,
-    "vol24": 79095.976776
-  },
-  {
-    "q": "Will Bitcoin reach $67,500 in November?",
-    "score": 0.1220736047646717,
-    "tags": [
-      "long-shot premium"
-    ],
-    "price": 0.0905,
-    "fair": 0.0905,
-    "vol24": 68401.533698
-  },
-  {
-    "q": "Will the average Ornn H100 rental price in January 2027 be above $2.90?",
-    "score": 0.09132959361273613,
-    "tags": [
-      "genuine disagreement"
-    ],
-    "price": 0.535,
-    "fair": 0.535,
-    "vol24": 105468.68494399998
-  },
-  {
-    "q": "Israel x Iran ceasefire continues through November 30?",
-    "score": 0.09086914901361488,
-    "tags": [
-      "asymmetric favourite"
-    ],
-    "price": 0.945,
-    "fair": 0.945,
-    "vol24": 99494.44430799999
+    "vol24": 62199.41481399998
   }
 ]
